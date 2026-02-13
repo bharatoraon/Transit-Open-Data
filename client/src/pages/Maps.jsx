@@ -744,51 +744,7 @@ const Maps = () => {
               </div>
             </div>
 
-            {/* Suburban Rail Section */}
-            <div>
-              <div className="flex items-center gap-2 mb-4">
-                <div className="w-2 h-2 rounded-full bg-[#009933]"></div>
-                <h3 className="font-bold text-xs text-zinc-900 uppercase tracking-widest">Suburban Rail</h3>
-              </div>
-              <div className="ml-4 space-y-3">
-                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
-                  <span className="group-hover:text-[#009933] font-medium transition-colors">Rail Lines</span>
-                  <div className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={layerVisibility.suburban_lines_layer}
-                      onChange={() => toggleLayer("suburban_lines_layer")}
-                      className="sr-only peer"
-                    />
-                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
-                  </div>
-                </label>
-                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
-                  <span className="group-hover:text-[#009933] font-medium transition-colors">Stations</span>
-                  <div className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={layerVisibility.suburban_stops_layer}
-                      onChange={() => toggleLayer("suburban_stops_layer")}
-                      className="sr-only peer"
-                    />
-                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
-                  </div>
-                </label>
-                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
-                  <span className="group-hover:text-[#009933] font-medium transition-colors">Labels</span>
-                  <div className="relative inline-flex items-center cursor-pointer">
-                    <input
-                      type="checkbox"
-                      checked={layerVisibility.suburban_stops_labels}
-                      onChange={() => toggleLayer("suburban_stops_labels")}
-                      className="sr-only peer"
-                    />
-                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
-                  </div>
-                </label>
-              </div>
-            </div>
+
 
             {/* MTC Bus Section */}
             <div>
@@ -843,6 +799,51 @@ const Maps = () => {
                       className="sr-only peer"
                     />
                     <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#FFA726]"></div>
+                  </div>
+                </label>
+              </div>
+            </div>
+            {/* Suburban Rail Section */}
+            <div>
+              <div className="flex items-center gap-2 mb-4">
+                <div className="w-2 h-2 rounded-full bg-[#009933]"></div>
+                <h3 className="font-bold text-xs text-zinc-900 uppercase tracking-widest">Suburban Rail</h3>
+              </div>
+              <div className="ml-4 space-y-3">
+                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
+                  <span className="group-hover:text-[#009933] font-medium transition-colors">Rail Lines</span>
+                  <div className="relative inline-flex items-center cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={layerVisibility.suburban_lines_layer}
+                      onChange={() => toggleLayer("suburban_lines_layer")}
+                      className="sr-only peer"
+                    />
+                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
+                  </div>
+                </label>
+                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
+                  <span className="group-hover:text-[#009933] font-medium transition-colors">Stations</span>
+                  <div className="relative inline-flex items-center cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={layerVisibility.suburban_stops_layer}
+                      onChange={() => toggleLayer("suburban_stops_layer")}
+                      className="sr-only peer"
+                    />
+                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
+                  </div>
+                </label>
+                <label className="flex items-center justify-between text-sm text-zinc-600 cursor-pointer hover:bg-zinc-50 p-2 -ml-2 rounded transition-colors group">
+                  <span className="group-hover:text-[#009933] font-medium transition-colors">Labels</span>
+                  <div className="relative inline-flex items-center cursor-pointer">
+                    <input
+                      type="checkbox"
+                      checked={layerVisibility.suburban_stops_labels}
+                      onChange={() => toggleLayer("suburban_stops_labels")}
+                      className="sr-only peer"
+                    />
+                    <div className="w-9 h-5 bg-zinc-300 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full rtl:peer-checked:after:-translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:start-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-4 after:w-4 after:transition-all peer-checked:bg-[#009933]"></div>
                   </div>
                 </label>
               </div>
