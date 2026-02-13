@@ -1,7 +1,11 @@
 import React, { useEffect, useRef, useState } from "react";
 import maplibregl from "maplibre-gl";
 import "maplibre-gl/dist/maplibre-gl.css";
+
+
 import { Layers, X, BarChart3, Clock, ArrowRight, ChevronLeft, ChevronRight } from "lucide-react";
+
+const API_URL = import.meta.env.VITE_API_URL || "http://localhost:3000";
 
 const Maps = () => {
   const mapContainer = useRef(null);
@@ -111,12 +115,12 @@ const Maps = () => {
       try {
         map.current.addSource("cmrl_lines", {
           type: "geojson",
-          data: "http://localhost:3000/api/routes?system=CMRL"
+          data: `${API_URL}/api/routes?system=CMRL`
         });
 
         map.current.addSource("cmrl_stations", {
           type: "geojson",
-          data: "http://localhost:3000/api/stations?system=CMRL"
+          data: `${API_URL}/api/stations?system=CMRL`
         });
 
         // Add MTC Bus data sources
@@ -127,7 +131,7 @@ const Maps = () => {
 
         map.current.addSource("mtc_stops", {
           type: "geojson",
-          data: "http://localhost:3000/api/stations?system=MTC"
+          data: `${API_URL}/api/stations?system=MTC`
         });
 
         map.current.addSource("mtc_terminals", {
