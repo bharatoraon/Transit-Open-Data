@@ -226,7 +226,7 @@ const Maps = () => {
             type: "symbol",
             source: "suburban_stops",
             layout: {
-              "text-field": ["get", "STATION NA"],
+              "text-field": ["get", "STATION NAME"],
               "text-variable-anchor": ["top", "bottom", "left", "right"],
               "text-radial-offset": 0.5,
               "text-justify": "auto",
@@ -456,7 +456,7 @@ const Maps = () => {
         map.current.on("click", "suburban_stops_layer", (e) => {
           const feature = e.features[0];
           const coordinates = feature.geometry.coordinates.slice();
-          const { "STATION NA": stationName, "PT TYPE": type } = feature.properties;
+          const { "STATION NAME": stationName, "STATION CODE": stationCode } = feature.properties;
 
           while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
             coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
@@ -475,8 +475,8 @@ const Maps = () => {
               
               <div class="grid grid-cols-2 gap-x-4 gap-y-2 border-t border-zinc-100 pt-2.5">
                  <div>
-                    <div class="text-[9px] font-bold text-zinc-400 uppercase tracking-wider mb-0.5">Type</div>
-                    <div class="text-xs font-bold text-zinc-700 font-mono">${type || 'Station'}</div>
+                    <div class="text-[9px] font-bold text-zinc-400 uppercase tracking-wider mb-0.5">Code</div>
+                    <div class="text-xs font-bold text-zinc-700 font-mono">${stationCode || 'N/A'}</div>
                  </div>
               </div>
             </div>
