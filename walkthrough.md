@@ -61,3 +61,13 @@ The code has been pushed to the repository:
 - **Repo**: [bharatoraon/Transit-Open-Data](https://github.com/bharatoraon/Transit-Open-Data)
 - **Branch**: `main`
 
+## Vercel Deployment Instructions
+
+1.  **Import Project**: Select the `Transit-Open-Data` repo in Vercel.
+2.  **Environment Variables**:
+    - Add `VITE_API_URL` to the **Environment Variables** section.
+    - Set the value to your **deployed backend URL** (e.g., `https://your-app.vercel.app` if serving API from same domain, or the full URL of your separate backend).
+    - **Important**: For the frontend build to pick this up, the variable name must start with `VITE_`.
+3.  **Build Command**: `npm run build`
+4.  **Output Directory**: `dist` (default for Vite)
+
