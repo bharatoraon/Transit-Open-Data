@@ -1,0 +1,25 @@
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+out*
+*.pid
+*.gz
+
+.DS_Store
+
+pids
+logs
+results
+
+build
+dist
+node_modules
+components
+npm-debug.log
+
+# testing
+tmp
+coverage

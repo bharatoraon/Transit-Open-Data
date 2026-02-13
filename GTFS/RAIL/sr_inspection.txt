@@ -1,0 +1,34 @@
+--- Inspecting Suburban entry exit.geojson ---
+CRS: EPSG:4326
+Columns: ['fid', 'Station_Name', 'Entry_Exit_Name', 'Lift', 'Escalator', 'Subway', 'Ticket Counter', 'geometry']
+   fid Station_Name  ... Ticket Counter                   geometry
+0    1   PALLAVARAM  ...           None  POINT (80.15212 12.96704)
+1    2   PALLAVARAM  ...           None  POINT (80.15231 12.96731)
+
+[2 rows x 8 columns]
+------------------------------
+--- Inspecting Suburban stations with Station_Code.geojson ---
+CRS: EPSG:4326
+Columns: ['S.NO', 'STATION CODE', 'STATION NAME', 'LATITUDE', 'LONGITUDE', 'geometry']
+   S.NO STATION CODE  ...  LONGITUDE                   geometry
+0     1          MSB  ...  80.292066  POINT (80.29207 13.09169)
+1     2          TBM  ...  80.117431  POINT (80.11743 12.92566)
+
+[2 rows x 6 columns]
+------------------------------
+--- Inspecting suburban stations.geojson ---
+CRS: EPSG:4326
+Columns: ['fid', 'STATION NA', 'PT TYPE', 'Latitude', 'Longitude', 'Daily Ride', 'Code', 'geometry']
+   fid         STATION NA  ... Code                   geometry
+0    1  CHENNAI BEACH JN.  ...  MSB  POINT (80.29207 13.09169)
+1    2           TAMBARAM  ...  TBM  POINT (80.11743 12.92566)
+
+[2 rows x 8 columns]
+------------------------------
+--- Inspecting suburban_corridor.geojson ---
+CRS: EPSG:4326
+Columns: ['name', 'geometry']
+   name                                           geometry
+0  None  MULTILINESTRING ((80.0205 13.12399, 80.02713 1...
+1  MRTS  MULTILINESTRING ((80.26741 13.03526, 80.26676 ...
+------------------------------

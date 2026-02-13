@@ -1,0 +1,1747 @@
+route_id,route_short_name,route_long_name,route_desc,route_type
+yxjeqyBB, 570, 570, route travels from Kelambakkam Bus Terminal to CMBT Koyembedu Bus Depot, 3
+DSKNDDIU, 114S, 114S, route travels from Seemapuram to Koyambedu Market, 3
+ttgthNCD, 37, 37, route travels from Mint Bus Terminal Or Vallalar Nagar to Poonamallee Terminus, 3
+NIPOAfQi, 50M, 50M, route travels from Thiruverkadu Terminus to Broadway, 3
+sHyFNCQB, 56T, 56T, route travels from Athipattu Railway Station to Broadway, 3
+EAmBiqQk, 99X, 99X, route travels from Kilambakkam Bus Terminus to Adyar Old Depot, 3
+WvIXAwhH, 7M, 7M, route travels from J J Nagar West Terminus to Broadway, 3
+ujwhiVYx, T29C, T29C, route travels from Thiruvanmiyur Depot to Perambur Bus Terminus, 3
+knBrchuM, 51T, 51T, route travels from Madurapakkam to Thiyagaraya Nagar Bus Depot, 3
+SRIdKEam, S42, S42, route travels from Maduravoyal Yerikarai to Korattur Bus Terminus, 3
+DEqJBNdR, 583A, 583A, route travels from Thiruvallur Terminal to Sriperumbudur Bus Terminal, 3
+FuiNPJgX, 142B, 142B, route travels from Broadway to Peravallur Kumaran Nagar, 3
+TcAjIBNv, 65D, 65D, route travels from Melakondaiyur to Avadi Terminal, 3
+TdSEzMYd, 72M, 72M, route travels from Thiruverkadu Terminus to Thiyagaraya Nagar Bus Depot, 3
+qKuJqSNy, 121D, 121D, route travels from Manali New Town Bus Stand to CMBT Koyembedu Bus Depot, 3
+dbcQKxae, M18C, M18C, route travels from Kilkattalai to Thiyagaraya Nagar Bus Depot, 3
+qRLNFQvE, S31, S31, route travels from Vadapalani Bus Stand to CMBT Koyembedu Bus Depot, 3
+UtlEIsZF, 78, 78, route travels from CMBT Koyembedu Bus Depot to Thiruvanmiyur Depot, 3
+shUBotlY, 121MET, 121MET, route travels from CMBT Koyembedu Bus Depot to Manali Bus Terminal, 3
+DVZfWDEa, 188ET, 188ET, route travels from Broadway to Kundrathur Bus Depot, 3
+lOIMjTrd, 28, 28, route travels from Thiruvottiyur Bus Stand to Egmore North Railway Station, 3
+RnrzrCkA, 593CT, 593CT, route travels from Redhills Bus Terminus to Chennang Karanai, 3
+aqhekrvb, 5B, 5B, route travels from Thiyagaraya Nagar Bus Depot to Mylapore Tank, 3
+kKWlPFYA, M18, M18, route travels from Kilambakkam Bus Terminus to Tambaram West Bus Stand, 3
+ncVZAXuS, D70, D70, route travels from Ambattur Industrial Estate to Velachery, 3
+pJDiRIrv, 19A, 19A, route travels from Semmancheri Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+jouxVtZc, 20A, 20A, route travels from Broadway to J J Nagar East Terminus, 3
+oxgeMycb, 55G, 55G, route travels from Vengambakkam Village to Tambaram West Bus Stand, 3
+LGxAcQwG, S36, S36, route travels from AG DMS Metro Station to Nungambakkam Railway Station, 3
+pWepmxeL, 142B, 142B, route travels from Peravallur Kumaran Nagar to Broadway, 3
+BFxRgrXU, 523A, 523A, route travels from Thiruvanmiyur Depot to Thiruvadaisoolam Devi Karumariamman Koil, 3
+MmyYSiVW, S5, S5, route travels from Secretariat to Fort Railway Station, 3
+gPwRmVGG, 65H, 65H, route travels from Redhills Bus Terminus to Avadi Terminal, 3
+VeDBxOOg, 147V, 147V, route travels from Thirumullaivoyal Venkatachalam Nagar to Thiyagaraya Nagar Bus Depot, 3
+WtfjSnoy, 154B, 154B, route travels from Nanganallur Bus Terminus to Poonamallee, 3
+pJUwepTi, 121D, 121D, route travels from CMBT Koyembedu Bus Depot to Manali New Town Bus Stand, 3
+lAUOuEmq, 71D, 71D, route travels from Broadway to Pudur, 3
+PmSlLEUv, S35, S35, route travels from Udhayam Theatre Or Ashok Pillar to Defence Colony, 3
+NamZccnc, 46G, 46G, route travels from Mullai Nagar Bus Stand to CMBT Koyembedu Bus Depot, 3
+CHswzpil, 70C, 70C, route travels from Tambaram West Bus Stand to Koyambedu Market Or Police Station, 3
+HFZvEuLO, 8ACT, 8ACT, route travels from Thangal Toll Gate to Mint Bus Terminal Or Vallalar Nagar, 3
+GpHWezHK, 18D, 18D, route travels from Broadway to Kilkattalai, 3
+KylmBVyW, 221CT, 221CT, route travels from Perumbakkam to Broadway, 3
+JxAZGcUj, 523, 523, route travels from Thiruvanmiyur Depot to Thandarai Or Perunthandalam, 3
+FmEzWnYl, 49F, 49F, route travels from Mandaveli Bus Terminus to Poonamallee Terminus, 3
+PsdnwXhe, S76, S76, route travels from Thiyagaraya Nagar Bus Depot to ST Thomas Mount MRTS, 3
+bCXzaQBK, 109, 109, route travels from Broadway to Kovalam Bus Stand, 3
+aPUyJDbS, 109C, 109C, route travels from Kovalam Bus Stand to Thiruvanmiyur Depot, 3
+FNvyAxzW, 20P, 20P, route travels from Poonamallee Terminus to Ambattur Industrial Estate, 3
+nfFIKGjN, 57E, 57E, route travels from Vichoor to Redhills Bus Terminus, 3
+tuDAIREe, 57C, 57C, route travels from Mint Bus Terminal Or Vallalar Nagar to Arumandai Road Junction, 3
+grzNJTSE, 570C, 570C, route travels from Kannagi Nagar Bus Stand to CMBT Koyembedu Bus Depot, 3
+KusekvAt, M1A, M1A, route travels from Thiruvanmiyur Depot to Nanganallur Bus Terminus, 3
+fwtpCyxk, 40L, 40L, route travels from J J Nagar West Terminus to Anna Square, 3
+DCqokGgM, 7E, 7E, route travels from Broadway to Ambattur Industrial Estate, 3
+ibIAvhrE, 47, 47, route travels from Besant Nagar Terminus to Villivakkam Bus Stand, 3
+YESmuyrH, 515B, 515B, route travels from Tambaram West Bus Stand to Thiruporur Bus Stand, 3
+dtMcAevx, 55G, 55G, route travels from Tambaram West Bus Stand to Vengambakkam Village, 3
+NwBxWXQc, 558L, 558L, route travels from CMBT Koyembedu Bus Depot to Minjur Market, 3
+CTUADXBt, S69 CMRL Feeder Service, S69 CMRL Feeder Service, route travels from Chennai Airport Metro to Kundrathur Bus Depot, 3
+RRHEXwVE, 583C, 583C, route travels from Tambaram Sanatorium Bus Stand to Sriperumbudur Bus Terminal, 3
+XXHyijMU, 4, 4, route travels from Broadway to Ennore Bus Depot, 3
+mFLkeEdy, 48C, 48C, route travels from CMBT Koyembedu Bus Depot to Mint Bus Terminal Or Vallalar Nagar, 3
+NZbCSYly, 66, 66, route travels from Poonamallee Terminus to Tambaram West Bus Stand, 3
+BgveEDYK, 54C, 54C, route travels from Pattabiram Terminal to Poonamallee Terminus, 3
+inSRDopK, 555N, 555N, route travels from Guduvancheri Bus Terminus to Thiruporur Bus Stand, 3
+QTmAafEm, 29CX, 29CX, route travels from Besant Nagar Terminus to Mathur Bus Stand, 3
+FRbtYxiA, 79V, 79V, route travels from Tambaram Sanatorium Bus Stand to Vembakkam, 3
+vgTTfMwJ, 1C, 1C, route travels from Ennore Bus Depot to Thiruvanmiyur Depot, 3
+SfeJHcQs, 99X, 99X, route travels from Adyar Old Depot to Kilambakkam Bus Terminus, 3
+chmZGqpG, S18D, S18D, route travels from Kilkattalai to Saidapet, 3
+zmceyNDf, 52G, 52G, route travels from Cowl Bazar Ration Shop to Broadway, 3
+TRiLnvcP, 19T, 19T, route travels from Kovalam Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+DDMcgSbq, 70A, 70A, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+oXSnLzxt, 31A, 31A, route travels from Agaramthen to Tambaram West Bus Stand, 3
+hwVeIOLL, 95, 95, route travels from Thiruvanmiyur Depot to Tambaram East Bus Stop, 3
+lVSJhYHZ, S145, S145, route travels from CMBT Koyembedu Bus Depot to Ayanavaram Bus Depot, 3
+byzXpKAV, 51, 51, route travels from Velachery to Tambaram West Bus Stand, 3
+KxWGYSBw, 114E, 114E, route travels from New Erumai Vetti Palayam Bus Stand to CMBT Koyembedu Bus Depot, 3
+bcpKZFch, 56P, 56P, route travels from Broadway to Minjur Terminus, 3
+EiUGOKoN, S12, S12, route travels from Velachery Railway Station to Guindy Railway Station, 3
+eryBjzMl, 29AET, 29AET, route travels from Periyar Nagar Bus Terminal to Anna Square, 3
+WOWmmidn, 525, 525, route travels from Sunguvarchatram to Vadapalani Bus Stand, 3
+KhqGrhsK, 37CT, 37CT, route travels from Dasarathapuram to Mint Bus Terminal Or Vallalar Nagar, 3
+TEFIzUqt, 62CT, 62CT, route travels from Redhills Bus Terminus to Avadi Terminal, 3
+jtmGynju, 53E, 53E, route travels from Broadway to Kundrathur Bus Depot, 3
+DicyCnhq, 514, 514, route travels from Periyapalayam Bus stand to CMBT Koyembedu Bus Depot, 3
+MYBvAnVC, 159A, 159A, route travels from Thiruvottiyur Bus Stand to CMBT Koyembedu Bus Depot, 3
+ZoGZBhpb, 71EX, 71EX, route travels from Broadway to Thiruninravur, 3
+lkycnnKe, 188C, 188C, route travels from Kundrathur Bus Depot to Broadway, 3
+hzlXlQzi, 57H, 57H, route travels from New Erumai Vetti Palayam Bus Stand to Broadway, 3
+mCWfzyOA, 47A, 47A, route travels from Thiruvanmiyur Depot to Villivakkam Bus Stand, 3
+BUOsZWxw, C56CET, C56CET, route travels from Broadway to Air Nagar, 3
+AWRANXIl, 65BCT, 65BCT, route travels from Poonamallee Terminus to Avadi Terminal, 3
+AJkzETeB, 73CT, 73CT, route travels from Ayapakkam Tnhb Bus Terminus to Ambattur Industrial Estate, 3
+pksrWgqO, 77T, 77T, route travels from CMBT Koyembedu Bus Depot to Thirumullaivoyal Colony, 3
+JHByrmeE, 111ET, 111ET, route travels from Kilambakkam Bus Terminus to Thiruverkadu Terminus, 3
+prXDwQQU, 547, 547, route travels from Redhills Bus Terminus to Periyapalayam Bus stand, 3
+GSJBPBrj, 570T, 570T, route travels from CMBT Koyembedu Bus Depot to Thalambur, 3
+JNVeTREl, 500W, 500W, route travels from Chengalpattu New Bus Terminal to Saidapet West Bus Stand, 3
+ThPZrpUM, M51R, M51R, route travels from Puzhuthivakkam Bus Termnus to Broadway, 3
+wzmkgqpY, 557C, 557C, route travels from Redhills Bus Terminus to Kallur, 3
+GgbjwjtK, 99A, 99A, route travels from P U Office Sholinganallur to Tambaram West Bus Stand, 3
+kIJxgTuC, 109, 109, route travels from Kovalam Bus Stand to Broadway, 3
+MzZPmsOX, 9MET, 9MET, route travels from Broadway to Ags Colony, 3
+dWzMBMGb, 79V, 79V, route travels from Vembakkam to Tambaram Sanatorium Bus Stand, 3
+DZYEfbLV, 157, 157, route travels from Thiruvottiyur Bus Stand to Redhills Bus Terminus, 3
+VhZihPrv, 595, 595, route travels from Pazhaverkadu to Thangal Toll Gate, 3
+KwaxQGhM, 62, 62, route travels from Poonamallee Terminus to Redhills Bus Terminus, 3
+edwXLHXd, 55C, 55C, route travels from Vengadamangalam  Villege to Tambaram West Bus Stand, 3
+PxtEJovn, 307-SP, 307-SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Kumbakonam Bus Stand, 3
+WFrrVmTz, 111, 111, route travels from Tambaram West Bus Stand to Thiruverkadu Terminus, 3
+mMnViRsa, 570C, 570C, route travels from CMBT Koyembedu Bus Depot to Kannagi Nagar Bus Stand, 3
+SDBIJqiX, M18G, M18G, route travels from Hasthinapuram to Guduvancheri Bus Terminus, 3
+zxDxnZyR, 11H, 11H, route travels from Iyyappanthangal Bus Depot to Broadway, 3
+XCaLbwsQ, 46, 46, route travels from CMBT Koyembedu Bus Depot to Thiruvika Nagar Bus Depot, 3
+fOqkdDjv, 57G, 57G, route travels from Vazhuthalambedu to Moolakadai, 3
+EdncxvOC, 49A, 49A, route travels from Thiyagaraya Nagar Bus Depot to Poonamallee Terminus, 3
+XLblYTTZ, 306SP, 306SP, route travels from Thiruvanamalai Bus Stand to Tambaram West Bus Stand, 3
+qVAavRzX, 154, 154, route travels from Thiyagaraya Nagar Bus Depot to Poonamallee Terminus, 3
+BBEfEmEJ, 154, 154, route travels from Poonamallee Terminus to Thiyagaraya Nagar Bus Depot, 3
+MqpmNrky, 54, 54, route travels from Poonamallee Terminus to Broadway, 3
+IYDwDnSH, 597, 597, route travels from Thiruvallur Terminal to Thiyagaraya Nagar Bus Depot, 3
+IlZysflH, 44C, 44C, route travels from Manali Bus Terminal to Broadway, 3
+tklHKYix, 101X, 101X, route travels from Broadway to Thirumazhisai Bus Stand, 3
+PbmOJEsj, 47D, 47D, route travels from Avadi Terminal to Thiruvanmiyur Depot, 3
+zqWEholY, A45B, A45B, route travels from Trade Centre Nandambakkam to Anna Square, 3
+eUbjSqgN, 33C, 33C, route travels from Broadway to Kaviarasu Kannadasan Nagar Bus Stand, 3
+NPxbbHhZ, 61K, 61K, route travels from Kanniamman Naga to Avadi Terminal, 3
+pWAYimgd, 592, 592, route travels from Uthukkottai to Redhills Bus Terminus, 3
+UEZqgqrH, V51CT, V51CT, route travels from Kilkattalai to Saidapet, 3
+klJplmLO, 40A, 40A, route travels from Anna Square to Pattabiram Terminal, 3
+BtRlyUYD, 310SP, 310SP, route travels from Villuppuram Bus Stand to Tambaram West Bus Stand, 3
+RrXeDesw, 2, 2, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Anna Square, 3
+mhzCPgif, 37G, 37G, route travels from Mint Bus Terminal Or Vallalar Nagar to Iyyappanthangal Bus Depot, 3
+SCfqZCHH, 111, 111, route travels from Thiruverkadu Terminus to Tambaram West Bus Stand, 3
+yrPKUaLB, 29NET, 29NET, route travels from Velachery to Peravallur Kumaran Nagar, 3
+THCchIXe, 56P, 56P, route travels from Minjur Terminus to Broadway, 3
+VqJWdDPE, 147CCT, 147CCT, route travels from Ambattur Industrial Estate to Thiyagaraya Nagar Bus Depot, 3
+xPjGrfvQ, 55X, 55X, route travels from Tambaram West Bus Stand to Mannivakkam Tank, 3
+KoiWLlMV, 70G, 70G, route travels from Vadapalani Bus Stand to Guduvancheri Bus Terminus, 3
+xiDuwvrA, 21G, 21G, route travels from Kilambakkam Bus Terminus to Broadway, 3
+dQqBIqFx, 591, 591, route travels from Poonamallee Terminus to Parambakkam Terminus, 3
+iINbOObT, 16K, 16K, route travels from CMBT Koyembedu Bus Depot to Kundrathur Bus Depot, 3
+KYrmSvlu, 62A, 62A, route travels from Redhills Bus Terminus to Ambattur Industrial Estate, 3
+DjZWFRrp, 38G, 38G, route travels from Broadway to Vazhuthalambedu, 3
+KgJImhQq, S100 CMRL Feeder Service, S100 CMRL Feeder Service, route travels from Tambaram East Bus Stop to Chennai Airport Metro, 3
+VNeHzLxH, 56D, 56D, route travels from Manali Bus Terminal to Broadway, 3
+aDcBnXNN, 512B, 512B, route travels from Kilambakkam Bus Terminus to Thiruporur Bus Stand, 3
+UeBttRmT, 88R, 88R, route travels from Amarambedu to Saidapet, 3
+deeQXXJQ, 70CET, 70CET, route travels from K K Nagar to Kilambakkam Bus Terminus, 3
+DqeNpXbV, 54E, 54E, route travels from Saidapet to Meppur, 3
+ypqdspdI, S100 CMRL Feeder Service, S100 CMRL Feeder Service, route travels from Chennai Airport Metro to Tambaram East Bus Stop, 3
+oYCJrCYM, 588, 588, route travels from Mamallapuram to Thiruvanmiyur Depot, 3
+sZavPTtV, 6DET, 6DET, route travels from Thiruvanmiyur Depot to Thangal Toll Gate, 3
+UazhTwwM, 570V, 570V, route travels from Kelambakkam Bus Terminal to Vadapalani Bus Stand, 3
+YifyqBnB, 202, 202, route travels from Avadi Terminal to Tambaram West Bus Stand, 3
+qJRUXmYC, 121A, 121A, route travels from CMBT Koyembedu Bus Depot to Manali Bus Terminal, 3
+SIpeSpdo, S166, S166, route travels from Mani Medu to Porur Junction, 3
+uTCcMWHn, 29E, 29E, route travels from Thiruverkadu Terminus to Perambur Bus Terminus, 3
+ClPxIbrk, 29CEX, 29CEX, route travels from Besant Nagar Terminus to Srinivasa Nagar, 3
+paoRzSAi, 42, 42, route travels from Periyar Nagar Bus Terminal to Broadway, 3
+JSVJAYcg, 57J, 57J, route travels from Gnayaru to Broadway, 3
+SGKCpsVm, S18D, S18D, route travels from Saidapet to Kilkattalai, 3
+nyamgUiy, 36M, 36M, route travels from Vichoor to Mint Bus Terminal Or Vallalar Nagar, 3
+xymofQzA, 72, 72, route travels from Thiyagaraya Nagar Bus Depot to Thiruverkadu Terminus, 3
+rJnNWmtD, 11GET, 11GET, route travels from Iyyappanthangal Bus Depot to Broadway, 3
+MBwKYBLo, 19B, 19B, route travels from Saidapet to Kelambakkam Bus Terminal, 3
+sedKnUgd, S84 CMRL Feeder Service, S84 CMRL Feeder Service, route travels from Alandur Metro to Porur Junction, 3
+NUcTkQjS, 121H, 121H, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Tambaram West Bus Stand, 3
+gFNBUOnY, 206, 206, route travels from Avadi Terminal to Guduvancheri Bus Terminus, 3
+kRJbrBoT, 104G, 104G, route travels from Mullai Nagar Bus Stand to Kilambakkam Bus Terminus, 3
+rHcEYitS, 77E, 77E, route travels from Kanniamman Naga to CMBT Koyembedu Bus Depot, 3
+YEkJRRMV, 166X, 166X, route travels from Iyyappanthangal Bus Depot to Kilambakkam Bus Terminus, 3
+CHmsScyO, 26M, 26M, route travels from Mugalivakkam to Broadway, 3
+OqpfUOiQ, 19V, 19V, route travels from Vandalur Zoo to Sholinganallur, 3
+QqNvwrov, 5C, 5C, route travels from Taramani Bus Terminus to Broadway, 3
+kDWibqsC, 28B, 28B, route travels from Egmore North Railway Station to Ennore Bus Depot, 3
+xgrLVioG, 591, 591, route travels from Parambakkam Terminus to Poonamallee Terminus, 3
+LlhshYDS, 62B, 62B, route travels from J J Nagar West Terminus to Redhills Bus Terminus, 3
+wKcaLTKf, 3, 3, route travels from Thiruvanmiyur Depot to Thiyagaraya Nagar Bus Depot, 3
+EDFItCqG, 121, 121, route travels from CMBT Koyembedu Bus Depot to Minjur Terminus, 3
+SrzajBML, 88KET, 88KET, route travels from Broadway to Nallur, 3
+ksOMNGtM, 88K, 88K, route travels from Broadway to Kundrathur Bus Depot, 3
+kYjCtLUI, 154, 154, route travels from Poonamallee Terminus to Thiyagaraya Nagar Bus Depot, 3
+tNQNkhvd, 29CET, 29CET, route travels from Periyar Nagar Bus Terminal to Besant Nagar Terminus, 3
+MDnWkwkZ, B19CT, B19CT, route travels from Siruchery I T Park to Sholinganallur, 3
+IaMfhwBN, 99A, 99A, route travels from Tambaram West Bus Stand to P U Office Sholinganallur, 3
+hmRyJKcj, 29AEX, 29AEX, route travels from Anna Square to Peravallur Kumaran Nagar, 3
+JPwiLpta, 29CEX, 29CEX, route travels from Srinivasa Nagar to Besant Nagar Terminus, 3
+ncyGroyJ, 157, 157, route travels from Redhills Bus Terminus to Thiruvottiyur Bus Stand, 3
+BDqqlPeJ, 154E, 154E, route travels from Ekkattuthangal Or Ambal Nagar to Vellavedu, 3
+deDcXTGZ, 66P, 66P, route travels from Kilambakkam Bus Terminus to Poonamallee Terminus, 3
+KtjzncQx, 118, 118, route travels from Tambaram West Bus Stand to Maraimalai Nagar Bus Stand, 3
+XjMivSYk, 71V, 71V, route travels from Broadway to Veppampattu Eswaran Nagar, 3
+iZUINCWb, V51X, V51X, route travels from Kilambakkam Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+MzJerGhf, 118G, 118G, route travels from Tambaram West Bus Stand to Kavanoor, 3
+tTcShjZh, 12E, 12E, route travels from Saligramam Bus Stand to Foreshore Estate Bus Terminus, 3
+IgwUnpsU, 570V, 570V, route travels from Vadapalani Bus Stand to Kelambakkam Bus Terminal, 3
+KRcLUPco, 4M, 4M, route travels from Broadway to Minjur Terminus, 3
+YCUuSnwt, M70, M70, route travels from Thiruvanmiyur Depot to CMBT Koyembedu Bus Depot, 3
+EsSvHdji, G18, G18, route travels from Thiyagaraya Nagar Bus Depot to Guduvancheri Bus Terminus, 3
+KxRmaWqF, 65CCT, 65CCT, route travels from Ambattur Industrial Estate to Pakkam Village, 3
+EsEXeBlc, 72CT, 72CT, route travels from Todd Hunter Nagar to CMBT Koyembedu Bus Depot, 3
+XjTjtvDb, 312SP, 312SP, route travels from Tambaram West Bus Stand to Perambalur Bus Stand, 3
+OjskrVEm, 311SP, 311SP, route travels from Perambalur Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+DLTikKEk, S41, S41, route travels from Avadi Terminal to Dr Ambedkar Statue, 3
+nGjijgPh, 56DET, 56DET, route travels from Broadway to Mathur Bus Stand, 3
+pjtTUeox, 15BET, 15BET, route travels from Odeanmani Theatre to CMBT Koyembedu Bus Depot, 3
+IuGIKXqR, 88CT, 88CT, route travels from Porur to Vadapalani Bus Stand, 3
+JScPKquM, 188ET, 188ET, route travels from Kundrathur Bus Depot to Broadway, 3
+EbXwBqOr, S25A, S25A, route travels from Maduravoyal Yerikarai to Iyyappanthangal Bus Depot, 3
+cTxGbmIV, S55, S55, route travels from Thirumullaivoyal Sidco to Ambattur Railway Station, 3
+ArAJtRpY, 592V, 592V, route travels from Vengal Bazar to Redhills Bus Terminus, 3
+EcoPAhkI, 519T, 519T, route travels from Adyar Old Depot to Koman Nagar Road Junction, 3
+gZmkiCoP, 66P, 66P, route travels from Poonamallee Terminus to Kilambakkam Bus Terminus, 3
+IhfjmIOS, 120, 120, route travels from Broadway to Avadi Terminal, 3
+fgBWHDAl, 55DET, 55DET, route travels from Tambaram West Bus Stand to Kumizhi, 3
+IPupoaTQ, 66, 66, route travels from Poonamallee Terminus to Tambaram West Bus Stand, 3
+wLZkSueU, D70CT, D70CT, route travels from Ambattur Industrial Estate to Velachery, 3
+ZenwaOwH, S22, S22, route travels from Porur Junction to Mangadu, 3
+XuxeriFo, 523, 523, route travels from Thandarai Or Perunthandalam to Thiruvanmiyur Depot, 3
+gNamdqBw, 6DET, 6DET, route travels from Thangal Toll Gate to Thiruvanmiyur Depot, 3
+vVWnaDtl, 114D, 114D, route travels from CMBT Koyembedu Bus Depot to Arani, 3
+mEPkmzXc, 118ET, 118ET, route travels from Kalivanthapattu to Tambaram West Bus Stand, 3
+tdZkBhkl, 121H, 121H, route travels from Tambaram West Bus Stand to Kaviarasu Kannadasan Nagar Bus Stand, 3
+xaEOvRmp, 40N, 40N, route travels from J J Nagar East Terminus to Anna Square, 3
+hzUvMKyT, 5B, 5B, route travels from Mylapore Tank to Thiyagaraya Nagar Bus Depot, 3
+ogmMIPxc, 72M, 72M, route travels from Thiyagaraya Nagar Bus Depot to Thiruverkadu Terminus, 3
+wXvmZtAh, 12M, 12M, route travels from Iyyappanthangal Bus Depot to Mandaveli Bus Terminus, 3
+ribzNiCR, 57CCT, 57CCT, route travels from Gnayaru to Vallalar Nagar Bus Depot, 3
+MFrePhbw, 64KET, 64KET, route travels from Parvathi Nagar Kodungaiyur to Broadway, 3
+mgYJHLEv, 29CCT, 29CCT, route travels from Metrological Department Sterling Road to Perambur Bus Terminus, 3
+DnVtmBgR, 13, 13, route travels from Thiyagaraya Nagar Bus Depot to Broadway, 3
+dNRXMCEx, J51, J51, route travels from Velachery to Tambaram West Bus Stand, 3
+iYRLTxnv, 101, 101, route travels from Thiruvottiyur Bus Stand to Poonamallee Terminus, 3
+rqaLCSMW, 56C, 56C, route travels from Thiruvottiyur Bus Stand to Broadway, 3
+UxVSTvAI, 19, 19, route travels from Thiyagaraya Nagar Bus Depot to Thiruporur Bus Stand, 3
+JwoMLVcO, 154B, 154B, route travels from Nanganallur Bus Terminus to Poonamallee Terminus, 3
+GwYfuoan, 242, 242, route travels from Redhills Bus Terminus to Broadway, 3
+oxyIdiND, 310SP, 310SP, route travels from Tambaram West Bus Stand to Villuppuram Bus Stand, 3
+tUzrDtMb, 55C, 55C, route travels from Tambaram West Bus Stand to Vengadamangalam  Villege, 3
+mNXFFcwg, 65A, 65A, route travels from Muthapudupet to Saidapet, 3
+oQWgqcYX, 120G, 120G, route travels from Broadway to Menambedu, 3
+XnDKsqaL, 18A, 18A, route travels from Broadway to Tambaram West Bus Stand, 3
+knuLgkQY, 583C, 583C, route travels from Sriperumbudur Bus Terminal to Tambaram Sanatorium Bus Stand, 3
+cNUDLUwD, S73, S73, route travels from Thiruverkadu Terminus to Ambattur Industrial Estate, 3
+dQSGeZsr, 111, 111, route travels from Thiruverkadu Terminus to Tambaram West Bus Stand, 3
+LfcEVWlV, S58, S58, route travels from Ambattur Industrial Estate to Thirumullaivoyal Colony, 3
+qHVYYtsT, 104CCT, 104CCT, route travels from Kilambakkam Bus Terminus to CMBT Koyembedu Bus Depot, 3
+CSQTBArh, 38G, 38G, route travels from Vazhuthalambedu to Broadway, 3
+FoPTjGyH, 56P, 56P, route travels from Broadway to Minjur Terminus, 3
+PNnkVgvp, 121M, 121M, route travels from Madhavaram New Bus Depot to CMBT Koyembedu Bus Depot, 3
+armhEyLg, 597, 597, route travels from Thiyagaraya Nagar Bus Depot to Thiruvallur Terminal, 3
+QbpzbyHb, 76B, 76B, route travels from CMBT Koyembedu Bus Depot to Ottiyambakkam, 3
+CvnaWPoy, 515K, 515K, route travels from Kovalam Bus Stand to Kilambakkam Bus Terminus, 3
+enwSzJzY, 47DCT, 47DCT, route travels from Thiyagaraya Nagar Bus Depot to Korattur Bus Terminus, 3
+OdPOMSsY, 51F, 51F, route travels from Thiyagaraya Nagar Bus Depot to Tambaram West Bus Stand, 3
+WBjgBxKm, S167, S167, route travels from Pattur to Pallavaram, 3
+spmCOcWV, 61C, 61C, route travels from Ella Amman Nagar to Avadi Terminal, 3
+hNssgPFj, 70E, 70E, route travels from Mullai Nagar Bus Stand to Kilambakkam Bus Terminus, 3
+pRkwFJAe, 37E, 37E, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Iyyappanthangal Bus Depot, 3
+SKAIYxxS, 26, 26, route travels from Iyyappanthangal Bus Depot to Broadway, 3
+hjFyPXBM, 57CCT, 57CCT, route travels from Vallalar Nagar Bus Depot to Gnayaru, 3
+owHGmaGg, 221, 221, route travels from Thiruporur Bus Stand to MGR Central Station, 3
+CJOSIxzA, 99A, 99A, route travels from Tambaram West Bus Stand to P U Office Sholinganallur, 3
+ZzwxYccn, 36V, 36V, route travels from Thiruvottiyur Bus Stand to Redhills Bus Terminus, 3
+EDxCitOu, 105A, 105A, route travels from Siruchery I T Park to Tambaram West Bus Stand, 3
+AGUtrjUg, 21, 21, route travels from Mandaveli Bus Terminus to Broadway, 3
+vSgQmKaR, S62, S62, route travels from Manali Bus Terminal to Perambur Bus Terminus, 3
+zhmvRJXV, 95XCT, 95XCT, route travels from Kilambakkam Bus Terminus to P U Office Sholinganallur, 3
+FBBpdxxN, 88D, 88D, route travels from Saidapet West Bus Stand to Kundrathur Bus Depot, 3
+kyBFdPAo, 54C, 54C, route travels from Poonamallee Terminus to Pattabiram Terminal, 3
+WpVAAaIP, M52ET, M52ET, route travels from Pozhichalur to Guduvancheri Bus Terminus, 3
+lrMPvYGL, 109CT, 109CT, route travels from Kovalam Bus Stand to Adyar Old Depot, 3
+VBuVAsdc, 515B, 515B, route travels from Tambaram West Bus Stand to Thiruporur Bus Stand, 3
+xpcdpGLs, 33L, 33L, route travels from Broadway to Parvathi Nagar Kodungaiyur, 3
+oZkEabXT, 54, 54, route travels from Poonamallee Terminus to Broadway, 3
+UjwUGEtb, 2A, 2A, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Anna Square, 3
+wPhaSXeK, 102X, 102X, route travels from Broadway to Thiruporur Bus Stand, 3
+wEYZaoUh, 25, 25, route travels from Poonamallee Terminus to Anna Square, 3
+lcNVJWCd, 7MET, 7MET, route travels from Athipet ICF Colony to Broadway, 3
+KKqRIZMF, 102X, 102X, route travels from Thiruporur Bus Stand to Broadway, 3
+yfeHLZfV, 41D, 41D, route travels from Mandaveli Bus Terminus to Ambattur OT Bus Stand, 3
+VcmtrUJC, 555P, 555P, route travels from Sholinganallur to Padappai, 3
+XJvFnIGR, 88C, 88C, route travels from Thandalam Village to Broadway, 3
+VTviYcFV, 500ET, 500ET, route travels from Chitlapakkam to Chengalpattu New Bus Terminal, 3
+OPYJlceg, 66X, 66X, route travels from Poonamallee Terminus to Guduvancheri Bus Terminus, 3
+ihsHbmFM, 56T, 56T, route travels from Broadway to Athipattu Railway Station, 3
+DhEDxBUS, 71E, 71E, route travels from Broadway to Pattabiram Terminal, 3
+XPBcFkel, 66A, 66A, route travels from Kundrathur Bus Depot to Hasthinapuram, 3
+tplsurAl, 121M, 121M, route travels from CMBT Koyembedu Bus Depot to Madhavaram New Bus Depot, 3
+RZJvbtze, 51M, 51M, route travels from Thiyagaraya Nagar Bus Depot to Madipakkam Bus Stand, 3
+ChIMVkZt, 95XCT, 95XCT, route travels from P U Office Sholinganallur to Kilambakkam Bus Terminus, 3
+OUZHUOBk, 15G, 15G, route travels from M M D A Colony to Broadway, 3
+hxdMjVLv, 64KET, 64KET, route travels from Broadway to Parvathi Nagar Kodungaiyur, 3
+WUFuwdIs, 88K, 88K, route travels from Broadway to Kundrathur Bus Depot, 3
+TIcRjdKB, 578PCT, 578PCT, route travels from Poonamallee Terminus to Elambakkam, 3
+ZrfhEhaI, 7K, 7K, route travels from Padi Kuppam to Broadway, 3
+JGHsBWcN, S13, S13, route travels from Velachery to Guindy Railway Station, 3
+lfhzqApH, 77V, 77V, route travels from CMBT Koyembedu Bus Depot to Veppampattu Eswaran Nagar, 3
+VEEBrpzr, 19, 19, route travels from Thiyagaraya Nagar Bus Depot to Thiruporur Bus Stand, 3
+HnoTYPkn, 102A, 102A, route travels from Thiruvanmiyur Depot to Pudupakkam Or Vandaloor Road Junction, 3
+JSBcYDth, 60D, 60D, route travels from Broadway to Kamarajapuram Bus Stand, 3
+TznMsdvp, 583A, 583A, route travels from Sriperumbudur Bus Terminal to Thiruvallur Terminal, 3
+JTNSbHXK, 592V, 592V, route travels from Redhills Bus Terminus to Vengal Bazar, 3
+nJbtGHJT, M18, M18, route travels from Tambaram West Bus Stand to Kilambakkam Bus Terminus, 3
+hbabpSrR, 570P, 570P, route travels from CMBT Koyembedu Bus Depot to Perumbakkam, 3
+NCWWdxQw, 4, 4, route travels from Ennore Bus Depot to Broadway, 3
+yOIzInND, N45B, N45B, route travels from Broadway to Kilkattalai, 3
+ffJfbqez, 8BET, 8BET, route travels from MMBT to Broadway, 3
+vqbpxzMO, 56, 56, route travels from Mint Bus Terminal Or Vallalar Nagar to Ennore Bus Depot, 3
+KfcOLNRZ, 12M, 12M, route travels from Mandaveli Bus Terminus to Iyyappanthangal Bus Depot, 3
+zxuzQkEN, 23V, 23V, route travels from Villivakkam Bus Stand to Velachery, 3
+RxEISmCk, 164, 164, route travels from Perambur Bus Terminus to Minjur Terminus, 3
+ethBFMQG, 597ACT, 597ACT, route travels from Thiruvallur Terminal to Vellavedu, 3
+AkcdNKwb, 221, 221, route travels from Thiruporur Bus Stand to MGR Central Station, 3
+pUMtCbvY, 558P, 558P, route travels from Perumbedukuppam to Redhills Bus Terminus, 3
+KUVxKQBL, 61C, 61C, route travels from Avadi Terminal to Ella Amman Nagar, 3
+jiYoDFup, 77VET, 77VET, route travels from CMBT Koyembedu Bus Depot to Koyambakkam, 3
+LGHPaiEm, 48, 48, route travels from Vallalar Nagar Bus Depot to Villivakkam Bus Stand, 3
+MuWDkpyn, S69 CMRL Feeder Service, S69 CMRL Feeder Service, route travels from Kundrathur Bus Depot to Chennai Airport Metro, 3
+QkruGsxq, 40L, 40L, route travels from Anna Square to J J Nagar West Terminus, 3
+OJpezlza, 53, 53, route travels from Broadway to Poonamallee Terminus, 3
+jROlhPkt, 91, 91, route travels from Thiruvanmiyur Depot to Tambaram West Bus Stand, 3
+IIJSPUPi, 549, 549, route travels from Thiruvanmiyur Depot to Sriperumbudur Bus Terminal, 3
+YzZfjjAU, 73C, 73C, route travels from Ayampakkam to Ambattur Industrial Estate, 3
+vGmYCmbH, M88ET, M88ET, route travels from Nandambakkam Village to Vadapalani Bus Stand, 3
+apNsRtJZ, M18N, M18N, route travels from Guduvancheri Bus Depot to Nanganallur Bus Terminus, 3
+xkcKwMPG, 570X, 570X, route travels from Thiruporur Bus Stand to CMBT Koyembedu Bus Depot, 3
+OOUaddAH, 570P, 570P, route travels from Perumbakkam to CMBT Koyembedu Bus Depot, 3
+eCdiJYqK, S56 CMRL Feeder Service, S56 CMRL Feeder Service, route travels from Manali Bus Terminal to Thiruvottiyur Ajax Bus Depot, 3
+yutgoOdh, 71E, 71E, route travels from Broadway to Pattabiram Terminal, 3
+iGUPHety, 49, 49, route travels from Thiruvanmiyur Depot to Iyyappanthangal Bus Depot, 3
+imyosehy, 570X, 570X, route travels from CMBT Koyembedu Bus Depot to Thiruporur Bus Stand, 3
+hqXQkDIF, 512B, 512B, route travels from Thiruporur Bus Stand to Kilambakkam Bus Terminus, 3
+rNUddIEH, S17, S17, route travels from Adyar Gandhi Nagar to Mandaveli Bus Terminus, 3
+slHkHAHe, 42D, 42D, route travels from Broadway to Srinivasa Nagar, 3
+SEjsoxXW, 40A, 40A, route travels from Pattabiram Terminal to Anna Square, 3
+JMhpDgZN, 33L, 33L, route travels from Parvathi Nagar Kodungaiyur to Broadway, 3
+prQmGYjY, 557AET, 557AET, route travels from Broadway to Annamalaichery, 3
+zqhwGtxR, 18R, 18R, route travels from Nanganallur Bus Terminus to Broadway, 3
+MsGpZowN, 188A, 188A, route travels from Thiyagaraya Nagar Bus Depot to Kundrathur Bus Depot, 3
+WDmIAGBn, 61K, 61K, route travels from Avadi Terminal to Kanniamman Naga, 3
+OMxTOGOj, 109T, 109T, route travels from Thiruvottiyur Bus Stand to Kovalam Bus Stand, 3
+cMbtthwn, 500, 500, route travels from Chengalpattu New Bus Terminal to Tambaram West Bus Stand, 3
+HowfWzzp, S64, S64, route travels from Perambur Bus Terminus to Assisi Nagar, 3
+YCeisTde, 583C, 583C, route travels from Sriperumbudur Bus Terminal to Tambaram Sanatorium Bus Stand, 3
+xNXyeofh, 47, 47, route travels from Villivakkam Bus Stand to Besant Nagar Terminus, 3
+TyDWApSj, E18, E18, route travels from Guduvancheri Bus Terminus to Broadway, 3
+SfCfXJgc, 48, 48, route travels from Villivakkam Bus Stand to Vallalar Nagar Bus Depot, 3
+GqjNxRaQ, 18X, 18X, route travels from Broadway to Unamancheri, 3
+eoZPiIBa, 570, 570, route travels from Kelambakkam Bus Terminal to CMBT Koyembedu Bus Depot, 3
+zTcclccq, 555P, 555P, route travels from Padappai to Sholinganallur, 3
+ARRhjOPV, 159K, 159K, route travels from Kargil Nagar to CMBT Koyembedu Bus Depot, 3
+KHtyPgYH, S15, S15, route travels from Madhya Kailash to Thiruvanmiyur Railway Station, 3
+LmRpjFqQ, 570S, 570S, route travels from CMBT Koyembedu Bus Depot to Siruchery I T Park, 3
+ZUXoFrGY, 65K, 65K, route travels from Poonamallee Terminus to Avadi Terminal, 3
+CoTndhle, 570C, 570C, route travels from Kannagi Nagar Bus Stand to CMBT Koyembedu Bus Depot, 3
+HsPuDGSC, 16J, 16J, route travels from Poonamallee Terminus to CMBT Koyembedu Bus Depot, 3
+qPOOZsHm, 570X, 570X, route travels from CMBT Koyembedu Bus Depot to Thiruporur Bus Stand, 3
+blVVVdEP, 99C, 99C, route travels from Semmancheri Bus Stand to Tambaram West Bus Stand, 3
+PyxwvOtu, 95G, 95G, route travels from Guduvancheri Bus Terminus to Okkiam Thoraipakm Sector Colony, 3
+dlfuHcDZ, 583, 583, route travels from Sriperumbudur Bus Terminal to Tambaram Sanatorium Bus Stand, 3
+fGiUvrlf, S47M, S47M, route travels from Avadi Terminal to CRPF School Or kuttavaili colony, 3
+AbcNugNy, S24, S24, route travels from Thiruverkadu Terminus to Iyyappanthangal Bus Depot, 3
+FJSzvcGS, 18H, 18H, route travels from Naduveerapattu Bus Stand to Tambaram West Bus Stand, 3
+PUEmheBm, 29E, 29E, route travels from Perambur Bus Terminus to Thiruverkadu Terminus, 3
+jjtRyUPh, 95X, 95X, route travels from Thiruvanmiyur Depot to Kilambakkam Bus Terminus, 3
+GEsIaGRv, 27D, 27D, route travels from Villivakkam Bus Stand to Foreshore Estate Bus Terminus, 3
+FjUYglCQ, 51J, 51J, route travels from Broadway to Mambakkam, 3
+tyAzJtKp, 101, 101, route travels from Thiruvottiyur Bus Stand to Poonamallee Terminus, 3
+PWmGJhQM, S44, S44, route travels from Villivakkam Bus Stand to Perambur Bus Terminus, 3
+ZpUggZVZ, B18, B18, route travels from Tambaram West Bus Stand to Korukkupet Bus Stand, 3
+puXPmPXo, 102CT, 102CT, route travels from Siruchery I T Park to Thiruvanmiyur Depot, 3
+zlfsiQKv, 153A, 153A, route travels from CMBT Koyembedu Bus Depot to Thiruvallur Terminal, 3
+IiGKHNgt, S22, S22, route travels from Mangadu to Porur Junction, 3
+kuiZTAki, S53, S53, route travels from Ambattur Industrial Estate to Maduravoyal Yerikarai, 3
+GDLkUNsG, 19A, 19A, route travels from Thiyagaraya Nagar Bus Depot to Semmancheri Bus Stand, 3
+wJdTLNrP, 597A, 597A, route travels from Thiruvallur Terminal to Poonamallee Terminus, 3
+iDcJivUZ, 56, 56, route travels from Ennore Bus Depot to Mint Bus Terminal Or Vallalar Nagar, 3
+kJyclLGg, 500W, 500W, route travels from Saidapet West Bus Stand to Chengalpattu New Bus Terminal, 3
+XvFjDjex, 553W, 553W, route travels from Saidapet West Bus Stand to Sriperumbudur Bus Terminal, 3
+EBFftxuv, 305SP, 305SP, route travels from Thiruvanamalai Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+DYUPMfKF, 29E, 29E, route travels from Thiruverkadu Terminus to Perambur Bus Terminus, 3
+SLIeVVmJ, 51, 51, route travels from Tambaram West Bus Stand to Velachery, 3
+jEHPwwvr, 555G, 555G, route travels from Sholinganallur to Guduvancheri Bus Terminus, 3
+XyDtpPuG, 66CT, 66CT, route travels from Poonamallee Terminus to Kundrathur Bus Depot, 3
+BQZBfxJr, 102, 102, route travels from Broadway to Kelambakkam Bus Terminal, 3
+ruVlszZr, 71EX, 71EX, route travels from Thiruninravur Bus Stand to Broadway, 3
+AGEQXyCU, 118G, 118G, route travels from Kavanoor to Tambaram West Bus Stand, 3
+UViVbRbt, 18AET, 18AET, route travels from Broadway to Kilambakkam Bus Terminus, 3
+YkaYKNlO, 566B, 566B, route travels from Pattur to Kovalam Bus Stand, 3
+astfpYcz, 166X, 166X, route travels from Kilambakkam Bus Terminus to Iyyappanthangal Bus Depot, 3
+SegvCVyD, 51A, 51A, route travels from Tambaram East Bus Stop to Thiyagaraya Nagar Bus Depot, 3
+mROhzbQt, 6D, 6D, route travels from Thangal Toll Gate to Thiruvanmiyur Depot, 3
+mcSAgKtO, 188K, 188K, route travels from Thiyagaraya Nagar Bus Depot to Kattrambakkam Bus Stand, 3
+MakvWKeJ, 15C, 15C, route travels from Broadway to Anna Nagar West Depot, 3
+HXubpoID, 18ACT, 18ACT, route travels from Kilambakkam Bus Terminus to Guindy Bus Terminus, 3
+xhUGApVk, S54TCT, S54TCT, route travels from Chembarambakkam to Porur Junction, 3
+txNJKhyg, 70, 70, route travels from Tambaram West Bus Stand to Avadi Terminal, 3
+DsJshmnl, 29E, 29E, route travels from Perambur Bus Terminus to Thiruverkadu Terminus, 3
+VaEVnCkW, 79A, 79A, route travels from Navalur SCB 1 to Tambaram West Bus Stand, 3
+HweQIwtC, S165, S165, route travels from Kovur E B Office to Pallavaram, 3
+mWHXmfdD, S60 CMRL Feeder Service, S60 CMRL Feeder Service, route travels from Maduravoyal Yerikarai to CMBT Koyembedu Bus Depot, 3
+haBQDuFG, 515, 515, route travels from Mamallapuram to Tambaram West Bus Stand, 3
+GBDsufur, 102, 102, route travels from Kelambakkam Bus Terminal to Broadway, 3
+aeHvZOPz, S88A, S88A, route travels from Nandambakkam Village to Porur Junction, 3
+KjcWOkci, S1, S1, route travels from Sakthi Nagar to Pallavaram Railway Station, 3
+DVFHMRbS, 31A, 31A, route travels from Tambaram West Bus Stand to Agaramthen, 3
+HPbZuaKk, 18D, 18D, route travels from Kilkattalai to Broadway, 3
+LBlyxOkt, 44C, 44C, route travels from Broadway to Manali Bus Terminal, 3
+TfLApzlO, 588, 588, route travels from Thiruvanmiyur Depot to Mamallapuram, 3
+mEkMTrHu, 547A, 547A, route travels from Vallalar Nagar Bus Depot to Periyapalayam Bus stand, 3
+rBGLQZeY, 114ET, 114ET, route travels from CMBT Koyembedu Bus Depot to Mahindra IND Park, 3
+rQVoysPW, 549, 549, route travels from Thiruvanmiyur Depot to Sriperumbudur Bus Terminal, 3
+qQCwmLlX, 159, 159, route travels from Thiruverkadu Terminus to Thiruvottiyur Bus Stand, 3
+YYXrAJXG, 55M, 55M, route travels from Tamilnadu Physical Education and Sports to Tambaram West Bus Stand, 3
+EGacTNyx, 21L, 21L, route travels from Velachery to Broadway, 3
+SXKinMNy, 18B, 18B, route travels from Kotturpuram to Broadway, 3
+HxlyqFEM, B18X, B18X, route travels from Korukkupet Bus Stand to Kilambakkam Bus Terminus, 3
+MUCyRVIN, 579C, 579C, route travels from Walajabad Bus Stand to Tambaram Sanatorium Bus Stand, 3
+hHwzqpIU, 18E, 18E, route travels from Broadway to Ramapuram, 3
+MnssrqNB, 53P, 53P, route travels from Pattur to Broadway, 3
+UkCUPMTL, 578A, 578A, route travels from Kundrathur Bus Depot to Sriperumbudur Bus Terminal, 3
+kQndydwn, 553K, 553K, route travels from Kattrambakkam to CMBT Koyembedu Bus Depot, 3
+LgXaAdmM, 51F, 51F, route travels from Tambaram West Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+pJnPYnBh, 73, 73, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+AadDLgTG, 77V, 77V, route travels from Veppampattu Eswaran Nagar to CMBT Koyembedu Bus Depot, 3
+PCkQENKV, 593CT, 593CT, route travels from Chennang Karanai to Redhills Bus Terminus, 3
+hEVxSOVF, 23C, 23C, route travels from Ayanavaram Bus Depot to Besant Nagar Terminus, 3
+wVzziaAc, 62, 62, route travels from Redhills Bus Terminus to Poonamallee Terminus, 3
+bckwFcpo, 512, 512, route travels from Redhills Bus Terminus to Madarapakkam Bus Stand, 3
+MlcjHxsL, 63CT, 63CT, route travels from Thiruverkadu Terminus to Ambattur Industrial Estate, 3
+tmhpmjEo, 109CT, 109CT, route travels from Adyar Old Depot to Kovalam Bus Stand, 3
+WgKwfVoQ, S51 CMRL Feeder Service, S51 CMRL Feeder Service, route travels from CMBT Koyembedu Bus Depot to Nolambur Sakthinagar Bus Terminus, 3
+XWTdaibc, 16K, 16K, route travels from Kundrathur Bus Depot to CMBT Koyembedu Bus Depot, 3
+BpvJIUnN, 5E, 5E, route travels from Vadapalani Bus Stand to Besant Nagar Terminus, 3
+MTiZkTUB, 32C, 32C, route travels from Chinthathripet Railway Station to Mint Bus Terminal Or Vallalar Nagar, 3
+bPsbgxez, 46, 46, route travels from CMBT Koyembedu Bus Depot to Thiruvika Nagar Bus Depot, 3
+SxuCMieJ, M60, M60, route travels from Nandambakkam.Kalaignar Nagar to Thiyagaraya Nagar Bus Depot, 3
+NUWYRjqD, 15, 15, route travels from Broadway to CMBT Koyembedu Bus Depot, 3
+sSDvnJYN, 597, 597, route travels from Thiruvallur Terminal to Thiyagaraya Nagar Bus Depot, 3
+APWDbJkP, 104T, 104T, route travels from Thiruvika Nagar Bus Depot to Kilambakkam Bus Terminus, 3
+zGaEbfaD, 60H, 60H, route travels from Broadway to Sri Sankara Health Centre, 3
+HsgRmlhX, S45, S45, route travels from Poonamallee Terminus to Avadi Terminal, 3
+VpSmhTZh, 56F, 56F, route travels from Ernavoor Gate to Broadway, 3
+xOfoOuSc, 54, 54, route travels from Broadway to Poonamallee Terminus, 3
+SgRxcWWa, 57M, 57M, route travels from Alamathi to Broadway, 3
+lhNccnLP, 556, 556, route travels from Kattupalli to Thiruvottiyur Bus Stand, 3
+ZfLVQqQY, 118T, 118T, route travels from Darkash to Tambaram West Bus Stand, 3
+tcOPvcsL, S165, S165, route travels from Pallavaram to Kovur E B Office, 3
+jzfWIWdV, 65CCT, 65CCT, route travels from Pakkam Village to Ambattur Industrial Estate, 3
+SZuxqDoJ, 558P, 558P, route travels from Redhills Bus Terminus to Perumbedukuppam, 3
+rFVkVOtg, 558B, 558B, route travels from Redhills Bus Terminus to Pazhaverkadu, 3
+xFgBSsRb, 522, 522, route travels from Manamathi Or Acharavakkam to Adyar Old Depot, 3
+cJUnJTLJ, 70G, 70G, route travels from Vadapalani Bus Stand to Guduvancheri Bus Terminus, 3
+JJutxVaC, 54V, 54V, route travels from Veppambaattu to Thiyagaraya Nagar Bus Depot, 3
+lWVOLYtd, 558C, 558C, route travels from Pudhucehrimedu to Redhills Bus Terminus, 3
+llUnVGGu, S4, S4, route travels from Chromepet to Medavakkam Junction, 3
+HYnJMPRV, 70A, 70A, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+RPslAOOi, 35C, 35C, route travels from Broadway to Korattur Bus Terminus, 3
+sxUSxjWB, 73C, 73C, route travels from Ambattur Industrial Estate to Ayampakkam, 3
+uNjfixRX, 60E, 60E, route travels from Kundrathur Bus Depot to Broadway, 3
+IlIpMcQw, 28A, 28A, route travels from Manali New Town Bus Stand to Egmore North Railway Station, 3
+VnLeuxef, S66, S66, route travels from Pallavaram to Kundrathur Bus Depot, 3
+XrBNFPcZ, 18B, 18B, route travels from Broadway to Kotturpuram, 3
+DtqHGUhD, 28, 28, route travels from Egmore North Railway Station to Thiruvottiyur Bus Stand, 3
+cygBsaqT, 120F, 120F, route travels from Broadway to Ambatture Oragadam, 3
+YJaNAxxE, 18N, 18N, route travels from Broadway to Kilkattalai, 3
+GUVtQSNK, S35, S35, route travels from Defence Colony to Udhayam Theatre Or Ashok Pillar, 3
+SuMmLLaE, 77, 77, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+XmZtKuQy, 57D, 57D, route travels from Poochi Athipet to Broadway, 3
+pXdQhhMS, 121, 121, route travels from Minjur Terminus to CMBT Koyembedu Bus Depot, 3
+TCizqKkg, 558B, 558B, route travels from Pazhaverkadu to Redhills Bus Terminus, 3
+WdKMyOCH, S68, S68, route travels from MMBT to Villivakkam Bus Stand, 3
+hWTpSqTx, A5, A5, route travels from Bharat Engineering College Or Balaji Nagar to Thiyagaraya Nagar Bus Depot, 3
+ivBvOZzZ, 500A, 500A, route travels from Hasthinapuram to Chengalpattu New Bus Terminal, 3
+VwRztUcj, 315SP, 315SP, route travels from Trichy  Central Bus Stand to Perungalattur, 3
+jIRzSdfh, 48B, 48B, route travels from Mint Bus Terminal Or Vallalar Nagar to Pudur, 3
+WRdAlIuf, S58, S58, route travels from Thirumullaivoyal Colony to Ambattur Industrial Estate, 3
+eawXcFtQ, 120KET, 120KET, route travels from Kilkondaiyur to Broadway, 3
+sDQkzVBx, 19, 19, route travels from Thiruporur Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+RcCajyzC, F70, F70, route travels from Guindy Bus Terminus to Pattabiram Terminal, 3
+WpjljJbn, 73, 73, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+Cltbsbcv, 578PCT, 578PCT, route travels from Elambakkam to Poonamallee Terminus, 3
+cPFWqJRM, 579C, 579C, route travels from Walajabad Bus Stand to Tambaram Sanatorium Bus Stand, 3
+NQimksuC, 109, 109, route travels from Broadway to Kovalam Bus Stand, 3
+ZJBilXcc, 48P, 48P, route travels from Vallalar Nagar Bus Depot to Puthagaram, 3
+idTCbbFF, 159B, 159B, route travels from CMBT Koyembedu Bus Depot to Thangal Toll Gate, 3
+VUXRiUfp, S80, S80, route travels from Kamakshi Amman Temple to Tambaram Sanatorium Bus Stand, 3
+cpryXWpR, S97 CMRL Feeder Service, S97 CMRL Feeder Service, route travels from Velachery to Guindy Metro Station, 3
+rIHydMlZ, 50M, 50M, route travels from Broadway to Thiruverkadu Terminus, 3
+pzWIGMcX, 170C, 170C, route travels from Thiruvika Nagar Bus Depot to Guindy Bus Terminus, 3
+nrWAbJYB, 7H, 7H, route travels from Broadway to J J Nagar East Terminus, 3
+VPhLYBFL, 95W, 95W, route travels from Thiruvanmiyur Depot to Tambaram West Bus Stand, 3
+asCQlMIf, 153P, 153P, route travels from CMBT Koyembedu Bus Depot to Parambakkam Terminus, 3
+VZMLALzn, 1D, 1D, route travels from Ennore Bus Depot to Thiruvanmiyur Depot, 3
+rZidEjmM, 242, 242, route travels from Broadway to Redhills Bus Terminus, 3
+euXYALcW, 77T, 77T, route travels from Thirumullaivoyal Colony to CMBT Koyembedu Bus Depot, 3
+APMRXtDw, 21EET, 21EET, route travels from Broadway to Iyyappanthangal Bus Depot, 3
+grMtkZcN, 47A, 47A, route travels from Villivakkam Bus Stand to Thiruvanmiyur Depot, 3
+yFneEGLX, 29C, 29C, route travels from Besant Nagar Terminus to Perambur Bus Terminus, 3
+VoiapRAt, S169, S169, route travels from Thangal Toll Gate to Moolakadai, 3
+fFJRESPz, 29CET, 29CET, route travels from Besant Nagar Terminus to Periyar Nagar Bus Terminal, 3
+sevUczJE, 11GET, 11GET, route travels from Broadway to Iyyappanthangal Bus Depot, 3
+DMtfVjzF, S95, S95, route travels from Perungudi to Velachery, 3
+ReRqKixi, 15F, 15F, route travels from Broadway to Vadapalani Bus Stand, 3
+tgQpNIPR, 99, 99, route travels from Adyar Old Depot to Tambaram West Bus Stand, 3
+wLCUxSZw, 58V, 58V, route travels from CMBT Koyembedu Bus Depot to Redhills Bus Terminus, 3
+LhvesgRS, 105A, 105A, route travels from Tambaram West Bus Stand to Siruchery I T Park, 3
+SnCXvfNd, 71E, 71E, route travels from Pattabiram Terminal to Broadway, 3
+LMBEtuUN, 579C, 579C, route travels from Tambaram Sanatorium Bus Stand to Walajabad Bus Stand, 3
+pLfAzqwy, 500R, 500R, route travels from Tambaram West Bus Stand to Maraimalai Nagar Bus Stand, 3
+VZdQsZWK, 547, 547, route travels from Periyapalayam Bus stand to Redhills Bus Terminus, 3
+zvfshTTM, 91V, 91V, route travels from Guduvancheri Bus Terminus to Thiruvanmiyur Depot, 3
+UjaQgrTN, 554B, 554B, route travels from Ekkattuthangal Or Ambal Nagar to Sunguvarchatram, 3
+VQhvwDsb, 2A, 2A, route travels from Anna Square to Kaviarasu Kannadasan Nagar Bus Stand, 3
+XuTubHrn, 1C, 1C, route travels from Thiruvanmiyur Depot to Ennore Bus Depot, 3
+XGthVuUT, G18, G18, route travels from Thiyagaraya Nagar Bus Depot to Guduvancheri Bus Terminus, 3
+EUBNEUqv, 31P, 31P, route travels from Ponmar to Tambaram West Bus Stand, 3
+dRNiLqXb, 552K, 552K, route travels from Thiruporur Bus Stand to Kilkattalai, 3
+lGUFsahe, 70LCT, 70LCT, route travels from Guindy Bus Terminus to Korattur Bus Terminus, 3
+FKaRvluL, 102CT, 102CT, route travels from Thiruvanmiyur Depot to Siruchery I T Park, 3
+wIgzvhbL, 558A, 558A, route travels from Redhills Bus Terminus to Minjur Terminus, 3
+rtKAurgk, 153, 153, route travels from Poonamallee to CMBT Koyembedu Bus Depot, 3
+qzQyKLkc, 64D, 64D, route travels from Kosappur Bus Stand to Broadway, 3
+xpxOmrOP, 592, 592, route travels from Redhills Bus Terminus to Uthukkottai, 3
+TRUezuAq, 19D, 19D, route travels from Adyar Old Depot to Semmancheri Bus Stand, 3
+YUtMtEzC, 65H, 65H, route travels from Avadi Terminal to Redhills Bus Terminus, 3
+SMBnAROU, 25, 25, route travels from Poonamallee Terminus to Anna Square, 3
+NIfmABwn, 21GCT, 21GCT, route travels from Guindy Bus Terminus to Broadway, 3
+WWUPkwqf, 54P, 54P, route travels from Mangadu to Thiyagaraya Nagar Bus Depot, 3
+AllAtZey, G18, G18, route travels from Guduvancheri Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+ZTcDANas, 17E, 17E, route travels from Broadway to Saligramam Bus Stand, 3
+YtVKBgYf, 121HET, 121HET, route travels from Kilambakkam Bus Terminus to Kaviarasu Kannadasan Nagar Bus Stand, 3
+ONalNhcx, 3, 3, route travels from Thiyagaraya Nagar Bus Depot to Thiruvanmiyur Depot, 3
+FmNGtiNn, 305SP, 305SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Thiruvanamalai Bus Stand, 3
+WxxiRZaT, 88R, 88R, route travels from Saidapet to Amarambedu, 3
+GGvwrdlt, S94, S94, route travels from Thirumudivakkam SIDCO to Durga Nagar, 3
+gUDaZbWd, 512, 512, route travels from Redhills Bus Terminus to Madarapakkam Bus Stand, 3
+BXwxgSbZ, 304SP, 304SP, route travels from Vellore Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+cjapRzQi, 572K, 572K, route travels from Keelanur to Ambattur Industrial Estate, 3
+WtmeDVMv, 35C, 35C, route travels from Korattur Bus Terminus to Broadway, 3
+eeQkYivv, S20, S20, route travels from DLF Or L and T to Ashok Pillar, 3
+YRAkYqcc, 18A, 18A, route travels from Tambaram West Bus Stand to Broadway, 3
+xWlYYkVs, 29ACT, 29ACT, route travels from Egmore Railway Station to Perambur Bus Terminus, 3
+PAdSdtSI, 31M, 31M, route travels from Tambaram West Bus Stand to Madurapakkam, 3
+JGTMUJik, 147A, 147A, route travels from Thiyagaraya Nagar Bus Depot to J J Nagar East Terminus, 3
+JeBBvoIz, C56C, C56C, route travels from Broadway to Thiruvottiyur Bus Stand, 3
+bJFfdBWJ, 119, 119, route travels from Semmancheri Bus Stand to Guindy Bus Terminus, 3
+PqswUBUZ, 514ET, 514ET, route travels from CMBT Koyembedu Bus Depot to Enambakkam, 3
+SsKiahvg, 11, 11, route travels from Thiyagaraya Nagar Bus Depot to Broadway, 3
+bEepKcij, 41D, 41D, route travels from Mandaveli Bus Terminus to Ambattur OT Bus Stand, 3
+rOfvXiZc, 17K, 17K, route travels from Broadway to Dasarathapuram, 3
+BMcnfFlx, 57F, 57F, route travels from Karanodai Bus Stand to Broadway, 3
+ZCwMyshZ, 70K, 70K, route travels from Avadi Terminal to Kilambakkam Bus Terminus, 3
+yedZEMdX, 5G, 5G, route travels from Kannagi Nagar Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+IpKsBclw, 21X, 21X, route travels from Broadway to Guindy Bus Terminus, 3
+WBUwAdRA, 572A, 572A, route travels from Avadi Terminal to Thiruvallur Terminal, 3
+qqCabydf, 19BET, 19BET, route travels from Thaiyur Koman Nagar Road Junction to Thiyagaraya Nagar Bus Depot, 3
+yHRZHVWM, 48K, 48K, route travels from Mint Bus Terminal Or Vallalar Nagar to Kallikuppam Tea Kadai Bus Stop, 3
+PuckBWpt, 29A, 29A, route travels from Anna Square to Perambur Bus Terminus, 3
+JnbjekBY, 52K, 52K, route travels from Broadway to Nanganallur Bus Terminus, 3
+NFrRqqoU, 31P, 31P, route travels from Tambaram West Bus Stand to Ponmar, 3
+VPjqzZkn, 21, 21, route travels from Mandaveli Bus Terminus to Broadway, 3
+UTyplyOu, 102C, 102C, route travels from Semmancheri Bus Stand to Broadway, 3
+mvAUOFfD, 20D, 20D, route travels from Broadway to SIDCO Nagar, 3
+ugTuWXYx, 5GCT, 5GCT, route travels from Kannagi Nagar Bus Stand to Velachery, 3
+csTynebW, 202X, 202X, route travels from Kilambakkam Bus Terminus to Avadi Terminal, 3
+oUVVwWgr, 76B, 76B, route travels from Ottiyambakkam to CMBT Koyembedu Bus Depot, 3
+XcdEHLOB, 121HET, 121HET, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Kilambakkam Bus Terminus, 3
+DkDsWjAh, 55K, 55K, route travels from Guduvancheri Bus Terminus to Kumizhi, 3
+jaQklbqw, 64C, 64C, route travels from Broadway to Manali Bus Terminal, 3
+SseKzbtr, 55B, 55B, route travels from Pazhanthandalam Road Junction to Tambaram West Bus Stand, 3
+KigRZhrs, S83, S83, route travels from Guru Nanak College to Alandur Metro, 3
+KqqFzxEY, 5GCT, 5GCT, route travels from Velachery to Kannagi Nagar Bus Stand, 3
+HpiqDmJX, 70C, 70C, route travels from Koyambedu Market Or Police Station to Tambaram West Bus Stand, 3
+IBzAkXzb, 91A, 91A, route travels from Thiruvanmiyur Depot to Hasthinapuram, 3
+HvtDvMhT, 17K, 17K, route travels from Dasarathapuram to Broadway, 3
+bMfxSUQq, 66P, 66P, route travels from Poonamallee Terminus to Kilambakkam Bus Terminus, 3
+KbffpVPX, 33B, 33B, route travels from Broadway to Kaviarasu Kannadasan Nagar Bus Stand, 3
+jPaEYDQG, 65BCT, 65BCT, route travels from Avadi Terminal to Poonamallee Terminus, 3
+cvtGGEir, 42C, 42C, route travels from Broadway to Teachers Colony, 3
+FfNYFdRQ, 555S, 555S, route travels from Sholinganallur to Kilambakkam Bus Terminus, 3
+gWVSYVaQ, S55ET, S55ET, route travels from Tambaram West Bus Stand to Mannivakkam Kulam Bus Stop, 3
+LdqFNYPi, 91ET, 91ET, route travels from Okkiam Thoraipakm Sector Colony to Guduvancheri Bus Terminus, 3
+kMQYsrKz, 73CT, 73CT, route travels from Ambattur Industrial Estate to Ayapakkam Tnhb Bus Terminus, 3
+lYrfMlIB, C56CET, C56CET, route travels from Air Nagar to Broadway, 3
+FKtluCBI, B19, B19, route travels from Sholinganallur to Samiyar Pannai, 3
+AevIuiji, 70K, 70K, route travels from Kilambakkam Bus Terminus to Avadi Terminal, 3
+DlEoZXyj, S47, S47, route travels from Mittanamalli High School to Avadi Terminal, 3
+LaCwWssG, 120A, 120A, route travels from Arakkambakkam to Broadway, 3
+GCjrukBw, 18X, 18X, route travels from Unamancheri to Broadway, 3
+Zohubzao, 206, 206, route travels from Avadi Terminal to Guduvancheri Bus Terminus, 3
+riKyUEah, 580A, 580A, route travels from Avadi Terminal to Mel Sembedu, 3
+CXLeLPLC, A1, A1, route travels from Thiruvanmiyur Depot to MGR Central Station, 3
+QqdFoHRH, 54, 54, route travels from Broadway to Poonamallee Terminus, 3
+sbCvohhB, V51, V51, route travels from Tambaram West Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+xqtuVhqB, 549, 549, route travels from Sriperumbudur Bus Terminal to Thiruvanmiyur Depot, 3
+eftHbUgN, T23C, T23C, route travels from Ayanavaram Bus Depot to Thiruvanmiyur Depot, 3
+cxkbAfbc, 99A, 99A, route travels from P U Office Sholinganallur to Tambaram West Bus Stand, 3
+usBRtDfI, 70N, 70N, route travels from Nanganallur Bus Terminus to CMBT Koyembedu Bus Depot, 3
+ceFAvuWS, S19, S19, route travels from Chromepet to Kilkattalai, 3
+lUFREFDE, J66, J66, route travels from Tambaram West Bus Stand to Poonamallee Terminus, 3
+PJLsbHlt, 60, 60, route travels from Anagaputhur to Broadway, 3
+DsbCPjXL, M88T, M88T, route travels from Vadapalani Bus Stand to Amarambedu East, 3
+ZdQOnhNy, 62, 62, route travels from Redhills Bus Terminus to Poonamallee Terminus, 3
+ssiUnSTx, 16J, 16J, route travels from CMBT Koyembedu Bus Depot to Poonamallee Terminus, 3
+ExazJjSg, 8BET, 8BET, route travels from Broadway to MMBT, 3
+PxjewQhz, 33B, 33B, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Broadway, 3
+PPDJtCks, 63CT, 63CT, route travels from Ambattur Industrial Estate to Thiruverkadu Terminus, 3
+rlqWrGQu, 7MET, 7MET, route travels from Broadway to Athipet ICF Colony, 3
+gBvhdtHd, 99, 99, route travels from Tambaram West Bus Stand to Adyar Old Depot, 3
+HrOrtQLG, 597C, 597C, route travels from Poonamallee to Thiruninravur Railway Station, 3
+xqRnZqTX, S3X, S3X, route travels from Chromepet ESI to Noothancheri Cross Road, 3
+wBDiYtOJ, T29C, T29C, route travels from Thiruvanmiyur Depot to Perambur Bus Terminus, 3
+YKIlATpc, 72, 72, route travels from Thiyagaraya Nagar Bus Depot to Thiruverkadu Terminus, 3
+fZxOznEL, 555S, 555S, route travels from Kilambakkam Bus Terminus to Sholinganallur, 3
+ZaymrhHh, 266, 266, route travels from Tambaram West Bus Stand to Avadi Terminal, 3
+rgXFUwBO, 101X, 101X, route travels from Thirumazhisai Bus Stand to Broadway, 3
+ChZtVuRO, 525, 525, route travels from Vadapalani Bus Stand to Sunguvarchatram, 3
+FKjitBSk, 105, 105, route travels from Siruchery I T Park to Tambaram West Bus Stand, 3
+lPgYmPZD, 159A, 159A, route travels from Thiruvottiyur Bus Stand to CMBT Koyembedu Bus Depot, 3
+xjOFdUSP, 583K, 583K, route travels from Sriperumbudur Bus Terminal to Kilambakkam Bus Terminus, 3
+mByTrOsx, 565, 565, route travels from Sriperumbudur Bus Terminal to Avadi Terminal, 3
+FevmTWKc, 27B, 27B, route travels from Anna Square to CMBT Koyembedu Bus Depot, 3
+WgvaXvkP, 54P, 54P, route travels from Thiyagaraya Nagar Bus Depot to Mangadu, 3
+cfFfdvOO, 95, 95, route travels from Tambaram East Bus Stop to Thiruvanmiyur Depot, 3
+LOdQcmND, 37C, 37C, route travels from Villivakkam Bus Stand to Vadapalani Bus Stand, 3
+QPQMfNjY, 57A, 57A, route travels from Budur Hospital to Mint Bus Terminal Or Vallalar Nagar, 3
+FBisPIxj, 5S, 5S, route travels from Saidapet to Kannagi Nagar Bus Stand, 3
+gswMXGnV, 120K, 120K, route travels from Kadhavoor Bus Stand to Broadway, 3
+fLrSKeDH, 31B, 31B, route travels from Kandigai to Tambaram West Bus Stand, 3
+qUIXogqD, 27D, 27D, route travels from Foreshore Estate Bus Terminus to Villivakkam Bus Stand, 3
+AatUeiuC, 46, 46, route travels from CMBT Koyembedu Bus Depot to Thiruvika Nagar Bus Depot, 3
+eanWClwB, 88CET, 88CET, route travels from Nandambakkam Village to Thiyagaraya Nagar Bus Depot, 3
+MBxMlaxs, 104CCT, 104CCT, route travels from CMBT Koyembedu Bus Depot to Kilambakkam Bus Terminus, 3
+bZgYQkqm, S24, S24, route travels from Iyyappanthangal Bus Depot to Thiruverkadu Terminus, 3
+EXZchkTm, 113, 113, route travels from Guindy Bus Terminus to Redhills Bus Terminus, 3
+BdOBzqrD, 31G, 31G, route travels from Tambaram West Bus Stand to Medavakkam Koot Road, 3
+bkxHNLgD, S96 CMRL Feeder Service, S96 CMRL Feeder Service, route travels from Simson Or Periyar Bridge to Secretariat, 3
+JIbBeMjU, S51 CMRL Feeder Service, S51 CMRL Feeder Service, route travels from Nolambur Sakthinagar Bus Terminus to CMBT Koyembedu Bus Depot, 3
+VVaknoie, 29C, 29C, route travels from Besant Nagar Terminus to Perambur Bus Terminus, 3
+ZKiGdwKi, 51A, 51A, route travels from Tambaram East Bus Stop to Thiyagaraya Nagar Bus Depot, 3
+khkXmGHG, 44, 44, route travels from Broadway to Manali Bus Terminal, 3
+QxFOLcYO, 55C, 55C, route travels from Tambaram West Bus Stand to Pungeri Junction, 3
+sCWDqjTu, 71V, 71V, route travels from Veppampattu Eswaran Nagar to Broadway, 3
+vRpWRout, 45B, 45B, route travels from Guindy Bus Terminus to Broadway, 3
+eJEWzftS, D51ET, D51ET, route travels from Broadway to Housing Board Sithalapakam, 3
+zQBpTEoL, 514ET, 514ET, route travels from Enambakkam to CMBT Koyembedu Bus Depot, 3
+fowvRzMF, 61E, 61E, route travels from Avadi Terminal to Kilkondaiyur, 3
+TeEudveK, 48C, 48C, route travels from CMBT Koyembedu Bus Depot to Mint Bus Terminal Or Vallalar Nagar, 3
+exmGRKIA, 514, 514, route travels from Periyapalayam Bus stand to CMBT Koyembedu Bus Depot, 3
+iXZilAtz, 313SP, 313SP, route travels from Arni Bus Stand to Poonamallee, 3
+DpMqfGEB, 164, 164, route travels from Minjur Terminus to Perambur Bus Terminus, 3
+BkGuPoai, 23C, 23C, route travels from Ayanavaram Bus Depot to Besant Nagar Terminus, 3
+sVoHPyPl, 37E, 37E, route travels from Iyyappanthangal Bus Depot to Kaviarasu Kannadasan Nagar Bus Stand, 3
+azqKRxOx, 572A, 572A, route travels from Thiruvallur Terminal to Avadi Terminal, 3
+KlXpMBwA, 49F, 49F, route travels from Mandaveli Bus Terminus to Poonamallee Terminus, 3
+KbmxRZgm, 519T, 519T, route travels from Koman Nagar Road Junction to Adyar Old Depot, 3
+AzKfhVxY, 49A, 49A, route travels from Poonamallee Terminus to Thiyagaraya Nagar Bus Depot, 3
+DAHafvgH, 40A, 40A, route travels from Pattabiram Terminal to Anna Square, 3
+cPCjQEJi, 242, 242, route travels from Broadway to Redhills Bus Terminus, 3
+eGIPWuRl, 102CT, 102CT, route travels from Siruchery I T Park to Thiruvanmiyur Depot, 3
+ZafArdMG, M1, M1, route travels from Thiruvanmiyur Depot to Kilkattalai, 3
+dbxJScHL, 70M, 70M, route travels from MMBT to Kilambakkam Bus Terminus, 3
+IloUzbPY, 6DET, 6DET, route travels from Thiruvanmiyur Depot to Thangal Toll Gate, 3
+eLmeuwvL, 308-SP, 308-SP, route travels from Kumbakonam Bus Stand to Tambaram West Bus Stand, 3
+coJOnlBk, 120A, 120A, route travels from Broadway to Arakkambakkam, 3
+mjcamYXY, 51X, 51X, route travels from Velachery to Kilambakkam Bus Terminus, 3
+BJxyyBwP, S98 CMRL Feeder Service, S98 CMRL Feeder Service, route travels from Taramani Bus Terminus to Little Mount Metro, 3
+kpzakQxH, 303SP, 303SP, route travels from Poonamallee to Vellore Bus Stand, 3
+NgVpGGbv, S68, S68, route travels from Villivakkam Bus Stand to MMBT, 3
+WLKYyqpi, 15F, 15F, route travels from Vadapalani Bus Stand to Broadway, 3
+rfmJfjAV, E51, E51, route travels from Ottiyambakkam to Broadway, 3
+KjtXWElI, 515, 515, route travels from Tambaram West Bus Stand to Mamallapuram, 3
+cWuifaMM, M88, M88, route travels from Vadapalani Bus Stand to Kundrathur Murugan Temple, 3
+tOWxTCWg, 65E, 65E, route travels from Poonamallee Terminus to Avadi Terminal, 3
+gmlIldML, 570S, 570S, route travels from CMBT Koyembedu Bus Depot to Siruchery I T Park, 3
+tNuoBXII, 150, 150, route travels from Broadway to Avadi Terminal, 3
+GPbNQmpM, 121M, 121M, route travels from Madhavaram New Bus Depot to CMBT Koyembedu Bus Depot, 3
+YwmKjKEd, 62M, 62M, route travels from MMBT to Poonamallee Terminus, 3
+ATzngzjq, 1C, 1C, route travels from Thiruvanmiyur Depot to Ennore Bus Depot, 3
+cHBnIVbr, 597C, 597C, route travels from Poonamallee Terminus to Thiruninravur Railway Station, 3
+xpUtfOfn, 153A, 153A, route travels from Thiruvallur Terminal to CMBT Koyembedu Bus Depot, 3
+cuigUTEx, 18ACT, 18ACT, route travels from Guindy Bus Terminus to Kilambakkam Bus Terminus, 3
+zHsFBzHW, 57F, 57F, route travels from Broadway to Karanodai Bus Stand, 3
+sBgKSiBv, 23C, 23C, route travels from Besant Nagar Terminus to Ayanavaram Bus Depot, 3
+PlGarRKU, 102CT, 102CT, route travels from Thiruvanmiyur Depot to Siruchery I T Park, 3
+QtYXsVfm, 120E, 120E, route travels from Kilkondaiyur to Broadway, 3
+xhWsyiLQ, 7M, 7M, route travels from Broadway to J J Nagar West Terminus, 3
+uFmVtCaM, 61A, 61A, route travels from Avadi Terminal to Melappedu, 3
+jmcoVuRh, 70F, 70F, route travels from Madhavaram New Bus Depot to Kilambakkam Bus Terminus, 3
+wLtXmiLv, 48C, 48C, route travels from Mint Bus Terminal Or Vallalar Nagar to CMBT Koyembedu Bus Depot, 3
+PSPEhyzK, 57X, 57X, route travels from Mint Bus Terminal Or Vallalar Nagar to Periyapalayam Bus stand, 3
+XHirRVDI, 120, 120, route travels from Avadi Terminal to Broadway, 3
+sifbGgGa, 221, 221, route travels from MGR Central Station to Thiruporur Bus Stand, 3
+HbAaufID, B19CT, B19CT, route travels from Sholinganallur to Siruchery I T Park, 3
+ksMyJvcu, 554B, 554B, route travels from Sunguvarchatram to Ekkattuthangal Or Ambal Nagar, 3
+CtpoCnXp, 38H, 38H, route travels from Madhavaram New Bus Depot to Broadway, 3
+cwKrHpjX, 20A, 20A, route travels from J J Nagar East Terminus to Broadway, 3
+fyWaAugz, 48A, 48A, route travels from Madhavaram New Bus Depot to Ambattur Industrial Estate, 3
+pgqOCbSB, 70G, 70G, route travels from Guduvancheri Bus Terminus to Vadapalani Bus Stand, 3
+BnJBzPmA, V51, V51, route travels from Tambaram West Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+AIwkYjtK, 47C, 47C, route travels from Kotturpuram to Ambattur OT Bus Stand, 3
+YaDtnnOv, 102X, 102X, route travels from Broadway to Thiruporur Bus Stand, 3
+WdVJJMuE, 578ET, 578ET, route travels from Kunnam Village to Poonamallee Terminus, 3
+MLqoLLpZ, 578, 578, route travels from Poonamallee Terminus to Sunguvarchatram, 3
+VCasQPDk, 572, 572, route travels from Avadi Terminal to Thiruvallur Terminal, 3
+cUGemyQg, 104P, 104P, route travels from Kilambakkam Bus Terminus to Perambur Bus Terminus, 3
+XqfDJqDY, 515B, 515B, route travels from Thiruporur Bus Stand to Tambaram West Bus Stand, 3
+QdnoGHXi, 88CET, 88CET, route travels from Thiyagaraya Nagar Bus Depot to Nandambakkam Village, 3
+UwljGEfU, 4M, 4M, route travels from Minjur Terminus to Broadway, 3
+FmsxNduD, 121G, 121G, route travels from CMBT Koyembedu Bus Depot to Kaviarasu Kannadasan Nagar Bus Stand, 3
+JPnlKWae, 53, 53, route travels from Poonamallee Terminus to Broadway, 3
+vxxDigiI, 28B, 28B, route travels from Ennore Bus Depot to Egmore North Railway Station, 3
+kpsRQHMg, 29AEX, 29AEX, route travels from Peravallur Kumaran Nagar to Anna Square, 3
+XfltyVGX, 5E, 5E, route travels from Vadapalani Bus Stand to Besant Nagar Terminus, 3
+jTAVLwqd, 2ACT, 2ACT, route travels from Anna Square to MGR Central Station, 3
+OPCdbxep, A1ET, A1ET, route travels from MGR Central Station to Okkiam Thoraipakm Sector Colony, 3
+KpuHtoxZ, 78, 78, route travels from Thiruvanmiyur Depot to CMBT Koyembedu Bus Depot, 3
+OPmVUcrZ, 505, 505, route travels from Thiruvallur Terminal to Redhills Bus Terminus, 3
+naQcINUJ, 164, 164, route travels from Minjur Terminus to Perambur Bus Terminus, 3
+rzOcCmdR, 114D, 114D, route travels from Arani to CMBT Koyembedu Bus Depot, 3
+JKPkkPVp, 129C, 129C, route travels from Nanganallur Bus Terminus to Perambur Bus Terminus, 3
+BRMNlOKH, 47D, 47D, route travels from Thiruvanmiyur Depot to Avadi Terminal, 3
+QnapEuAD, 60H, 60H, route travels from Sri Sankara Health Centre to Broadway, 3
+NwxPRwGW, S2, S2, route travels from Chromepet to Medavakkam Junction, 3
+clpgOHHR, 51A, 51A, route travels from Thiyagaraya Nagar Bus Depot to Tambaram East Bus Stop, 3
+SkJZCzVq, 29AET, 29AET, route travels from Anna Square to Periyar Nagar Bus Terminal, 3
+WfRLxNjf, S12, S12, route travels from Guindy Railway Station to Velachery Railway Station, 3
+FPTCgbpo, 51B, 51B, route travels from Saidapet to Karanai, 3
+rRhZwTxA, 18P, 18P, route travels from Broadway to Kilkattalai, 3
+piIujjzI, 221, 221, route travels from MGR Central Station to Thiruporur Bus Stand, 3
+xyASunXm, 34, 34, route travels from Ambattur Industrial Estate to Thiruvottiyur Bus Stand, 3
+ezRSRZNP, 157E, 157E, route travels from Redhills Bus Terminus to Ennore Bus Depot, 3
+KpgmnXDN, 62CT, 62CT, route travels from Avadi Terminal to Redhills Bus Terminus, 3
+xUBORkVw, 18G, 18G, route travels from Tambaram West Bus Stand to Broadway, 3
+VQDzHRgg, 55A, 55A, route travels from Pazhanthandalam Road Junction to Pallavaram Bus Stand, 3
+lFNolaax, S17, S17, route travels from Mandaveli Bus Terminus to Adyar Gandhi Nagar, 3
+uBsnXhER, 170C, 170C, route travels from Guindy Bus Terminus to Thiruvika Nagar Bus Depot, 3
+nNOdqhPv, 104, 104, route travels from Redhills Bus Terminus to Tambaram West Bus Stand, 3
+OxjRszNw, T29C, T29C, route travels from Perambur Bus Terminus to Thiruvanmiyur Depot, 3
+QzLCTrpJ, S54VCT, S54VCT, route travels from Poonamallee Terminus to Veppambaattu, 3
+tMFUwznN, 21G, 21G, route travels from Broadway to Kilambakkam Bus Terminus, 3
+dVWjKeKC, 572, 572, route travels from Thiruvallur Terminal to Avadi Terminal, 3
+ufgWxmiY, 37ECT, 37ECT, route travels from M K B Nagar to Vadapalani Bus Stand, 3
+rqDwzRuF, 33C, 33C, route travels from Broadway to Kaviarasu Kannadasan Nagar Bus Stand, 3
+AbeDVfAQ, 505, 505, route travels from Thiruvallur Terminal to Redhills Bus Terminus, 3
+gmXBGsAF, 37CT, 37CT, route travels from Mint Bus Terminal Or Vallalar Nagar to Dasarathapuram, 3
+jQCtrJOs, M18N, M18N, route travels from Nanganallur Bus Terminus to Guduvancheri Bus Terminus, 3
+FpzjeJne, 49, 49, route travels from Iyyappanthangal Bus Depot to Thiruvanmiyur Depot, 3
+BMrceKMK, 50, 50, route travels from Thiruverkadu Terminus to Broadway, 3
+KELFRuMV, M27, M27, route travels from Thiyagaraya Nagar Bus Depot to CMBT Koyembedu Bus Depot, 3
+PcxKdHVx, 6, 6, route travels from Thiruvanmiyur Depot to Broadway, 3
+suAJWvod, S25, S25, route travels from Vadapalani Bus Stand to Alapakkam Maduravoyal, 3
+CXUIetHZ, 26B, 26B, route travels from Mangadu to Broadway, 3
+pqBlWxRj, S6, S6, route travels from Vengambakkam Bus Stand to Tambaram West Bus Stand, 3
+mXngUSxm, B70CT, B70CT, route travels from Devi Eswari Nagar to Guindy Bus Terminus, 3
+lQiLDdtz, 500ET, 500ET, route travels from Chengalpattu New Bus Terminal to Chitlapakkam, 3
+dyBpHjMZ, 40L, 40L, route travels from J J Nagar West Terminus to Anna Square, 3
+LTtRqCpD, 188K, 188K, route travels from Kattrambakkam Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+CcNpcuqF, 40H, 40H, route travels from Anna Square to Pattabiram Terminal, 3
+pkrgondV, 88L, 88L, route travels from Vadapalani Bus Stand to Periya Colony, 3
+XokYUFKl, 47D, 47D, route travels from Avadi Terminal to Thiruvanmiyur Depot, 3
+ymuZfHZG, 21C, 21C, route travels from Kannagi Nagar Bus Stand to Broadway, 3
+BsFlachV, 91V, 91V, route travels from Thiruvanmiyur Depot to Guduvancheri Bus Terminus, 3
+rfIfAbJz, 36K, 36K, route travels from Redhills Bus Terminus to Thangal Toll Gate, 3
+zYjRXSeJ, 147C, 147C, route travels from Thiyagaraya Nagar Bus Depot to Ambattur OT Bus Stand, 3
+maGuyWUr, 63, 63, route travels from Thiruverkadu Terminus to Villivakkam Bus Stand, 3
+kPOgtjdb, 59, 59, route travels from Thiruverkadu Terminus to Mint Bus Terminal Or Vallalar Nagar, 3
+RbUPEwio, 76, 76, route travels from Medavakkam to CMBT Koyembedu Bus Depot, 3
+LtCbCyCW, 159E, 159E, route travels from Ennore Bus Depot to CMBT Koyembedu Bus Depot, 3
+POkYsCXA, 570, 570, route travels from CMBT Koyembedu Bus Depot to Kelambakkam Bus Terminal, 3
+TBSCuRDE, M70, M70, route travels from CMBT Koyembedu Bus Depot to Thiruvanmiyur Depot, 3
+tlGJtYVq, 555N, 555N, route travels from Thiruporur Bus Stand to Guduvancheri Bus Depot, 3
+BhhIwUeK, 302SP, 302SP, route travels from Trichy  Central Bus Stand to Tambaram West Bus Stand, 3
+ZKrRZWaC, 20P, 20P, route travels from Ambattur Industrial Estate to Poonamallee Terminus, 3
+XHYHIiLq, 114P, 114P, route travels from CMBT Koyembedu Bus Depot to Padianallur, 3
+gYJYZEAQ, S53, S53, route travels from Maduravoyal Yerikarai to Ambattur Industrial Estate, 3
+AgJNEYqZ, S98 CMRL Feeder Service, S98 CMRL Feeder Service, route travels from Little Mount Metro to Taramani Bus Terminus, 3
+NrymYrLj, 21, 21, route travels from Broadway to Mandaveli Bus Terminus, 3
+cYvlXqCZ, 31B, 31B, route travels from Tambaram West Bus Stand to Kandigai, 3
+FUsOBPKG, S24A, S24A, route travels from Shenoy Nagar Or Pulla Avenue to Kambar Colony, 3
+QAOkuzZz, 32B, 32B, route travels from Korukkupet Bus Stand to Swami Vivekananda House, 3
+UxBcJDMC, 70M, 70M, route travels from Kilambakkam Bus Terminus to MMBT, 3
+KIsmsSoZ, 308-SP, 308-SP, route travels from Tambaram West Bus Stand to Kumbakonam Bus Stand, 3
+BVzyhUda, M51D, M51D, route travels from Kelambakkam Bus Terminal to Saidapet, 3
+ZyIRtZtV, 54R, 54R, route travels from Chinnamalai B S or Saidapet Court to Poonamallee Municipality or Kumananchavadi, 3
+ALmWnyJh, 51J, 51J, route travels from Mambakkam to Broadway, 3
+XtEQaZee, 6D, 6D, route travels from Thiruvanmiyur Depot to Thangal Toll Gate, 3
+QvsbFPop, 578, 578, route travels from Sunguvarchatram to Poonamallee Terminus, 3
+PJqwYvly, 114P, 114P, route travels from Padianallur to CMBT Koyembedu Bus Depot, 3
+RhlHXGYI, S25, S25, route travels from Alapakkam Maduravoyal to Vadapalani Bus Stand, 3
+uYtkayOP, S74, S74, route travels from Pallavaram Railway Station to Kilkattalai, 3
+ZglBFAGH, 104A, 104A, route travels from Avadi Terminal to Kilambakkam Bus Terminus, 3
+jZBNEVSd, 70P, 70P, route travels from Perambur Bus Terminus to Kilambakkam Bus Terminus, 3
+GeYjRKrW, 64D, 64D, route travels from Broadway to Kosappur Bus Stand, 3
+kqLzvkIU, S28, S28, route travels from CMBT Koyembedu Bus Depot to Iyyappanthangal Bus Depot, 3
+HDeWMuZs, M1A, M1A, route travels from Nanganallur Bus Terminus to Thiruvanmiyur Depot, 3
+rYPqweAv, 32C, 32C, route travels from Mint Bus Terminal Or Vallalar Nagar to Chinthathripet Railway Station, 3
+okyxptog, 56C, 56C, route travels from Broadway to Thiruvottiyur Bus Stand, 3
+oIfXJczX, G18, G18, route travels from Guduvancheri Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+DatyTCZE, 99X, 99X, route travels from Adyar Old Depot to Kilambakkam Bus Terminus, 3
+MlmCDtiy, 17D, 17D, route travels from K K Nagar to Broadway, 3
+FGIXJtyB, 77, 77, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+YVmKhxvS, 78, 78, route travels from Thiruvanmiyur Depot to CMBT Koyembedu Bus Depot, 3
+cpKwndtz, 12B, 12B, route travels from Vadapalani Bus Stand to Foreshore Estate Bus Terminus, 3
+EDYUHWQk, 102A, 102A, route travels from Pudupakkam Or Vandaloor Road Junction to Thiruvanmiyur Depot, 3
+IiPgHQoe, 24A, 24A, route travels from Anna Nagar West Depot to Swami Vivekananda House, 3
+ntxeozJD, 19C, 19C, route travels from Okkiam Thoraipakm Sector Colony to Thiyagaraya Nagar Bus Depot, 3
+UcANSIXH, 40L, 40L, route travels from Anna Square to J J Nagar West Terminus, 3
+hLQXxlqg, 121F, 121F, route travels from Madhavaram New Bus Depot to Tambaram West Bus Stand, 3
+lLdKGaGZ, 40H, 40H, route travels from Pattabiram Terminal to Anna Square, 3
+DOTbXlRq, 105, 105, route travels from Siruchery I T Park to Tambaram West Bus Stand, 3
+IHyjqWWw, 18N, 18N, route travels from Kilkattalai to Broadway, 3
+IMJNUXKB, 45A, 45A, route travels from Swami Vivekananda House Terminus to Madipakkam Bus Stand, 3
+phJmCwdt, 3CT, 3CT, route travels from Tidel Park to Guindy Railway Station, 3
+FgiEaspl, 23C, 23C, route travels from Besant Nagar Terminus to Ayanavaram Bus Depot, 3
+LDtsotFS, B18, B18, route travels from Korukkupet Bus Stand to Tambaram West Bus Stand, 3
+ILPtZZyJ, M51, M51, route travels from Thiyagaraya Nagar Bus Depot to Pratyangira Temple, 3
+eODvKvue, M19B, M19B, route travels from Kannagi Nagar Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+iJRqLYQn, 553K, 553K, route travels from CMBT Koyembedu Bus Depot to Kattrambakkam, 3
+zqEKmTYn, 57E, 57E, route travels from Redhills Bus Terminus to Vichoor, 3
+IIxTyosb, 47A, 47A, route travels from Thiruvanmiyur Depot to Villivakkam Bus Stand, 3
+UTVooqWZ, 109X, 109X, route travels from Broadway to Thiruporur Bus Stand, 3
+XVWxRvPW, 118, 118, route travels from Maraimalai Nagar Bus Stand to Tambaram West Bus Stand, 3
+rMALoxIE, 77A, 77A, route travels from Ayapakkam Tnhb Bus Terminus to CMBT Koyembedu Bus Depot, 3
+SGIlWTBw, A1, A1, route travels from Thiruvanmiyur Depot to Secretariat, 3
+iVNwXbpP, 18G, 18G, route travels from Broadway to Tambaram West Bus Stand, 3
+ihUgkXwa, S18K, S18K, route travels from MGR Central Station to Parsn Nagar, 3
+QaWgJUCL, B70CT, B70CT, route travels from Guindy Bus Terminus to Devi Eswari Nagar, 3
+JPvGdoYi, 54FET, 54FET, route travels from Mylapore Tank to Agaram Mel, 3
+QVgNwcGb, 19T, 19T, route travels from Thiyagaraya Nagar Bus Depot to Kovalam Bus Stand, 3
+LkOAPaHy, 18K, 18K, route travels from Broadway to Saidapet West Bus Stand, 3
+eRDUodoM, 70N, 70N, route travels from CMBT Koyembedu Bus Depot to Nanganallur Bus Terminus, 3
+NQJihcCG, S15, S15, route travels from Thiruvanmiyur Railway Station to Madhya Kailash, 3
+jZTLFWAU, 159E, 159E, route travels from Ennore Bus Depot to CMBT Koyembedu Bus Depot, 3
+lpdDbxaz, 304SP, 304SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Vellore Bus Stand, 3
+OZKJoGfw, 53P, 53P, route travels from Broadway to Pattur, 3
+vaupCfpk, 18AET, 18AET, route travels from Kilambakkam Bus Terminus to Broadway, 3
+TIBIpKHT, 102X, 102X, route travels from Thiruporur Bus Stand to Broadway, 3
+jUSMxYIG, 65G, 65G, route travels from Avadi Terminal to Meyyur, 3
+YdKCWypy, 9M, 9M, route travels from Thiyagaraya Nagar Bus Depot to Ags Colony, 3
+ovJOYSAc, 558B, 558B, route travels from Redhills Bus Terminus to Pazhaverkadu, 3
+vyrTmGMA, S26, S26, route travels from Udhayam Theatre Or Ashok Pillar to Valasaravakkam, 3
+giQgpOij, 159, 159, route travels from Thiruvottiyur Bus Stand to Thiruverkadu Terminus, 3
+UHsQCcCn, M70, M70, route travels from CMBT Koyembedu Bus Depot to Thiruvanmiyur Depot, 3
+iaZkZhcB, 1D, 1D, route travels from Thiruvanmiyur Depot to Ennore Bus Depot, 3
+hKaYcNqd, 89T, 89T, route travels from Tambaram West Bus Stand to Kundrathur Bus Depot, 3
+HrDyNDZe, 102, 102, route travels from Kelambakkam Bus Terminal to Broadway, 3
+ZNwhOKua, 44, 44, route travels from Manali Bus Terminal to Broadway, 3
+qjovVAdW, 52G, 52G, route travels from Broadway to Cowl Bazar Ration Shop, 3
+NRhRSuHC, 142P, 142P, route travels from Perambur Bus Terminus to Puthagaram, 3
+GuxZlwpv, 52, 52, route travels from Pozhichalur to Broadway, 3
+qoKhkVvW, 37C, 37C, route travels from Vadapalani Bus Stand to Villivakkam Bus Stand, 3
+VcznaITN, S66, S66, route travels from Kundrathur Bus Depot to Pallavaram, 3
+VZbWLxkI, 9M, 9M, route travels from Ags Colony to Thiyagaraya Nagar Bus Depot, 3
+raBGnXqV, S76, S76, route travels from ST Thomas Mount MRTS to Thiyagaraya Nagar Bus Depot, 3
+kHtyBgfF, 17D, 17D, route travels from Broadway to K K Nagar, 3
+pvHVRndw, 104F, 104F, route travels from Madhavaram New Bus Depot to Kilambakkam Bus Terminus, 3
+ENuHbJJM, 42M, 42M, route travels from Broadway to MMBT, 3
+XJXxofss, 49A, 49A, route travels from Poonamallee Terminus to Thiyagaraya Nagar Bus Depot, 3
+jynbuesw, 88K, 88K, route travels from Kundrathur Bus Depot to Broadway, 3
+yZiMSRPs, S47M, S47M, route travels from CRPF School Or kuttavaili colony to Avadi Terminal, 3
+muFndLZB, 71EX, 71EX, route travels from Broadway to Thiruninravur, 3
+MDIZDUiT, 147B, 147B, route travels from J J Nagar West Terminus to Thiyagaraya Nagar Bus Depot, 3
+udeEYgAh, 207, 207, route travels from Thiruverkadu Terminus to Kilambakkam Bus Terminus, 3
+fveioVce, 570, 570, route travels from CMBT Koyembedu Bus Depot to Kelambakkam Bus Terminal, 3
+GkSIaNAk, 51, 51, route travels from Tambaram West Bus Stand to Velachery, 3
+mEGiJDnm, 588, 588, route travels from Mamallapuram to Thiruvanmiyur Depot, 3
+KFmySWzX, 1, 1, route travels from Thiruvottiyur Bus Stand to Thiruvanmiyur Depot, 3
+ZUSYMaEN, 91A, 91A, route travels from Hasthinapuram to Thiruvanmiyur Depot, 3
+upbnCNmn, S19, S19, route travels from Kilkattalai to Chromepet, 3
+JtFSiQdD, 53G, 53G, route travels from Poonamallee Terminus to Padurmedu, 3
+pZARJrLL, 7K, 7K, route travels from Broadway to Padi Kuppam, 3
+SCghqpwy, 102S, 102S, route travels from Okkiam Thoraipakm Sector Colony to Broadway, 3
+YYkjMjta, 15, 15, route travels from Broadway to CMBT Koyembedu Bus Depot, 3
+UVqAGaKT, 15, 15, route travels from CMBT Koyembedu Bus Depot to Broadway, 3
+VCPRGMnt, 70G, 70G, route travels from Guduvancheri Bus Terminus to Vadapalani Bus Stand, 3
+XccequNy, 170C, 170C, route travels from Thiruvika Nagar Bus Depot to Guindy Bus Terminus, 3
+lxRNeHwU, D70CT, D70CT, route travels from Velachery to Ambattur Industrial Estate, 3
+BGnYWghx, 42, 42, route travels from Broadway to Periyar Nagar Bus Terminal, 3
+eGtFJokQ, 46G, 46G, route travels from CMBT Koyembedu Bus Depot to Mullai Nagar Bus Stand, 3
+ALSKrpkk, 56J, 56J, route travels from Manali New Town Bus Stand to Broadway, 3
+LPOspwlY, 77K, 77K, route travels from CMBT Koyembedu Bus Depot to Karukku, 3
+LTmftdYB, 309SP, 309SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Villuppuram Bus Stand, 3
+qItaWAzc, 147A, 147A, route travels from J J Nagar East Terminus to Thiyagaraya Nagar Bus Depot, 3
+geABtZQb, 121, 121, route travels from CMBT Koyembedu Bus Depot to Minjur Terminus, 3
+WmWUVTZx, 42D, 42D, route travels from Srinivasa Nagar to Broadway, 3
+WRPDZFGI, 557M, 557M, route travels from Madarapakkam Bus Stand to Redhills Bus Terminus, 3
+QTzpBtcf, 147C, 147C, route travels from Ambattur OT Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+rsBTAEZE, 114CCT, 114CCT, route travels from CMBT Koyembedu Bus Depot to Gnayaru, 3
+BhHXWtCw, 114G, 114G, route travels from CMBT Koyembedu Bus Depot to Gnayaru, 3
+jEVzoDdr, 580, 580, route travels from Avadi Terminal to Arani, 3
+iazlvJOj, A51, A51, route travels from Broadway to Tambaram West Bus Stand, 3
+tGfMAPVh, 57, 57, route travels from Mint Bus Terminal Or Vallalar Nagar to Redhills Bus Terminus, 3
+BuHUzeaH, S56 CMRL Feeder Service, S56 CMRL Feeder Service, route travels from Thiruvottiyur Ajax Bus Depot to Manali Bus Terminal, 3
+FQdiasyV, 10E, 10E, route travels from Ekkattuthangal Or Ambal Nagar to Broadway, 3
+SHyiQLrB, A1, A1, route travels from Secretariat to Thiruvanmiyur Depot, 3
+JpXOpvpB, 19BET, 19BET, route travels from Thiyagaraya Nagar Bus Depot to Thaiyur Koman Nagar Road Junction, 3
+OlObGcHL, 121CT, 121CT, route travels from CMBT Koyembedu Bus Depot to MMBT, 3
+RaDXxmWT, 104M, 104M, route travels from MMBT to Kilambakkam Bus Terminus, 3
+OPgAVAFe, 120F, 120F, route travels from Ambatture Oragadam to Broadway, 3
+dhqBicGG, 54L, 54L, route travels from Broadway to Vellavedu, 3
+xSOtmJlg, 65A, 65A, route travels from Saidapet to Muthapudupet, 3
+FiKKGvHe, 5E, 5E, route travels from Besant Nagar Terminus to Vadapalani Bus Stand, 3
+SZsjcfnn, 27B, 27B, route travels from Anna Square to CMBT Koyembedu Bus Depot, 3
+oOyindlb, 38A, 38A, route travels from Broadway to Manali Bus Terminal, 3
+ECFRKHJS, 55D, 55D, route travels from Tambaram West Bus Stand to Nallambakkam, 3
+kXwwUyax, 568B, 568B, route travels from Velachery to Thiruporur Bus Stand, 3
+mKijdwdW, 557, 557, route travels from Gummidipoondi Terminal to MMBT, 3
+dVTrdeeq, 113, 113, route travels from Redhills Bus Terminus to Guindy Bus Terminus, 3
+DUJcDoox, 70J, 70J, route travels from J J Nagar West Terminus to Tambaram West Bus Stand, 3
+CynVFALG, 48AET, 48AET, route travels from Madhavaram New Bus Depot to J J Nagar West Terminus, 3
+jcEbEcOj, 70A, 70A, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+LOPewXXX, 102, 102, route travels from Broadway to Kelambakkam Bus Terminal, 3
+LdRQGfKy, 597A, 597A, route travels from Poonamallee Terminus to Thiruvallur Terminal, 3
+rRNRDNMl, 54S, 54S, route travels from Malayam Pakkam to Thiyagaraya Nagar Bus Depot, 3
+daAbhavB, 159E, 159E, route travels from CMBT Koyembedu Bus Depot to Ennore Bus Depot, 3
+rONyKVpG, 5S, 5S, route travels from Kannagi Nagar Bus Stand to Saidapet, 3
+gEvROeCr, 60A, 60A, route travels from Broadway to Kundrathur Bus Depot, 3
+YgxywKGi, 57H, 57H, route travels from Broadway to New Erumai Vetti Palayam Bus Stand, 3
+kjwiqgTW, 26R, 26R, route travels from Mugalivakkam to Broadway, 3
+CRtFeUfh, 51BET, 51BET, route travels from Thiyagaraya Nagar Bus Depot to Ottiyambakkam, 3
+gSWxhram, 109, 109, route travels from Kovalam Bus Stand to Broadway, 3
+cLhGEwRj, 91R, 91R, route travels from Velachery to Kilambakkam Bus Terminus, 3
+bpHZFPAV, 583D, 583D, route travels from Tambaram Sanatorium Bus Stand to Sriperumbudur Bus Terminal, 3
+cLqPlRJw, 579K, 579K, route travels from Kilambakkam Bus Terminus to Walajabad Bus Stand, 3
+XmsNlrDV, 566, 566, route travels from Kundrathur Bus Depot to Thiruporur Bus Stand, 3
+RZxqgGzs, S59, S59, route travels from Mangadu to Thiruverkadu Terminus, 3
+sxtlqUeR, 55V, 55V, route travels from Tambaram West Bus Stand to Kilambakkam Bus Terminus, 3
+XdjdCLhW, M27, M27, route travels from CMBT Koyembedu Bus Depot to Thiyagaraya Nagar Bus Depot, 3
+XxtprgfA, 102X, 102X, route travels from Thiruporur Bus Stand to Broadway, 3
+jeMBolXq, 56DET, 56DET, route travels from Mathur Bus Stand to Broadway, 3
+SJEHsipU, 54P, 54P, route travels from Thiyagaraya Nagar Bus Depot to Mangadu, 3
+yMqcrJdj, 76V, 76V, route travels from Sirucheri IT Park to CMBT Koyembedu Bus Depot, 3
+EsCJncKx, 17E, 17E, route travels from Saligramam Bus Stand to Broadway, 3
+zWllkryD, 31M, 31M, route travels from Madurapakkam to Tambaram West Bus Stand, 3
+bwGoJqFx, 56D, 56D, route travels from Manali Bus Terminal to Broadway, 3
+dlSfAaHp, 46ET, 46ET, route travels from CMBT Koyembedu Bus Depot to Periyar Nagar Bus Terminal, 3
+yJjllbjZ, 121G, 121G, route travels from Kaviarasu Kannadasan Nagar Bus Stand to CMBT Koyembedu Bus Depot, 3
+fKTQLOOK, 570, 570, route travels from CMBT Koyembedu Bus Depot to Kelambakkam Bus Terminal, 3
+SGFpEOML, V51, V51, route travels from Thiyagaraya Nagar Bus Depot to Tambaram West Bus Stand, 3
+zHEPDCBT, 70G, 70G, route travels from Guduvancheri Bus Terminus to Vadapalani Bus Stand, 3
+CmjstKZv, 91V, 91V, route travels from Guduvancheri Bus Terminus to Thiruvanmiyur Depot, 3
+XARHteoO, 27B, 27B, route travels from CMBT Koyembedu Bus Depot to Anna Square, 3
+cBKpkfUw, 63, 63, route travels from Villivakkam Bus Stand to Thiruverkadu Terminus, 3
+SBTxSURZ, 21, 21, route travels from Broadway to Mandaveli Bus Terminus, 3
+PlaonSJT, T19, T19, route travels from Okkiam Thoraipakm Sector Colony to Thiruporur Bus Stand, 3
+bMPXdijB, 19GCT, 19GCT, route travels from Kovalam Bus Stand to Saidapet West Bus Stand, 3
+gDuQKPrD, 32C, 32C, route travels from Mint Bus Terminal Or Vallalar Nagar to Chinthathripet Railway Station, 3
+ULfEpVnp, 34, 34, route travels from Thiruvottiyur Bus Stand to Ambattur Industrial Estate, 3
+yGYXewSO, 1, 1, route travels from Thiruvottiyur Bus Stand to Thiruvanmiyur Depot, 3
+RVaiQIUY, 592, 592, route travels from Uthukkottai to Redhills Bus Terminus, 3
+OkbTmEsp, 153P, 153P, route travels from Parambakkam Terminus to CMBT Koyembedu Bus Depot, 3
+CDhBQxTl, S88A, S88A, route travels from Porur Junction to Nandambakkam Village, 3
+MrTbijdm, 121, 121, route travels from Minjur Terminus to CMBT Koyembedu Bus Depot, 3
+xshPdEaQ, 558L, 558L, route travels from Minjur Market to CMBT Koyembedu Bus Depot, 3
+BKTwreIX, S80, S80, route travels from Tambaram Sanatorium Bus Stand to Kamakshi Amman Temple, 3
+UUCdsyzJ, 77CT, 77CT, route travels from CMBT Koyembedu Bus Depot to Thirumullaivoyal Venkatachalam Nagar, 3
+yHFXarYE, 27B, 27B, route travels from CMBT Koyembedu Bus Depot to Anna Square, 3
+IjFRCDzF, 57B, 57B, route travels from Pothur to Redhills Bus Terminus, 3
+FsjRgtQy, 8B, 8B, route travels from Thiruvika Nagar Bus Depot to Broadway, 3
+OJtIEUOM, 580A, 580A, route travels from Mel Sembedu to Avadi Terminal, 3
+weZmeJZT, 154B, 154B, route travels from Poonamallee to Nanganallur Bus Terminus, 3
+ZsZCqlAn, 53G, 53G, route travels from Padurmedu to Poonamallee Terminus, 3
+ufawxiZx, 95G, 95G, route travels from Okkiam Thoraipakm Sector Colony to Guduvancheri Bus Terminus, 3
+cUMQbRoO, 597C, 597C, route travels from Thiruninravur Railway Station to Poonamallee, 3
+CCgJZUFA, S60 CMRL Feeder Service, S60 CMRL Feeder Service, route travels from CMBT Koyembedu Bus Depot to Maduravoyal Yerikarai, 3
+vGUnJJwU, 18D, 18D, route travels from Kilkattalai to Broadway, 3
+gsSLwyMj, B18X, B18X, route travels from Kilambakkam Bus Terminus to Korukkupet Bus Stand, 3
+GszkvknU, S5, S5, route travels from Fort Railway Station to Secretariat, 3
+opcpRFPw, 70T, 70T, route travels from Kilambakkam Bus Terminus to Thiruvika Nagar Bus Depot, 3
+lxFKtuiz, 26B, 26B, route travels from Broadway to Mangadu, 3
+RQIhyDfA, 57F, 57F, route travels from Karanodai Bus Stand to Broadway, 3
+rGseZjOg, 48K, 48K, route travels from Kallikuppam Tea Kadai Bus Stop to Mint Bus Terminal Or Vallalar Nagar, 3
+SNKJTMdU, S6, S6, route travels from Tambaram West Bus Stand to Vengambakkam Bus Stand, 3
+moZWDjMp, 29C, 29C, route travels from Perambur Bus Terminus to Besant Nagar Terminus, 3
+bBqOJspN, 95, 95, route travels from Thiruvanmiyur Depot to Tambaram East Bus Stop, 3
+xpULzWZu, 71E, 71E, route travels from Pattabiram Terminal to Broadway, 3
+JttIsjyk, 51BET, 51BET, route travels from Ottiyambakkam to Thiyagaraya Nagar Bus Depot, 3
+XlTcrwZh, 547A, 547A, route travels from Periyapalayam Bus stand to Mint Bus Terminal Or Vallalar Nagar, 3
+vyRGzobJ, 170C, 170C, route travels from Guindy Bus Terminus to Thiruvika Nagar Bus Depot, 3
+XIgtpEZP, 64M, 64M, route travels from MMBT to MGR Central Station, 3
+wMkyVxRb, 29B, 29B, route travels from Saidapet to Perambur Bus Terminus, 3
+WEmirZTZ, 153T, 153T, route travels from CMBT Koyembedu Bus Depot to Thiruvallur Terminal, 3
+prYXtFWk, 66K, 66K, route travels from Kundrathur Bus Depot to Kilambakkam Bus Terminus, 3
+gPLmXZgR, 70LCT, 70LCT, route travels from Korattur Bus Terminus to Guindy Bus Terminus, 3
+qGtVvTrn, 121M, 121M, route travels from CMBT Koyembedu Bus Depot to Madhavaram New Bus Depot, 3
+DrYBtFdp, M18G, M18G, route travels from Guduvancheri Bus Terminus to Hasthinapuram, 3
+WMColGyL, 558A, 558A, route travels from Minjur Terminus to Redhills Bus Terminus, 3
+gcStJWOW, 27D, 27D, route travels from Villivakkam Bus Stand to Foreshore Estate Bus Terminus, 3
+cNkXDbgg, 26, 26, route travels from Broadway to Iyyappanthangal Bus Depot, 3
+fsxtiztW, 48B, 48B, route travels from Pudur to Mint Bus Terminal Or Vallalar Nagar, 3
+pZvfXeWD, 62B, 62B, route travels from Redhills Bus Terminus to J J Nagar West Terminus, 3
+OfRhIwZf, D70X, D70X, route travels from Ambattur Industrial Estate to Velachery Railway Station, 3
+woAsbIjb, 221CT, 221CT, route travels from Broadway to Perumbakkam, 3
+MFIGKnnX, 55D, 55D, route travels from Nallambakkam to Tambaram West Bus Stand, 3
+fsFCRmST, 77CT, 77CT, route travels from Thirumullaivoyal Venkatachalam Nagar to CMBT Koyembedu Bus Depot, 3
+wouGxDsk, 591C, 591C, route travels from Poonamallee Terminus to Narasingapuram, 3
+sVhTtgBG, M88, M88, route travels from Kundrathur Murugan Temple to Vadapalani Bus Stand, 3
+TCzBOEDh, 104CCT, 104CCT, route travels from CMBT Koyembedu Bus Depot to Kilambakkam Bus Terminus, 3
+mKONUcbP, 51B, 51B, route travels from Karanai to Saidapet, 3
+BSNYtXCi, 77, 77, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+SZQbhZem, 91ET, 91ET, route travels from Guduvancheri Bus Terminus to Okkiam Thoraipakm Sector Colony, 3
+uMZzYSsN, 129C, 129C, route travels from Perambur Bus Terminus to Nanganallur Bus Terminus, 3
+BLCcSpgb, 18D, 18D, route travels from Broadway to Kilkattalai, 3
+PzypSIwU, S81, S81, route travels from Pozhichalur to Chromepet, 3
+CpjUMtFk, 77M, 77M, route travels from Madanankuppam Or Korattur Village to CMBT Koyembedu Bus Depot, 3
+auBbVhUR, 15, 15, route travels from CMBT Koyembedu Bus Depot to Broadway, 3
+bzTquCip, 104M, 104M, route travels from Kilambakkam Bus Terminus to MMBT, 3
+yErMvJXz, 147V, 147V, route travels from Thiyagaraya Nagar Bus Depot to Thirumullaivoyal Venkatachalam Nagar, 3
+qsAJyZkN, 580, 580, route travels from Arani to Avadi Terminal, 3
+GRXJeLlO, 15C, 15C, route travels from Anna Nagar West Depot to Broadway, 3
+UpfIWLwH, 70V, 70V, route travels from CMBT Koyembedu Bus Depot to Kilambakkam Bus Terminus, 3
+XBMUuZpj, 55X, 55X, route travels from Mannivakkam Tank to Tambaram West Bus Stand, 3
+yVcMKHUZ, 99, 99, route travels from Adyar Old Depot to Tambaram West Bus Stand, 3
+UDGXlkXV, 77VET, 77VET, route travels from Koyambakkam to CMBT Koyembedu Bus Depot, 3
+xQnPaHfp, 19P, 19P, route travels from Kelambakkam Bus Terminal to Adyar Old Depot, 3
+HetkKHVm, 56A, 56A, route travels from Mint Bus Terminal Or Vallalar Nagar to Ennore Bus Depot, 3
+zMemMjBp, S167, S167, route travels from Pallavaram to Pattur, 3
+mHBpsATK, 65B, 65B, route travels from Poonamallee Terminus to Ambattur Industrial Estate, 3
+PQfFCdsA, 91, 91, route travels from Thiruvanmiyur Depot to Tambaram West Bus Stand, 3
+IjUvlUIs, 62M, 62M, route travels from Poonamallee Terminus to MMBT, 3
+COowaOeM, 52B, 52B, route travels from Hasthinapuram to Broadway, 3
+YWzgltaQ, M27, M27, route travels from Thiyagaraya Nagar Bus Depot to CMBT Koyembedu Bus Depot, 3
+asDVyXBD, M51R, M51R, route travels from Broadway to Puzhuthivakkam, 3
+ludynQWx, 62A, 62A, route travels from Ambattur Industrial Estate to Redhills Bus Terminus, 3
+BgWZcbDW, 95X, 95X, route travels from Kilambakkam Bus Terminus to Thiruvanmiyur Depot, 3
+MMJENDPp, 592, 592, route travels from Redhills Bus Terminus to Uthukkottai, 3
+McNMyYSP, 56D, 56D, route travels from Broadway to Manali Bus Terminal, 3
+TmunjXEU, 147CCT, 147CCT, route travels from Thiyagaraya Nagar Bus Depot to Ambattur Industrial Estate, 3
+ARbNCneu, S166, S166, route travels from Porur Junction to Mani Medu, 3
+ifWGJaBP, 29CX, 29CX, route travels from Mathur Bus Stand to Besant Nagar Terminus, 3
+EXdBRbVD, S99 CMRL Feeder Service, S99 CMRL Feeder Service, route travels from Shenoy Nagar Metro to Thiyagaraya Nagar Bus Depot, 3
+FKtmUgKL, 55AET, 55AET, route travels from Poonthandalam to Pallavaram Bus Stand, 3
+UkwKfFkR, 583, 583, route travels from Tambaram Sanatorium Bus Stand to Sriperumbudur Bus Terminal, 3
+UrrwQblI, 95, 95, route travels from Thiruvanmiyur Depot to Tambaram East Bus Stop, 3
+YNGlVqkB, S50, S50, route travels from Poonamallee Terminus to Avadi Terminal, 3
+PhfKrGEg, 54B, 54B, route travels from Saidapet to Porur Junction, 3
+myJQvrga, 71EX, 71EX, route travels from Thiruninravur Bus Stand to Broadway, 3
+xjJHuwGz, S70K, S70K, route travels from Korattur Water Canal Road to Thirumangalam Metro, 3
+vPvCqDyK, 557, 557, route travels from Madhavaram Bus Depot to Gummidipoondi Terminal, 3
+ALxYNCis, 76V, 76V, route travels from CMBT Koyembedu Bus Depot to Sirucheri IT Park, 3
+kSaAhvpf, 21GCT, 21GCT, route travels from Broadway to Guindy Bus Terminus, 3
+bueDaajm, 104P, 104P, route travels from Perambur Bus Terminus to Kilambakkam Bus Terminus, 3
+aeBmLdDK, 18E, 18E, route travels from Ramapuram to Broadway, 3
+iVMJmXBe, 99C, 99C, route travels from Tambaram West Bus Stand to Semmancheri Bus Stand, 3
+fQxGxYsv, 70J, 70J, route travels from J J Nagar West Terminus to Tambaram West Bus Stand, 3
+lMUepwzh, 40A, 40A, route travels from Anna Square to Pattabiram Terminal, 3
+nbFknTCI, S54VCT, S54VCT, route travels from Veppambaattu to Poonamallee Terminus, 3
+sepvBKMB, 52H, 52H, route travels from Pozhichalur to Hasthinapuram, 3
+EdyfJmJf, 51AX, 51AX, route travels from Thiyagaraya Nagar Bus Depot to Kilambakkam Bus Terminus, 3
+xZjETnJu, 104, 104, route travels from Tambaram West Bus Stand to Redhills Bus Terminus, 3
+RxJbdues, T23C, T23C, route travels from Thiruvanmiyur Depot to Ayanavaram Bus Depot, 3
+iJixhwXS, 33C, 33C, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Broadway, 3
+FcAnokBQ, 47CX, 47CX, route travels from Ayampakkam to Thiyagaraya Nagar Bus Depot, 3
+GTIsrJAY, M27, M27, route travels from CMBT Koyembedu Bus Depot to Thiyagaraya Nagar Bus Depot, 3
+zYPkoPAQ, 202X, 202X, route travels from Avadi Terminal to Kilambakkam Bus Terminus, 3
+bkIVSyXX, 70H, 70H, route travels from CMBT Koyembedu Bus Depot to Hasthinapuram, 3
+wVGPDYsB, 70V, 70V, route travels from CMBT Koyembedu Bus Depot to Kilambakkam Bus Terminus, 3
+vCwhwtAS, M60, M60, route travels from Thiyagaraya Nagar Bus Depot to Nandambakkam.Kalaignar Nagar, 3
+IKtxIMuI, 91, 91, route travels from Tambaram West Bus Stand to Thiruvanmiyur Depot, 3
+rSYRljuG, 119G, 119G, route travels from Perumbakkam to Guindy Bus Terminus, 3
+wGIszZZN, S26, S26, route travels from Valasaravakkam to Udhayam Theatre Or Ashok Pillar, 3
+putxypkY, 91R, 91R, route travels from Kilambakkam Bus Terminus to Velachery, 3
+rAvQUNzR, 13, 13, route travels from Thiyagaraya Nagar Bus Depot to Broadway, 3
+ZeXEImbQ, 4, 4, route travels from Ennore Bus Depot to Broadway, 3
+EIjddzIR, 72, 72, route travels from Thiruverkadu Terminus to Thiyagaraya Nagar Bus Depot, 3
+aIvPTAZe, S95, S95, route travels from Velachery to Perungudi, 3
+yuXtBAmh, A45B, A45B, route travels from Anna Square to Trade Centre Nandambakkam, 3
+vxDLIFco, S86, S86, route travels from Thiyagaraya Nagar Bus Depot to Ramapuram, 3
+PqamvTzG, S30CT, S30CT, route travels from Guindy Bus Terminus to Guindy Bus Terminus, 3
+exmFoqzE, S44, S44, route travels from Perambur Bus Terminus to Villivakkam Bus Stand, 3
+yCEaBTGW, 121A, 121A, route travels from CMBT Koyembedu Bus Depot to Manali Bus Terminal, 3
+tArphxUF, 64K, 64K, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Broadway, 3
+OIzSgYNI, 109X, 109X, route travels from Thiruporur Bus Stand to Broadway, 3
+lkfBziWc, S25A, S25A, route travels from Iyyappanthangal Bus Depot to Maduravoyal Yerikarai, 3
+vLgNuMEM, 121C, 121C, route travels from Ennore Bus Depot to CMBT Koyembedu Bus Depot, 3
+jTecvBaJ, A5, A5, route travels from Thiyagaraya Nagar Bus Depot to Bharat Engineering College Or Balaji Nagar, 3
+iRUTcOQk, 266, 266, route travels from Avadi Terminal to Tambaram West Bus Stand, 3
+ZCHDeCnt, 46, 46, route travels from Thiruvika Nagar Bus Depot to CMBT Koyembedu Bus Depot, 3
+ADEycAuT, 59, 59, route travels from Mint Bus Terminal Or Vallalar Nagar to Thiruverkadu Terminus, 3
+PyawtTSX, 147C, 147C, route travels from Thiyagaraya Nagar Bus Depot to Ambattur OT Bus Stand, 3
+cVJaJCAo, 76, 76, route travels from CMBT Koyembedu Bus Depot to Medavakkam, 3
+fjATpLme, 95, 95, route travels from Tambaram East Bus Stop to Thiruvanmiyur Depot, 3
+ngjikJor, 154P, 154P, route travels from Thiyagaraya Nagar Bus Depot to Pattur, 3
+MDZdWdVM, 37, 37, route travels from Poonamallee Terminus to Mint Bus Terminal Or Vallalar Nagar, 3
+rEautfUc, 77, 77, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+GPVxliCs, J66, J66, route travels from Poonamallee Terminus to Tambaram West Bus Stand, 3
+ngiNMOrb, D70, D70, route travels from Velachery to Ambattur Industrial Estate, 3
+DsGnSRYL, S13, S13, route travels from Guindy Railway Station to Velachery, 3
+dEZKzvzn, 522, 522, route travels from Adyar Old Depot to Manamathi Or Acharavakkam, 3
+ZpbkBTvY, S86, S86, route travels from Ramapuram to Thiyagaraya Nagar Bus Depot, 3
+EyJHdtbU, 121F, 121F, route travels from Tambaram West Bus Stand to Madhavaram New Bus Depot, 3
+doInBvRA, 159B, 159B, route travels from Thangal Toll Gate to CMBT Koyembedu Bus Depot, 3
+utHsIdbL, 40H, 40H, route travels from Pattabiram Terminal to Anna Square, 3
+jAtRoAna, 32A, 32A, route travels from Thangal Toll Gate to Foreshore Estate Bus Terminus, 3
+lHbcVPTT, M18, M18, route travels from Tambaram West Bus Stand to Kilambakkam Bus Terminus, 3
+uwzArZNb, 56ACT, 56ACT, route travels from Ennore Bus Depot to Thangal Toll Gate, 3
+SqGayweC, M51D, M51D, route travels from Saidapet to Kelambakkam Bus Terminal, 3
+VNWwCXMc, 105, 105, route travels from Tambaram West Bus Stand to Siruchery I T Park, 3
+nnvIPDML, 16J, 16J, route travels from Poonamallee Terminus to CMBT Koyembedu Bus Depot, 3
+CugWzkgh, 570T, 570T, route travels from Thalambur to CMBT Koyembedu Bus Depot, 3
+BIHCHkyv, S18K, S18K, route travels from Parsn Nagar to MGR Central Station, 3
+IkTzEaVj, 547, 547, route travels from Periyapalayam Bus stand to Redhills Bus Terminus, 3
+KnXSRecR, 505, 505, route travels from Redhills Bus Terminus to Thiruvallur Terminal, 3
+kgnHeOyL, A51, A51, route travels from Tambaram West Bus Stand to Broadway, 3
+IQhRZjqN, 597A, 597A, route travels from Thiruvallur Terminal to Poonamallee Terminus, 3
+tEEYsOIC, 120CT, 120CT, route travels from Thirumullaivoyal Venkatachalam Nagar to Broadway, 3
+mbobCtHl, 102, 102, route travels from Kelambakkam Bus Terminal to Broadway, 3
+VJzzBkAZ, 95W, 95W, route travels from Tambaram West Bus Stand to Thiruvanmiyur Depot, 3
+rqVmBCBV, 29B, 29B, route travels from Perambur Bus Terminus to Saidapet, 3
+GYxbwmGD, 49A, 49A, route travels from Thiyagaraya Nagar Bus Depot to Poonamallee Terminus, 3
+BnnyFnBm, 77P, 77P, route travels from Koyambedu Market to Poochi Athipet, 3
+fgDszKdc, S48, S48, route travels from Avadi Terminal to Siranjeevi Nagar, 3
+QiUauzyE, 56A, 56A, route travels from Ennore Bus Depot to Mint Bus Terminal Or Vallalar Nagar, 3
+OWiqlryc, 18G, 18G, route travels from Broadway to Tambaram West Bus Stand, 3
+IKRozDUH, S2, S2, route travels from Medavakkam Junction to Chromepet, 3
+bFCCWBnK, 5G, 5G, route travels from Thiyagaraya Nagar Bus Depot to Kannagi Nagar Bus Stand, 3
+FzawmCEq, E51, E51, route travels from Broadway to Ottiyambakkam, 3
+bJBGElWm, 558B, 558B, route travels from Pazhaverkadu to Redhills Bus Terminus, 3
+XielWPfV, 26R, 26R, route travels from Broadway to Mugalivakkam, 3
+KPRKgYqA, 104F, 104F, route travels from Kilambakkam Bus Terminus to Madhavaram New Bus Depot, 3
+toQvBdRk, 159A, 159A, route travels from CMBT Koyembedu Bus Depot to Thiruvottiyur Bus Stand, 3
+gwppptux, 552K, 552K, route travels from Kilkattalai to Thiruporur Bus Stand, 3
+EEucKyri, 88M, 88M, route travels from Somangalam Bus Stand to Vadapalani Bus Stand, 3
+IFXcaicn, 62, 62, route travels from Poonamallee Terminus to Redhills Bus Terminus, 3
+PCXFSoZA, 207, 207, route travels from Kilambakkam Bus Terminus to Thiruverkadu Terminus, 3
+siSocwAh, 70E, 70E, route travels from Kilambakkam Bus Terminus to Mullai Nagar Bus Stand, 3
+HoIdhCrm, 572K, 572K, route travels from Ambattur Industrial Estate to Keelanur, 3
+vFmsGSCg, 18ACT, 18ACT, route travels from Kilambakkam Bus Terminus to Guindy Bus Terminus, 3
+KWqWrMxG, 47CX, 47CX, route travels from Thiyagaraya Nagar Bus Depot to Ayampakkam, 3
+eOLQsVPi, S73, S73, route travels from Ambattur Industrial Estate to Thiruverkadu Terminus, 3
+GLLRiPMc, S40, S40, route travels from Pallavaram to Indira Nagar, 3
+aNgXNqoq, 41D, 41D, route travels from Ambattur OT Bus Stand to Mandaveli Bus Terminus, 3
+EjaarrjI, 188C, 188C, route travels from Broadway to Kundrathur Bus Depot, 3
+LMOocKuz, 102X, 102X, route travels from Broadway to Thiruporur Bus Stand, 3
+wxdPOsgK, 77M, 77M, route travels from CMBT Koyembedu Bus Depot to Madanankuppam (Korattur Village), 3
+MdOIqUVo, 159K, 159K, route travels from CMBT Koyembedu Bus Depot to Kargil Nagar, 3
+rnJewZfn, 119, 119, route travels from Guindy Bus Terminus to Semmancheri Bus Stand, 3
+QBAcsuqd, C56C, C56C, route travels from Thiruvottiyur Bus Stand to Broadway, 3
+VjtmiygA, T29C, T29C, route travels from Perambur Bus Terminus to Thiruvanmiyur Depot, 3
+EpHoUerw, 55AET, 55AET, route travels from Pallavaram Bus Stand to Poonthandalam, 3
+LizpYfkr, S41, S41, route travels from Dr Ambedkar Statue to Avadi Terminal, 3
+RNoBRuEh, 66K, 66K, route travels from Kilambakkam Bus Terminus to Kundrathur Bus Depot, 3
+nzRdyMCa, 570S, 570S, route travels from Siruchery I T Park to CMBT Koyembedu Bus Depot, 3
+aQkxAtsL, 52C, 52C, route travels from Thiyagaraya Nagar Bus Depot to Hasthinapuram, 3
+lYSvovGx, 77FCT, 77FCT, route travels from Vathattur to Avadi Terminal, 3
+cmRuvaBQ, 60G, 60G, route travels from Pozhichalur to Broadway, 3
+HLUAnIfs, 70, 70, route travels from Avadi Terminal to Tambaram West Bus Stand, 3
+yddZVqjr, S18CT, S18CT, route travels from Kilambakkam Bus Terminus to Kilambakkam Bus Terminus, 3
+gOyDaUdQ, 15F, 15F, route travels from Vadapalani Bus Stand to Broadway, 3
+akPteLMy, 13, 13, route travels from Broadway to Thiyagaraya Nagar Bus Depot, 3
+DRJMiKay, 54E, 54E, route travels from Meppur to Saidapet, 3
+dhpXKyoi, 70ACT, 70ACT, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+UCebvLpf, 1C, 1C, route travels from Ennore Bus Depot to Thiruvanmiyur Depot, 3
+RqDQcEoD, 568B, 568B, route travels from Thiruporur Bus Stand to Velachery, 3
+vWJGNZIQ, 515A, 515A, route travels from Kovalam Bus Stand to Tambaram West Bus Stand, 3
+mQipDLIW, 12G, 12G, route travels from Anna Square to K K Nagar, 3
+PmRnbZJu, 18R, 18R, route travels from Broadway to Nanganallur Bus Terminus, 3
+DRTPJSPc, 597ACT, 597ACT, route travels from Vellavedu to Thiruvallur Terminal, 3
+LpykyGVp, 114C, 114C, route travels from CMBT Koyembedu Bus Depot to Thamaraipakkam Junction, 3
+AjqCJgsz, 120K, 120K, route travels from Broadway to Kadhavoor Bus Stand, 3
+YAgtcTJM, 70F, 70F, route travels from Kilambakkam Bus Terminus to Madhavaram New Bus Depot, 3
+vttFIKDf, S52, S52, route travels from Thiruverkadu Terminus to Avadi Terminal, 3
+NWZhVMrv, 37ECT, 37ECT, route travels from Vadapalani Bus Stand to M K B Nagar, 3
+IvVODLOq, 56J, 56J, route travels from Broadway to Manali New Town Bus Stand, 3
+NFBzjTFs, 104G, 104G, route travels from Kilambakkam Bus Terminus to Mullai Nagar Bus Stand, 3
+ntuHoTkS, 1, 1, route travels from Thiruvanmiyur Depot to Thiruvottiyur Bus Stand, 3
+nXInFiiy, 583, 583, route travels from Sriperumbudur Bus Terminal to Tambaram Sanatorium Bus Stand, 3
+TgtqptVH, 109C, 109C, route travels from Thiruvanmiyur Depot to Kovalam Bus Stand, 3
+ixRggVIK, 24A, 24A, route travels from Swami Vivekananda House Terminus to Anna Nagar West Depot, 3
+gxMYQxDp, 78, 78, route travels from CMBT Koyembedu Bus Depot to Thiruvanmiyur Depot, 3
+rDPaGpUU, 35, 35, route travels from Broadway to Korattur Bus Terminus, 3
+QYiJoMdR, 47A, 47A, route travels from Villivakkam Bus Stand to Thiruvanmiyur Depot, 3
+FHnoUiuD, 51AX, 51AX, route travels from Kilambakkam Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+vTlEFrde, 48P, 48P, route travels from Puthagaram to Vallalar Nagar Bus Depot, 3
+JRlBnPZu, 54P, 54P, route travels from Mangadu to Thiyagaraya Nagar Bus Depot, 3
+YsekbDgR, 583C, 583C, route travels from Tambaram Sanatorium Bus Stand to Sriperumbudur Bus Terminal, 3
+SvxoQlTf, 57C, 57C, route travels from Arumandai Road Junction to Mint Bus Terminal Or Vallalar Nagar, 3
+MLvIQBjQ, S99 CMRL Feeder Service, S99 CMRL Feeder Service, route travels from Thiyagaraya Nagar Bus Depot to Shenoy Nagar Metro, 3
+KFSazmFw, 142, 142, route travels from Vinayagapuram to Perambur Bus Terminus, 3
+XpwgZKzT, 314SP, 314SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Arni Bus Stand, 3
+ukexzIYG, 118ET, 118ET, route travels from Tambaram West Bus Stand to Kalivanthapattu, 3
+fgMaJSiP, 114, 114, route travels from CMBT Koyembedu Bus Depot to Redhills Bus Terminus, 3
+FttDfWMC, 42B, 42B, route travels from Broadway to Poompuhar Nagar, 3
+keJyNKNN, 71H, 71H, route travels from Broadway to Kamaraj Nagar, 3
+pbhZcQiY, 56K, 56K, route travels from Kargil Nagar to Broadway, 3
+uiGOsOlA, 206, 206, route travels from Guduvancheri Bus Depot to Avadi Terminal, 3
+RNoiKmmR, 19C, 19C, route travels from Thiyagaraya Nagar Bus Depot to Okkiam Thoraipakm Sector Colony, 3
+NAWaWkFC, 65B, 65B, route travels from Ambattur Industrial Estate to Poonamallee Terminus, 3
+tELvrFae, 1B, 1B, route travels from Thiruvottiyur Bus Stand to Tambaram West Bus Stand, 3
+UfIjpOQp, 99A, 99A, route travels from Tambaram West Bus Stand to P U Office Sholinganallur, 3
+VODEvLux, M1, M1, route travels from Kilkattalai to Thiruvanmiyur Depot, 3
+lvELrXcy, 570B, 570B, route travels from CMBT Koyembedu Bus Depot to Okkiam Thoraipakm Sector Colony, 3
+oXgjHFeg, 66G, 66G, route travels from Anagaputhur to Guduvancheri Bus Terminus, 3
+SCwqdmrs, S48, S48, route travels from Siranjeevi Nagar to Avadi Terminal, 3
+CoTEVLKV, 597CEXT, 597CEXT, route travels from Poonamallee to Thiruninravur Bus Stand, 3
+pkWmQHbc, 21X, 21X, route travels from Guindy Bus Terminus to Broadway, 3
+FpyrCfSl, SC1, SC1, route travels from Ioc Bus Depot to Ioc Bus Depot, 3
+NGBlvSBo, 570S, 570S, route travels from Siruchery I T Park to CMBT Koyembedu Bus Depot, 3
+uVWmjkAe, 88CT, 88CT, route travels from Vadapalani Bus Stand to Porur, 3
+DlwotXst, 515, 515, route travels from Mamallapuram to Tambaram West Bus Stand, 3
+QkpQyYQf, 33C, 33C, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Broadway, 3
+UHuHGAMg, 12X, 12X, route travels from CMBT Koyembedu Bus Depot to Foreshore Estate Bus Terminus, 3
+DsCEtbxB, 46G, 46G, route travels from CMBT Koyembedu Bus Depot to Mullai Nagar Bus Stand, 3
+OiTeaPOx, S40, S40, route travels from Indira Nagar to Pallavaram, 3
+IrlczKIk, 18K, 18K, route travels from Saidapet West Bus Stand to Broadway, 3
+nntQFMSb, 11, 11, route travels from Broadway to Thiyagaraya Nagar Bus Depot, 3
+uptizJbu, 221, 221, route travels from Thiruporur Bus Stand to MGR Central Station, 3
+mjVZiwWd, N45B, N45B, route travels from Kilkattalai to Broadway, 3
+zTqHJPjB, 44CT, 44CT, route travels from Broadway to Ioc Bus Depot, 3
+oOfajzbF, 66, 66, route travels from Tambaram West Bus Stand to Poonamallee Terminus, 3
+NtEUeiGQ, 580M, 580M, route travels from Malanthur to Avadi Terminal, 3
+PocGtgLf, 70ACT, 70ACT, route travels from CMBT Koyembedu Bus Depot to Avadi Terminal, 3
+UOhWXJGt, 120CT, 120CT, route travels from Broadway to Thirumullaivoyal Venkatachalam Nagar, 3
+zknAAXxD, S81, S81, route travels from Chromepet to Pozhichalur, 3
+lcGFcOZF, 114P, 114P, route travels from Padianallur to CMBT Koyembedu Bus Depot, 3
+sqnOBhge, 77B, 77B, route travels from Oragadam to CMBT Koyembedu Bus Depot, 3
+djBuBuTu, 25, 25, route travels from Anna Square to Poonamallee Terminus, 3
+ZYHixGLG, 66X, 66X, route travels from Guduvancheri Bus Terminus to Poonamallee Terminus, 3
+MeXazWAz, 65E, 65E, route travels from Avadi Terminal to Poonamallee Terminus, 3
+iWJYzTwb, S96 CMRL Feeder Service, S96 CMRL Feeder Service, route travels from Secretariat to Simson Or Periyar Bridge, 3
+xqYGOtYR, 32C, 32C, route travels from Chinthathripet Railway Station to Mint Bus Terminal Or Vallalar Nagar, 3
+ifmPoPrD, 111ET, 111ET, route travels from Thiruverkadu Terminus to Kilambakkam Bus Terminus, 3
+ILveCFae, S75, S75, route travels from Padi Lucas TVS to Ambattur OT Bus Stand, 3
+OsTrNFuc, A1ET, A1ET, route travels from Okkiam Thoraipakm Sector Colony to MGR Central Station, 3
+KrfNSepI, 109, 109, route travels from Broadway to Kovalam Bus Stand, 3
+bujVkGGi, B18, B18, route travels from Tambaram West Bus Stand to Korukkupet Bus Stand, 3
+cpjTFcfi, 579A, 579A, route travels from Tambaram Sanatorium Bus Stand to Walajabad Bus Stand, 3
+XCRJgwEc, 109, 109, route travels from Kovalam Bus Stand to Broadway, 3
+IEgxCLOD, 301SP, 301SP, route travels from Trichy  Central Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+KufpEUkG, 121C, 121C, route travels from CMBT Koyembedu Bus Depot to Ennore Bus Depot, 3
+AnYITImi, 312SP, 312SP, route travels from Perambalur Bus Stand to Tambaram West Bus Stand, 3
+WTtpavLN, 14M, 14M, route travels from Medavakkam Koot Road to Saidapet, 3
+geNZIRUr, 60A, 60A, route travels from Kundrathur Bus Depot to Broadway, 3
+lFuiPwOo, T19, T19, route travels from Thiruporur Bus Stand to Okkiam Thoraipakm Sector Colony, 3
+lUHbGVCq, 45B, 45B, route travels from Broadway to Guindy Bus Terminus, 3
+pGzWTgjI, 71H, 71H, route travels from Kamaraj Nagar to Broadway, 3
+xheIpaOH, 54FET, 54FET, route travels from Agaram Mel to Mylapore Tank, 3
+xdewLfHi, 121A, 121A, route travels from Manali Bus Terminal to CMBT Koyembedu Bus Depot, 3
+jYzbxVpl, 120KET, 120KET, route travels from Broadway to Kilkondaiyur, 3
+DWHvpkkL, 15BET, 15BET, route travels from CMBT Koyembedu Bus Depot to Odeanmani Theatre, 3
+MbNtfyGh, 515B, 515B, route travels from Thiruporur Bus Stand to Tambaram West Bus Stand, 3
+SRyXqxIR, 309SP, 309SP, route travels from Villuppuram Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+BSHLMmsI, 55B, 55B, route travels from Tambaram West Bus Stand to Pazhanthandalam Road Junction, 3
+sozYdolz, 570, 570, route travels from Kelambakkam Bus Terminal to CMBT Koyembedu Bus Depot, 3
+NAYdCEiE, 114, 114, route travels from Redhills Bus Terminus to CMBT Koyembedu Bus Depot, 3
+dZrRVwvv, 29CCT, 29CCT, route travels from Perambur Bus Terminus to Metrological Department Sterling Road, 3
+CWNVdzGt, 18P, 18P, route travels from Kilkattalai to Broadway, 3
+NCRbybPI, 578A, 578A, route travels from Sriperumbudur Bus Terminal to Kundrathur Bus Depot, 3
+ozopzhfB, S70K, S70K, route travels from Thirumangalam Metro to Korattur Water Canal Road, 3
+rqRumvNI, 104CCT, 104CCT, route travels from Kilambakkam Bus Terminus to CMBT Koyembedu Bus Depot, 3
+EXMdVipE, 154P, 154P, route travels from Pattur to Thiyagaraya Nagar Bus Depot, 3
+VZDzLWVK, 114CCT, 114CCT, route travels from Gnayaru to CMBT Koyembedu Bus Depot, 3
+sGSIvJba, 102S, 102S, route travels from Broadway to Okkiam Thoraipakm Sector Colony, 3
+ZHlktcSc, 61A, 61A, route travels from Melappedu to Avadi Terminal, 3
+RcYVVOoQ, 19GCT, 19GCT, route travels from Saidapet West Bus Stand to Kovalam Bus Stand, 3
+QayndlCS, 557C, 557C, route travels from Kallur to Redhills Bus Terminus, 3
+eoMjJOQK, M70, M70, route travels from Thiruvanmiyur Depot to CMBT Koyembedu Bus Depot, 3
+XuTSONUv, 22, 22, route travels from Villivakkam Bus Stand to Foreshore Estate MTC Bus Stop, 3
+HqvzxMOY, 119G, 119G, route travels from Guindy Bus Terminus to Perumbakkam, 3
+ipGhblvA, 555M, 555M, route travels from Tambaram West Bus Stand to Thiruporur Bus Stand, 3
+umBMjDKT, 24A, 24A, route travels from Swami Vivekananda House to Anna Nagar West Depot, 3
+kxvZRXGl, 31G, 31G, route travels from Medavakkam Koot Road to Tambaram West Bus Stand, 3
+GGTQCxCV, 118P, 118P, route travels from Parameshwari Nagar to Tambaram West Bus Stand, 3
+CvSKXHff, 570C, 570C, route travels from CMBT Koyembedu Bus Depot to Kannagi Nagar Bus Stand, 3
+MlOwcdQQ, 51A, 51A, route travels from Thiyagaraya Nagar Bus Depot to Tambaram East Bus Stop, 3
+vnunIlpY, 48BX, 48BX, route travels from Oragadam to Mint Bus Terminal Or Vallalar Nagar, 3
+SRDGgKSY, 7E, 7E, route travels from Ambattur Industrial Estate to Broadway, 3
+fHkfFSyN, 56K, 56K, route travels from Broadway to Kargil Nagar, 3
+TaHKSaDv, 52B, 52B, route travels from Broadway to Hasthinapuram, 3
+dOqAsvCO, 11G, 11G, route travels from K K Nagar to Broadway, 3
+OUWHOhfl, 23V, 23V, route travels from Velachery to Villivakkam Bus Stand, 3
+yxTTHuTW, 104A, 104A, route travels from Kilambakkam Bus Terminus to Avadi Terminal, 3
+ZFmoWObZ, 48B, 48B, route travels from Mint Bus Terminal Or Vallalar Nagar to Pudur, 3
+NQMqBWeY, A1, A1, route travels from MGR Central Station to Thiruvanmiyur Depot, 3
+bVdGXjga, 99, 99, route travels from Tambaram West Bus Stand to Adyar Old Depot, 3
+PydJMLzT, S4, S4, route travels from Medavakkam Junction to Chromepet, 3
+BTuKbmBy, 102C, 102C, route travels from Broadway to Semmancheri Bus Stand, 3
+TEnQULgb, 91, 91, route travels from Thiruvanmiyur Depot to Tambaram West Bus Stand, 3
+vOCyKoAm, S20, S20, route travels from Ashok Pillar to DLF Or L and T, 3
+ldtidJFQ, 21G, 21G, route travels from Kilambakkam Bus Terminus to Broadway, 3
+hDGOGdXb, 102, 102, route travels from Broadway to Kelambakkam Bus Terminal, 3
+XYzTfyIy, 118N, 118N, route travels from Neelamangalam to Tambaram West Bus Stand, 3
+ncxsZEFl, 7M, 7M, route travels from Broadway to J J Nagar West Terminus, 3
+lVdKryiv, 51A, 51A, route travels from Tambaram East Bus Stop to Thiyagaraya Nagar Bus Depot, 3
+gzpUrtVB, 104K, 104K, route travels from Redhills Bus Terminus to Kilambakkam Bus Terminus, 3
+ZnITscBZ, 38C, 38C, route travels from Swami Vivekananda House Terminus to Thiruvika Nagar Bus Depot, 3
+RAvgtJqc, 15F, 15F, route travels from Broadway to Vadapalani Bus Stand, 3
+LozklbiR, 77A, 77A, route travels from CMBT Koyembedu Bus Depot to Ayapakkam Tnhb Bus Terminus, 3
+lbTGuKul, 114A, 114A, route travels from Redhills Bus Terminus to Ayanavaram Bus Depot, 3
+azUitvxF, E18, E18, route travels from Guduvancheri Bus Terminus to Broadway, 3
+NfFTRcNT, 579A, 579A, route travels from Walajabad Bus Stand to Tambaram Sanatorium Bus Stand, 3
+ldjBNunp, 515, 515, route travels from Tambaram West Bus Stand to Mamallapuram, 3
+BtqGoffN, 55C, 55C, route travels from Pungeri Junction to Tambaram West Bus Stand, 3
+uoqCANfR, 6DET, 6DET, route travels from Thangal Toll Gate to Thiruvanmiyur Depot, 3
+BLSwlWZU, 104K, 104K, route travels from Kilambakkam Bus Terminus to Redhills Bus Terminus, 3
+ZdDIwHdF, 159A, 159A, route travels from CMBT Koyembedu Bus Depot to Thiruvottiyur Bus Stand, 3
+oiMSezfh, 32C, 32C, route travels from Mint Bus Terminal Or Vallalar Nagar to Chinthathripet Railway Station, 3
+SOAsVfyR, 70, 70, route travels from Tambaram West Bus Stand to Avadi Terminal, 3
+NhpyJljp, 91K, 91K, route travels from Kilambakkam Bus Terminus to Thiruvanmiyur Depot, 3
+PWhtWPai, 113, 113, route travels from Redhills Bus Terminus to Guindy Bus Terminus, 3
+KbFKGcSY, 315SP, 315SP, route travels from Perungalattur to Trichy  Central Bus Stand, 3
+wnoRXzQs, 18G, 18G, route travels from Tambaram West Bus Stand to Broadway, 3
+EnqMCRiV, 38H, 38H, route travels from Broadway to Madhavaram New Bus Depot, 3
+WosCSecg, 104T, 104T, route travels from Kilambakkam Bus Terminus to Thiruvika Nagar Bus Depot, 3
+XpleEeJG, 155A, 155A, route travels from Pazhanthandalam Road Junction to Broadway, 3
+splaMVng, 28A, 28A, route travels from Egmore North Railway Station to Manali New Town Bus Stand, 3
+tVryLtjz, 99A, 99A, route travels from P U Office Sholinganallur to Tambaram West Bus Stand, 3
+QfPvYKGv, 19, 19, route travels from Thiruporur Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+TPNiAzhE, 57D, 57D, route travels from Broadway to Poochi Athipet, 3
+pAWEHsOk, A47, A47, route travels from Thiruvanmiyur Depot to Avadi Terminal, 3
+fZoIhnBv, 52, 52, route travels from Broadway to Pozhichalur, 3
+SHpkQtZQ, 555N, 555N, route travels from Guduvancheri Bus Terminus to Thiruporur Bus Stand, 3
+EvThQgnu, 20, 20, route travels from Villivakkam Bus Stand to Broadway, 3
+IFbGQsUG, 53S, 53S, route travels from CMBT Koyembedu Bus Depot to Pattabiram Terminal, 3
+wWcfkCmt, 19P, 19P, route travels from Adyar Old Depot to Kelambakkam Bus Terminal, 3
+QggTPOHK, 2ACT, 2ACT, route travels from MGR Central Station to Anna Square, 3
+EfDEIeHT, 29D, 29D, route travels from Swami Vivekananda House to Mathur Bus Stand, 3
+dJPejuXF, 109T, 109T, route travels from Kovalam Bus Stand to Thiruvottiyur Bus Stand, 3
+FrtRBJyb, 4, 4, route travels from Broadway to Ennore Bus Depot, 3
+KdTHxadh, 72CT, 72CT, route travels from CMBT Koyembedu Bus Depot to Todd Hunter Nagar, 3
+ZGucSsWy, 114, 114, route travels from CMBT Koyembedu Bus Depot to Redhills Bus Terminus, 3
+YaxAwQmM, 54S, 54S, route travels from Thiyagaraya Nagar Bus Depot to Malayam Pakkam, 3
+yAOmdnXG, 57X, 57X, route travels from Periyapalayam Bus stand to Mint Bus Terminal Or Vallalar Nagar, 3
+gzhReVcX, 29NET, 29NET, route travels from Peravallur Kumaran Nagar to Velachery, 3
+jOYsRHDP, 55A, 55A, route travels from Pallavaram Bus Stand to Pazhanthandalam Road Junction, 3
+dcqQWjFH, 66J, 66J, route travels from Tambaram West Bus Stand to Poonamallee Terminus, 3
+TWoVKUEV, S55, S55, route travels from Ambattur Railway Station to Thirumullaivoyal Sidco, 3
+ccrHCEeX, S169, S169, route travels from Moolakadai to Thangal Toll Gate, 3
+XDmmOUxl, 52C, 52C, route travels from Hasthinapuram to Thiyagaraya Nagar Bus Depot, 3
+TVWyRoDx, 36V, 36V, route travels from Redhills Bus Terminus to Thiruvottiyur Bus Stand, 3
+pklfQwLl, T29, T29, route travels from Thiruvika Nagar Bus Depot to Thiruvanmiyur Depot, 3
+ZGBYAukd, 70C, 70C, route travels from Tambaram West Bus Stand to Koyambedu Market Or Police Station, 3
+thofvGuP, 14M, 14M, route travels from Saidapet to Medavakkam Koot Road, 3
+RbuousJh, 150, 150, route travels from Avadi Terminal to Broadway, 3
+hRktQvUb, V51CT, V51CT, route travels from Saidapet to Kilkattalai, 3
+yiMfvDqB, 556, 556, route travels from Thiruvottiyur Bus Stand to Kattupalli, 3
+PxacSotc, 120, 120, route travels from Broadway to Avadi Terminal, 3
+fHGDlsDL, M52ET, M52ET, route travels from Guduvancheri Bus Terminus to Pozhichalur, 3
+oOaCxiaJ, 65D, 65D, route travels from Avadi Terminal to Melakondaiyur, 3
+tSSkCcrL, 114, 114, route travels from Redhills Bus Terminus to CMBT Koyembedu Bus Depot, 3
+DgzqgYhi, 56F, 56F, route travels from Broadway to Ernavoor Gate, 3
+lsHcuEBG, 558C, 558C, route travels from Redhills Bus Terminus to Pudhucehrimedu, 3
+xAjTRXEx, 114A, 114A, route travels from Ayanavaram Bus Depot to Redhills Bus Terminus, 3
+OCnxRLqL, 54L, 54L, route travels from Vellavedu to Broadway, 3
+qBegXKDC, 54G, 54G, route travels from Kuthambakkam to Broadway, 3
+OCnpnwmk, 515T, 515T, route travels from Kilambakkam Bus Terminus to Thiruporur Bus Stand, 3
+nmNzlkBx, 500, 500, route travels from Tambaram West Bus Stand to Chengalpattu New Bus Terminal, 3
+NIyhSyWZ, S93, S93, route travels from Velachery to Pallikaranai Bus Stop, 3
+ZdSJdCIz, 547, 547, route travels from Redhills Bus Terminus to Periyapalayam Bus stand, 3
+YvHBqpUJ, S87, S87, route travels from K K Nagar to CMBT Koyembedu Bus Depot, 3
+ZcvWMZWl, 114P, 114P, route travels from CMBT Koyembedu Bus Depot to Padianallur, 3
+eJXLWZFA, S74, S74, route travels from Kilkattalai to Pallavaram Railway Station, 3
+oOhAbMXp, 21C, 21C, route travels from Broadway to Kannagi Nagar Bus Stand, 3
+RqugAXrQ, 60, 60, route travels from Broadway to Anagaputhur, 3
+jXRcAwAe, 5E, 5E, route travels from Besant Nagar Terminus to Vadapalani Bus Stand, 3
+krZquase, 313SP, 313SP, route travels from Poonamallee to Arni Bus Stand, 3
+xUdGjiUo, 6D, 6D, route travels from Thiruvanmiyur Depot to Thangal Toll Gate, 3
+KtElTCGL, 47, 47, route travels from Villivakkam Bus Stand to Besant Nagar Terminus, 3
+qVuRpDLS, 580, 580, route travels from Avadi Terminal to Arani, 3
+oQEWsXMe, 572, 572, route travels from Thiruvallur Terminal to Avadi Terminal, 3
+TBexEHOJ, E18, E18, route travels from Broadway to Guduvancheri Bus Terminus, 3
+fswRMRmn, 302SP, 302SP, route travels from Tambaram West Bus Stand to Trichy  Central Bus Stand, 3
+DxKVOxUX, 580M, 580M, route travels from Avadi Terminal to Malanthur, 3
+UlFvFLVI, V51, V51, route travels from Thiyagaraya Nagar Bus Depot to Tambaram West Bus Stand, 3
+uUlCtjFN, 500E, 500E, route travels from Tambaram West Bus Stand to Anjur Or Echankarnai, 3
+GzLwHYjr, 591C, 591C, route travels from Narasingapuram to Poonamallee Terminus, 3
+kcyRMXzT, 578, 578, route travels from Sunguvarchatram to Poonamallee Terminus, 3
+KKliqUVH, 500, 500, route travels from Chengalpattu New Bus Terminal to Tambaram West Bus Stand, 3
+zMmOsboj, M19B, M19B, route travels from Thiyagaraya Nagar Bus Depot to Kannagi Nagar Bus Stand, 3
+mjAXabQC, 20D, 20D, route travels from SIDCO Nagar to Broadway, 3
+NbqZSbHD, 53E, 53E, route travels from Kundrathur Bus Depot to Broadway, 3
+MQCvlZDO, E51, E51, route travels from Broadway to Ottiyambakkam, 3
+smRNsPPr, 70C, 70C, route travels from Koyambedu Market Or Police Station to Tambaram West Bus Stand, 3
+QCoSprrt, 588, 588, route travels from Thiruvanmiyur Depot to Mamallapuram, 3
+hcZHPJsH, 24A, 24A, route travels from Anna Nagar West Depot to Swami Vivekananda House, 3
+AOkPnpiZ, 307-SP, 307-SP, route travels from Kumbakonam Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+YBzUgQgu, 114G, 114G, route travels from Gnayaru to CMBT Koyembedu Bus Depot, 3
+pKoVsqRN, 157E, 157E, route travels from Ennore Bus Depot to Redhills Bus Terminus, 3
+eEWOEFVY, 76, 76, route travels from CMBT Koyembedu Bus Depot to Medavakkam, 3
+mFgdDpFZ, 12G, 12G, route travels from K K Nagar to Anna Square, 3
+taLctIbz, 53G, 53G, route travels from Poonamallee Terminus to Padurmedu, 3
+LOpWOsUM, 56ACT, 56ACT, route travels from Thangal Toll Gate to Ennore Bus Depot, 3
+KMFZZwLr, 153, 153, route travels from CMBT Koyembedu Bus Depot to Poonamallee, 3
+fgntjJQa, 77B, 77B, route travels from CMBT Koyembedu Bus Depot to Oragadam, 3
+KfaLtvRq, 120G, 120G, route travels from Menambedu to Broadway, 3
+kCNOoraa, 50ET, 50ET, route travels from Broadway to Ayyappan Madam, 3
+mwGLbXCn, S145, S145, route travels from Ayanavaram Bus Depot to CMBT Koyembedu Bus Depot, 3
+pWQhmvnB, S43, S43, route travels from Villivakkam Bus Stand to Pudur, 3
+FskEklfI, 66P, 66P, route travels from Kilambakkam Bus Terminus to Poonamallee Terminus, 3
+mnxkVNJZ, 6, 6, route travels from Broadway to Thiruvanmiyur Depot, 3
+whyxtteQ, 104C, 104C, route travels from CMBT Koyembedu Bus Depot to Guduvancheri Bus Terminus, 3
+kQObtTGr, 29ET, 29ET, route travels from Mandaveli Bus Terminus to Vinayagapuram, 3
+NsUdAoSD, 66J, 66J, route travels from Poonamallee Terminus to Tambaram West Bus Stand, 3
+WeMTXjZN, 104H, 104H, route travels from Kilambakkam Bus Terminus to Kaviarasu Kannadasan Nagar Bus Stand, 3
+smnMGAJJ, 578, 578, route travels from Poonamallee Terminus to Sunguvarchatram, 3
+jAaBcWiz, 570S, 570S, route travels from Siruchery I T Park to CMBT Koyembedu Bus Depot, 3
+IlXevPGY, S94, S94, route travels from Durga Nagar to Thirumudivakkam SIDCO, 3
+KKwMPbtP, S84 CMRL Feeder Service, S84 CMRL Feeder Service, route travels from Porur Junction to Alandur Metro, 3
+WfJFuQGB, 101, 101, route travels from Poonamallee Terminus to Thiruvottiyur Bus Stand, 3
+TcsjyZFv, 155A, 155A, route travels from Broadway to Pazhanthandalam Road Junction, 3
+JQItspht, M88CT, M88CT, route travels from Kundrathur Murugan Temple to Porur, 3
+YTnHifxz, 29D, 29D, route travels from Mathur Bus Stand to Swami Vivekananda House, 3
+dcfTvfkt, 45BET, 45BET, route travels from Anna Square to Mugalivakkam, 3
+aDchKZZd, 104H, 104H, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Kilambakkam Bus Terminus, 3
+cQavsWHL, 60E, 60E, route travels from Broadway to Kundrathur Bus Depot, 3
+XLxHSySr, 77K, 77K, route travels from Karukku to CMBT Koyembedu Bus Depot, 3
+oNHxofwj, 170K, 170K, route travels from Guindy Bus Terminus to Peravallur Kumaran Nagar, 3
+wNktiiDU, S43, S43, route travels from Pudur to Villivakkam Bus Stand, 3
+PzgbCJGm, S28, S28, route travels from Iyyappanthangal Bus Depot to CMBT Koyembedu Bus Depot, 3
+EEmmcZbh, 26M, 26M, route travels from Broadway to Mugalivakkam, 3
+lLfMYwWp, 65G, 65G, route travels from Meyyur to Avadi Terminal, 3
+ljduaIRb, 70H, 70H, route travels from Hasthinapuram to CMBT Koyembedu Bus Depot, 3
+rMwrjLqx, 56P, 56P, route travels from Minjur Terminus to Broadway, 3
+nmHEhEgB, 102P, 102P, route travels from Perumbakkam SCB to Broadway, 3
+JuqMRSSH, 170C, 170C, route travels from Thiruvika Nagar Bus Depot to Guindy Bus Terminus, 3
+rPSIcOEV, 18H, 18H, route travels from Tambaram West Bus Stand to Naduveerapattu Bus Stand, 3
+boezrkyQ, S24A, S24A, route travels from Kambar Colony to Shenoy Nagar Or Pulla Avenue, 3
+ZJZPCOaA, 47D, 47D, route travels from Thiruvanmiyur Depot to Avadi Terminal, 3
+SoLcOZJj, 557M, 557M, route travels from Redhills Bus Terminus to Madarapakkam Bus Stand, 3
+jylLjHej, 102P, 102P, route travels from Broadway to Perumbakkam SCB, 3
+FAJMuzai, 88L, 88L, route travels from Periya Colony to Vadapalani Bus Stand, 3
+rjrWmjOa, 91A, 91A, route travels from Hasthinapuram to Thiruvanmiyur Depot, 3
+JlsLZyef, S1, S1, route travels from Pallavaram Railway Station to Sakthi Nagar, 3
+QuQAdOkv, 15F, 15F, route travels from Broadway to Vadapalani Bus Stand, 3
+KrjKDXZZ, 21EET, 21EET, route travels from Iyyappanthangal Bus Depot to Broadway, 3
+ZMNiTYNj, 555N, 555N, route travels from Thiruporur Bus Stand to Guduvancheri Bus Depot, 3
+vxyOCxjT, 512, 512, route travels from Madarapakkam Bus Stand to Redhills Bus Terminus, 3
+ByvIDEvp, 21G, 21G, route travels from Kilambakkam Bus Terminus to Broadway, 3
+ZlXxhBzS, 66, 66, route travels from Tambaram West Bus Stand to Poonamallee Terminus, 3
+DMaDVhFC, 50ET, 50ET, route travels from Ayyappan Madam to Broadway, 3
+lycluciI, 89T CT, 89T CT, route travels from Kundrathur Bus Depot to Somangalam Bus Stand, 3
+KgkEdVRo, 517K, 517K, route travels from Kovalam Bus Stand to Pallavaram Bus Stand, 3
+kyPNgdri, 57G, 57G, route travels from Moolakadai to Vazhuthalambedu, 3
+MIYoOhYa, 242, 242, route travels from Redhills Bus Terminus to Broadway, 3
+PaoTkATk, 49F, 49F, route travels from Poonamallee Terminus to Mandaveli Bus Terminus, 3
+XWNWWLow, E18, E18, route travels from Broadway to Guduvancheri Bus Terminus, 3
+yJihuzWh, 18ACT, 18ACT, route travels from Guindy Bus Terminus to Kilambakkam Bus Terminus, 3
+MiPEgkDE, 311SP, 311SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Perambalur Bus Stand, 3
+UtICksgP, 164, 164, route travels from Perambur Bus Terminus to Minjur Terminus, 3
+kDWebkwc, 15G, 15G, route travels from Broadway to M M D A Colony, 3
+EgwhpUop, 18AET, 18AET, route travels from Broadway to Kilambakkam Bus Terminus, 3
+JODJiAIa, 597C, 597C, route travels from Thiruninravur Railway Station to Poonamallee Terminus, 3
+YgIZABml, 166, 166, route travels from Iyyappanthangal Bus Depot to Tambaram West Bus Stand, 3
+caqWouYa, 46ET, 46ET, route travels from Periyar Nagar Bus Terminal to CMBT Koyembedu Bus Depot, 3
+RrxMunnR, 517K, 517K, route travels from Pallavaram Bus Stand to Kovalam Bus Stand, 3
+aFwCWOoC, 47, 47, route travels from Besant Nagar Terminus to Villivakkam Bus Stand, 3
+aUGpMmrC, 2A, 2A, route travels from Anna Square to Kaviarasu Kannadasan Nagar Bus Stand, 3
+rxhkLYJX, 95, 95, route travels from Tambaram East Bus Stop to Thiruvanmiyur Depot, 3
+uMRcONlx, 48A, 48A, route travels from Ambattur Industrial Estate to Madhavaram New Bus Depot, 3
+KVGARAGF, M18, M18, route travels from Kilambakkam Bus Terminus to Tambaram West Bus Stand, 3
+rqdjsQwD, 64K, 64K, route travels from Broadway to Kaviarasu Kannadasan Nagar Bus Stand, 3
+FLXZsDqo, 555G, 555G, route travels from Guduvancheri Bus Terminus to Sholinganallur, 3
+fLgDiNCe, 66A, 66A, route travels from Hasthinapuram to Kundrathur Bus Depot, 3
+vUhUauhc, 51A, 51A, route travels from Thiyagaraya Nagar Bus Depot to Tambaram East Bus Stop, 3
+WYACplLZ, M88CT, M88CT, route travels from Porur to Kundrathur Murugan Temple, 3
+rJKVlkXh, S42, S42, route travels from Korattur Bus Terminus to Maduravoyal Yerikarai, 3
+udotKfIu, 583A, 583A, route travels from Thiruvallur Terminal to Sriperumbudur Bus Terminal, 3
+vzWZAKLy, 46G, 46G, route travels from Mullai Nagar Bus Stand to CMBT Koyembedu Bus Depot, 3
+eVUHQvIi, S82 CMRL Feeder Service, S82 CMRL Feeder Service, route travels from Madipakkam Bus Stand to Alandur Metro, 3
+JjGFmOtW, 500D, 500D, route travels from Durga Nagar to Chengalpattu New Bus Terminal, 3
+VHXtcWiO, 505K, 505K, route travels from Redhills Bus Terminus to Thiruvallur Terminal, 3
+pcnlhWjw, 99X, 99X, route travels from Kilambakkam Bus Terminus to Adyar Old Depot, 3
+HLciFvUh, S82 CMRL Feeder Service, S82 CMRL Feeder Service, route travels from Alandur Metro to Madipakkam Bus Stand, 3
+xeQOliam, 557AET, 557AET, route travels from Annamalaichery to Broadway, 3
+qOgyfhNv, 102K, 102K, route travels from Broadway to Kannagi Nagar Bus Stand, 3
+uhkWLUCg, 70, 70, route travels from Avadi Terminal to Tambaram West Bus Stand, 3
+AqQmCkDk, 159E, 159E, route travels from CMBT Koyembedu Bus Depot to Ennore Bus Depot, 3
+OPqGPfPr, 32B, 32B, route travels from Swami Vivekananda House Terminus to Korukkupet Bus Stand, 3
+svjvPVRo, 202, 202, route travels from Tambaram West Bus Stand to Avadi Terminal, 3
+FIwsmHlC, 188A, 188A, route travels from Kundrathur Bus Depot to Thiyagaraya Nagar Bus Depot, 3
+GubAqxtq, 36K, 36K, route travels from Thangal Toll Gate to Redhills Bus Terminus, 3
+otFmZrcP, 55M, 55M, route travels from Tambaram West Bus Stand to Tamilnadu Physical Education and Sports, 3
+XBGQOLjZ, 221, 221, route travels from MGR Central Station to Thiruporur Bus Stand, 3
+YQybRFVL, 36M, 36M, route travels from Mint Bus Terminal Or Vallalar Nagar to Vichoor, 3
+rwaLOceI, 6, 6, route travels from Broadway to Thiruvanmiyur Depot, 3
+AvfzQIyp, 51, 51, route travels from Velachery to Tambaram West Bus Stand, 3
+dqZGSJTK, 51D, 51D, route travels from Tambaram West Bus Stand to Broadway, 3
+ckuECJwl, 45BET, 45BET, route travels from Mugalivakkam to Anna Square, 3
+ZYoKXKko, 21G, 21G, route travels from Broadway to Kilambakkam Bus Terminus, 3
+XSXyzvyf, 153A, 153A, route travels from CMBT Koyembedu Bus Depot to Thiruvallur Terminal, 3
+SKMxuKeA, 48B, 48B, route travels from Pudur to Mint Bus Terminal Or Vallalar Nagar, 3
+xYAfusCs, B19, B19, route travels from Samiyar Pannai to Sholinganallur, 3
+qBqVguad, 54G, 54G, route travels from Broadway to Kuthambakkam, 3
+IdkrqgDG, 101, 101, route travels from Poonamallee Terminus to Thiruvottiyur Bus Stand, 3
+DCEjMPml, 49F, 49F, route travels from Poonamallee Terminus to Mandaveli Bus Terminus, 3
+yeNXTrMK, 57, 57, route travels from Redhills Bus Terminus to Mint Bus Terminal Or Vallalar Nagar, 3
+ngkzYygh, 64M, 64M, route travels from MGR Central Station to MMBT, 3
+XKxIafQI, 47C, 47C, route travels from Ambattur OT Bus Stand to Kotturpuram, 3
+NixdsHxO, 51X, 51X, route travels from Kilambakkam Bus Terminus to Velachery, 3
+jPxMdXkT, 303SP, 303SP, route travels from Vellore Bus Stand to Poonamallee, 3
+YzLVknDY, 55V, 55V, route travels from Kilambakkam Bus Terminus to Tambaram West Bus Stand, 3
+aAYpnxof, M88ET, M88ET, route travels from Vadapalani Bus Stand to Nandambakkam Village, 3
+bexzRsIu, T29, T29, route travels from Thiruvanmiyur Depot to Thiruvika Nagar Bus Depot, 3
+DzusnEUa, 170K, 170K, route travels from Peravallur Kumaran Nagar to Guindy Bus Terminus, 3
+uUAuAajM, 1B, 1B, route travels from Tambaram West Bus Stand to Thiruvottiyur Bus Stand, 3
+TtExLuOj, 583D, 583D, route travels from Sriperumbudur Bus Terminal to Tambaram Sanatorium Bus Stand, 3
+uHsrmoBZ, 65K, 65K, route travels from Avadi Terminal to Poonamallee Terminus, 3
+RsUncXsI, 50, 50, route travels from Broadway to Thiruverkadu Terminus, 3
+FgdIMXOt, 52H, 52H, route travels from Hasthinapuram to Pozhichalur, 3
+YxDFLvrR, B18, B18, route travels from Korukkupet Bus Stand to Tambaram West Bus Stand, 3
+etsmjTPL, 566B, 566B, route travels from Kovalam Bus Stand to Pattur, 3
+rolRIgCJ, 120E, 120E, route travels from Broadway to Kilkondaiyur, 3
+JvPlKDrZ, A51, A51, route travels from Broadway to Tambaram West Bus Stand, 3
+ZwspiFme, S3X, S3X, route travels from Noothancheri Cross Road to Chromepet ESI, 3
+QvPnlUcb, 57J, 57J, route travels from Broadway to Gnayaru, 3
+njKISQRP, 72, 72, route travels from Thiruverkadu Terminus to Thiyagaraya Nagar Bus Depot, 3
+cUCbjWfJ, 514, 514, route travels from CMBT Koyembedu Bus Depot to Periyapalayam Bus stand, 3
+wCWoBusE, 54V, 54V, route travels from Thiyagaraya Nagar Bus Depot to Veppambaattu, 3
+CPWVZVhD, 578ET, 578ET, route travels from Poonamallee Terminus to Kunnam Village, 3
+WYVxsPxv, 515K, 515K, route travels from Kilambakkam Bus Terminus to Kovalam Bus Stand, 3
+XBuciRtF, S50, S50, route travels from Avadi Terminal to Poonamallee Terminus, 3
+yvfJBJmW, 46, 46, route travels from Thiruvika Nagar Bus Depot to CMBT Koyembedu Bus Depot, 3
+IDDwdWkP, J51, J51, route travels from Tambaram West Bus Stand to Velachery, 3
+jYOPSNnC, S63, S63, route travels from Moolakadai to Manali Bus Terminal, 3
+kCjpFhWB, 306SP, 306SP, route travels from Tambaram West Bus Stand to Thiruvanamalai Bus Stand, 3
+DDTGaQfo, 54K, 54K, route travels from Saidapet to Nemam, 3
+tWtygwQV, 61R, 61R, route travels from Red Hills Bus Stand to Avadi Terminal, 3
+OMUDWgkJ, 121A, 121A, route travels from Manali Bus Terminal to CMBT Koyembedu Bus Depot, 3
+wbHpRopk, 595, 595, route travels from Thangal Toll Gate to Pazhaverkadu, 3
+xBdYOTgE, 51M, 51M, route travels from Madipakkam Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+zvkuYyEZ, 91K, 91K, route travels from Thiruvanmiyur Depot to Kilambakkam Bus Terminus, 3
+LuGrNLGM, 37, 37, route travels from Mint Bus Terminal Or Vallalar Nagar to Poonamallee Terminus, 3
+aBkJrTQE, 29C, 29C, route travels from Perambur Bus Terminus to Besant Nagar Terminus, 3
+NcfTyugq, 91, 91, route travels from Tambaram West Bus Stand to Thiruvanmiyur Depot, 3
+EMQpCrGh, 118N, 118N, route travels from Tambaram West Bus Stand to Neelamangalam, 3
+tVUmyhpi, 12X, 12X, route travels from Foreshore Estate Bus Terminus to CMBT Koyembedu Bus Depot, 3
+WaCVbedJ, 28C, 28C, route travels from Thangal Toll Gate to Quaid E Millath Arts College, 3
+feVzFeXA, 70V, 70V, route travels from Kilambakkam Bus Terminus to CMBT Koyembedu Bus Depot, 3
+GlYziFZk, 66, 66, route travels from Poonamallee Terminus to Tambaram West Bus Stand, 3
+nDiIrPCM, 118P, 118P, route travels from Tambaram West Bus Stand to Parameshwari Nagar, 3
+cJdMrbwa, 70CET, 70CET, route travels from Kilambakkam Bus Terminus to K K Nagar, 3
+kxoekCTy, 147B, 147B, route travels from Thiyagaraya Nagar Bus Depot to J J Nagar West Terminus, 3
+ohEYcLEx, 7M, 7M, route travels from J J Nagar West Terminus to Broadway, 3
+JAcmXxdU, S45, S45, route travels from Avadi Terminal to Poonamallee Terminus, 3
+dGdtsRPy, 52K, 52K, route travels from Nanganallur Bus Terminus to Broadway, 3
+MGuOeyIy, 553W, 553W, route travels from Sriperumbudur Bus Terminal to Saidapet West Bus Stand, 3
+QroAhSYq, 60D, 60D, route travels from Kamarajapuram Bus Stand to Broadway, 3
+SRRCfXGO, 523A, 523A, route travels from Thiruvadaisoolam Devi Karumariamman Koil to Thiruvanmiyur Depot, 3
+nayFODMH, A51, A51, route travels from Tambaram West Bus Stand to Broadway, 3
+wjqPlzXA, 66G, 66G, route travels from Guduvancheri Bus Depot to Anagaputhur, 3
+FtUDrAUv, 38D, 38D, route travels from Parvathi Nagar Kodungaiyur to Thiruvottiyur Bus Stand, 3
+IZFhVQUx, A47, A47, route travels from Avadi Terminal to Thiruvanmiyur Depot, 3
+GIeQvOqY, 2A, 2A, route travels from Kaviarasu Kannadasan Nagar Bus Stand to Anna Square, 3
+ePpOEIVY, 206, 206, route travels from Guduvancheri Bus Depot to Avadi Terminal, 3
+HZxIimHt, 8B, 8B, route travels from Broadway to Thiruvika Nagar Bus Depot, 3
+WgRiZhGF, 549, 549, route travels from Sriperumbudur Bus Terminal to Thiruvanmiyur Depot, 3
+sQkjIBKn, 3CT, 3CT, route travels from Guindy Railway Station to Tidel Park, 3
+vTlFJeFZ, 6, 6, route travels from Thiruvanmiyur Depot to Broadway, 3
+wbDDnsaa, S62, S62, route travels from Perambur Bus Terminus to Manali Bus Terminal, 3
+eRCoEwUf, 2, 2, route travels from Anna Square to Kaviarasu Kannadasan Nagar Bus Stand, 3
+PfEhTxEd, 500A, 500A, route travels from Chengalpattu New Bus Terminal to Hasthinapuram, 3
+cMyVBqAK, 15F, 15F, route travels from Vadapalani Bus Stand to Broadway, 3
+FcftPcLK, S30, S30, route travels from Udhayam Theatre Or Ashok Pillar to Saidapet, 3
+mTrvRctm, 88K, 88K, route travels from Broadway to Kundrathur Bus Depot, 3
+oyKzXUel, 70A, 70A, route travels from Avadi Terminal to CMBT Koyembedu Bus Depot, 3
+XJHhrhya, 515T, 515T, route travels from Thiruporur Bus Stand to Kilambakkam Bus Terminus, 3
+edrvAcYR, 70T, 70T, route travels from Thiruvika Nagar Bus Depot to Kilambakkam Bus Terminus, 3
+wgrWSLEk, 583K, 583K, route travels from Kilambakkam Bus Terminus to Sriperumbudur Bus Terminal, 3
+QgHEUgEn, 70V, 70V, route travels from CMBT Koyembedu Bus Depot to Kilambakkam Bus Terminus, 3
+bbqFRTrq, 37G, 37G, route travels from Iyyappanthangal Bus Depot to Mint Bus Terminal Or Vallalar Nagar, 3
+aDUyyzvF, 60G, 60G, route travels from Broadway to Pozhichalur, 3
+DGURAfuh, 88C, 88C, route travels from Broadway to Thandalam Village, 3
+sOPmxBai, 154E, 154E, route travels from Vellavedu to Ekkattuthangal Or Ambal Nagar, 3
+mytgQstc, 89T, 89T, route travels from Kundrathur Bus Depot to Tambaram West Bus Stand, 3
+PkKCykyn, 580, 580, route travels from Arani to Avadi Terminal, 3
+hvFyQfSq, 102K, 102K, route travels from Kannagi Nagar Bus Stand to Broadway, 3
+vEVhPYov, 314SP, 314SP, route travels from Arni Bus Stand to Chennai Koyambedu Mofussil Bus Stand, 3
+DMujmbOO, 16J, 16J, route travels from CMBT Koyembedu Bus Depot to Poonamallee Terminus, 3
+KjfKOxNm, S83, S83, route travels from Alandur Metro to Guru Nanak College, 3
+FeDAEjla, 154, 154, route travels from Thiyagaraya Nagar Bus Depot to Poonamallee Terminus, 3
+uOouaZui, 121CT, 121CT, route travels from MMBT to CMBT Koyembedu Bus Depot, 3
+axtrzQtA, 51T, 51T, route travels from Thiyagaraya Nagar Bus Depot to Madurapakkam, 3
+WwfpXlmC, S21C, S21C, route travels from Mylapore Tank to MGR Central Station, 3
+iMMfAnUq, M51V, M51V, route travels from Thiyagaraya Nagar Bus Depot to Kolathur, 3
+pGgrrTeH, 57M, 57M, route travels from Broadway to Alamathi, 3
+fBkZWoPh, 120, 120, route travels from Avadi Terminal to Broadway, 3
+dHJBXvsN, 70J, 70J, route travels from Tambaram West Bus Stand to J J Nagar West Terminus, 3
+znPXrwAP, S36, S36, route travels from Nungambakkam Railway Station to AG DMS Metro Station, 3
+OvnDyNmB, 32C, 32C, route travels from Chinthathripet Railway Station to Mint Bus Terminal Or Vallalar Nagar, 3
+NsTVmcfx, 153A, 153A, route travels from Thiruvallur Terminal to CMBT Koyembedu Bus Depot, 3
+LqQDWgxk, 580S, 580S, route travels from Avadi Terminal to Siruvapuri Temple, 3
+XDprpSxS, 118T, 118T, route travels from Tambaram West Bus Stand to Darkash, 3
+hwCBNNqB, 61E, 61E, route travels from Kilkondaiyur to Avadi Terminal, 3
+oIIBYMKd, 19D, 19D, route travels from Semmancheri Bus Stand to Adyar Old Depot, 3
+LcTgFisT, 40H, 40H, route travels from Anna Square to Pattabiram Terminal, 3
+XZYFdNdu, M88T, M88T, route travels from Amarambedu East to Vadapalani Bus Stand, 3
+pLYagvlG, 88KET, 88KET, route travels from Nallur to Broadway, 3
+oJHebqtS, 55K, 55K, route travels from Kumizhi to Guduvancheri Bus Terminus, 3
+MMPqpweb, 555M, 555M, route travels from Thiruporur Bus Stand to Tambaram West Bus Stand, 3
+wzhQRLyK, 597, 597, route travels from Thiyagaraya Nagar Bus Depot to Thiruvallur Terminal, 3
+CNmPSjLZ, 25, 25, route travels from Anna Square to Poonamallee Terminus, 3
+rsmZLPGm, 91V, 91V, route travels from Thiruvanmiyur Depot to Guduvancheri Bus Terminus, 3
+XeGywTND, S31, S31, route travels from CMBT Koyembedu Bus Depot to Vadapalani Bus Stand, 3
+GuMhsLQG, 54B, 54B, route travels from Porur Junction to Saidapet, 3
+rryIPoQM, S59, S59, route travels from Thiruverkadu Terminus to Mangadu, 3
+CuiyTlih, 514, 514, route travels from CMBT Koyembedu Bus Depot to Periyapalayam Bus stand, 3
+HNCaHAxQ, 597A, 597A, route travels from Poonamallee Terminus to Thiruvallur Terminal, 3
+oRGfzovB, 35, 35, route travels from Korattur Bus Terminus to Broadway, 3
+WoKvyUpU, 170CET, 170CET, route travels from Manali Bus Terminal to Guindy Bus Terminus, 3
+KRstmyew, 6D, 6D, route travels from Thangal Toll Gate to Thiruvanmiyur Depot, 3
+ociObvLQ, D70X, D70X, route travels from Velachery Railway Station to Ambattur Industrial Estate, 3
+qlnDbHUi, F70, F70, route travels from Pattabiram Terminal to Guindy Bus Terminus, 3
+wGeTaKyQ, 570B, 570B, route travels from Okkiam Thoraipakm Sector Colony to CMBT Koyembedu Bus Depot, 3
+OlVEkcpY, 70P, 70P, route travels from Kilambakkam Bus Terminus to Perambur Bus Terminus, 3
+uEeJdJYA, G18, G18, route travels from Thiyagaraya Nagar Bus Depot to Guduvancheri Bus Terminus, 3
+JljtEdBF, 29ET, 29ET, route travels from Vinayagapuram to Mandaveli Bus Terminus, 3
+GLcizJvi, 12B, 12B, route travels from Foreshore Estate Bus Terminus to Vadapalani Bus Stand, 3
+zgwmEMOX, G18, G18, route travels from Guduvancheri Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+EvotCnqZ, 7H, 7H, route travels from J J Nagar East Terminus to Broadway, 3
+FuSFxrmI, 29A, 29A, route travels from Perambur Bus Terminus to Anna Square, 3
+gshFKPeY, 19V, 19V, route travels from Sholinganallur to Vandalur Zoo, 3
+wXiterke, S55ET, S55ET, route travels from Mannivakkam Kulam Bus Stop to Tambaram West Bus Stand, 3
+dCennrPs, 58V, 58V, route travels from Redhills Bus Terminus to CMBT Koyembedu Bus Depot, 3
+nojVNcOW, 38D, 38D, route travels from Thiruvottiyur Bus Stand to Parvathi Nagar Kodungaiyur, 3
+HeGmfzsY, S54TCT, S54TCT, route travels from Porur to Chembarambakkam, 3
+UfUcLaGP, 57F, 57F, route travels from Broadway to Karanodai Bus Stand, 3
+thEJVsRQ, S21C, S21C, route travels from MGR Central Station to Mylapore Tank, 3
+xkwVWRzo, 18AET, 18AET, route travels from Kilambakkam Bus Terminus to Broadway, 3
+NEknxPIw, 565, 565, route travels from Avadi Terminal to Sriperumbudur Bus Terminal, 3
+rSqMUEJH, S52, S52, route travels from Avadi Terminal to Thiruverkadu Terminus, 3
+fbHNFujf, 53G, 53G, route travels from Padurmedu to Poonamallee Terminus, 3
+ImrJLgng, 66CT, 66CT, route travels from Kundrathur Bus Depot to Poonamallee Terminus, 3
+ycOWPJaz, 515A, 515A, route travels from Tambaram West Bus Stand to Kovalam Bus Stand, 3
+TAUwyzOW, 70G, 70G, route travels from Vadapalani Bus Stand to Guduvancheri Bus Terminus, 3
+xPhPeRlz, 70V, 70V, route travels from Kilambakkam Bus Terminus to CMBT Koyembedu Bus Depot, 3
+Rlqtoiwq, 57B, 57B, route travels from Redhills Bus Terminus to Pothur, 3
+lKGYrqXr, 579K, 579K, route travels from Walajabad Bus Stand to Kilambakkam Bus Terminus, 3
+KivuKfmS, 70J, 70J, route travels from Tambaram West Bus Stand to J J Nagar West Terminus, 3
+SpXqEpvl, 105, 105, route travels from Tambaram West Bus Stand to Siruchery I T Park, 3
+eLUuSsBs, 579A, 579A, route travels from Tambaram Sanatorium Bus Stand to Walajabad Bus Stand, 3
+gcphUEPx, 515M, 515M, route travels from Kilambakkam Bus Terminus to Mamallapuram, 3
+OnwjHsww, 114S, 114S, route travels from Koyambedu Market to Seemapuram, 3
+oprZyjqu, 13, 13, route travels from Broadway to Thiyagaraya Nagar Bus Depot, 3
+juFAuvoi, 38A, 38A, route travels from Manali Bus Terminal to Broadway, 3
+uHuLJcZn, 56D, 56D, route travels from Broadway to Manali Bus Terminal, 3
+InkflHPE, 104C, 104C, route travels from Guduvancheri Bus Terminus to CMBT Koyembedu Bus Depot, 3
+hPqXwObo, 21G, 21G, route travels from Broadway to Kilambakkam Bus Terminus, 3
+nxNcJDoT, 10E, 10E, route travels from Broadway to Ekkattuthangal Or Ambal Nagar, 3
+VOGgFpmO, 40N, 40N, route travels from Anna Square to J J Nagar East Terminus, 3
+yxYHCtsg, S64, S64, route travels from Assisi Nagar to Perambur Bus Terminus, 3
+yoTxySBy, 512, 512, route travels from Madarapakkam Bus Stand to Redhills Bus Terminus, 3
+ViVpejDW, 1, 1, route travels from Thiruvanmiyur Depot to Thiruvottiyur Bus Stand, 3
+HvcoUgeq, 583, 583, route travels from Tambaram Sanatorium Bus Stand to Sriperumbudur Bus Terminal, 3
+LaWgPYuT, 51D, 51D, route travels from Broadway to Tambaram West Bus Stand, 3
+xqbddCYc, 170CET, 170CET, route travels from Guindy Bus Terminus to Manali Bus Terminal, 3
+fHFzLmql, 64C, 64C, route travels from Manali Bus Terminal to Broadway, 3
+xdEgmTVp, 7H, 7H, route travels from Broadway to J J Nagar East Terminus, 3
+rEjETYMk, S75, S75, route travels from Ambattur OT Bus Stand to Padi Lucas TVS, 3
+FojgwzuC, 10A, 10A, route travels from Saidapet West Bus Stand to Thangal Toll Gate, 3
+JiXMkvqU, 46, 46, route travels from Thiruvika Nagar Bus Depot to CMBT Koyembedu Bus Depot, 3
+SgzCzati, 76, 76, route travels from Medavakkam to CMBT Koyembedu Bus Depot, 3
+YXGOvrEi, S97 CMRL Feeder Service, S97 CMRL Feeder Service, route travels from Guindy Metro Station to Velachery, 3
+HvfaEWKj, 22, 22, route travels from Foreshore Estate MTC Bus Stop to Villivakkam Bus Stand, 3
+JqpqTrDS, 597CEXT, 597CEXT, route travels from Thiruninravur Bus Stand to Poonamallee Terminus, 3
+ZUBmNJUN, 42M, 42M, route travels from MMBT to Broadway, 3
+nTonowYi, 301SP, 301SP, route travels from Chennai Koyambedu Mofussil Bus Stand to Trichy  Central Bus Stand, 3
+stEckNxN, 61R, 61R, route travels from Avadi Terminal to Red Hills Bus Stand, 3
+TkNWXzqQ, S87, S87, route travels from CMBT Koyembedu Bus Depot to K K Nagar, 3
+wJpPSeBI, 29ACT, 29ACT, route travels from Perambur Bus Terminus to Egmore Railway Station, 3
+MEhxYPBl, M51V, M51V, route travels from Kolathur to Thiyagaraya Nagar Bus Depot, 3
+lGtktNnM, 515M, 515M, route travels from Mamallapuram to Kilambakkam Bus Terminus, 3
+HtxFWyeM, 142, 142, route travels from Perambur Bus Terminus to Vinayagapuram, 3
+MClcGPph, 500D, 500D, route travels from Chengalpattu New Bus Terminal to Durga Nagar, 3
+oQQFOeSq, 20, 20, route travels from Broadway to Villivakkam Bus Stand, 3
+YtKUcYwe, 88M, 88M, route travels from Vadapalani Bus Stand to Somangalam Bus Stand, 3
+RQWsCSQe, D51ET, D51ET, route travels from Housing Board Sithalapakam to Broadway, 3
+MfBFTLUi, 11G, 11G, route travels from Broadway to K K Nagar, 3
+JtoMbAkE, 32A, 32A, route travels from Foreshore Estate Bus Terminus to Thangal Toll Gate, 3
+tDrCkTZJ, 114E, 114E, route travels from CMBT Koyembedu Bus Depot to New Erumai Vetti Palayam Bus Stand, 3
+AJIwtMoI, 579C, 579C, route travels from Tambaram Sanatorium Bus Stand to Walajabad Bus Stand, 3
+ERotbeic, 48C, 48C, route travels from Mint Bus Terminal Or Vallalar Nagar to CMBT Koyembedu Bus Depot, 3
+KOfPHUZX, 38C, 38C, route travels from Thiruvika Nagar Bus Depot to Swami Vivekananda House Terminus, 3
+njcyPSwt, 570X, 570X, route travels from Thiruporur Bus Stand to CMBT Koyembedu Bus Depot, 3
+TACellRL, 77P, 77P, route travels from Poochi Athipet to Koyambedu Market, 3
+YOMCKIhh, 88K, 88K, route travels from Kundrathur Bus Depot to Broadway, 3
+BDYonpEW, 147C, 147C, route travels from Ambattur OT Bus Stand to Thiyagaraya Nagar Bus Depot, 3
+HbAmYQqX, 5C, 5C, route travels from Broadway to Taramani Bus Terminus, 3
+pKBbsIHQ, M51, M51, route travels from Pratyangira Temple to Thiyagaraya Nagar Bus Depot, 3
+bODWlvzz, 77FCT, 77FCT, route travels from Avadi Terminal to Vathattur, 3
+aaSCoavx, 142P, 142P, route travels from Puthagaram to Perambur Bus Terminus, 3
+nPuAuCQi, 55DET, 55DET, route travels from Kumizhi to Tambaram West Bus Stand, 3
+FkveZEDx, 27D, 27D, route travels from Foreshore Estate Bus Terminus to Villivakkam Bus Stand, 3
+KEmaFkWS, M18C, M18C, route travels from Thiyagaraya Nagar Bus Depot to Kilkattalai, 3
+JzdnCkvj, 121MET, 121MET, route travels from Manali Bus Terminal to CMBT Koyembedu Bus Depot, 3
+NlRUoSrl, 21L, 21L, route travels from Broadway to Velachery, 3
+GTLiJlpS, 48AET, 48AET, route travels from J J Nagar West Terminus to Madhavaram New Bus Depot, 3
+AGtgkiMw, 47DCT, 47DCT, route travels from Korattur Bus Terminus to Thiyagaraya Nagar Bus Depot, 3
+MRxchZNA, 42C, 42C, route travels from Teachers Colony to Broadway, 3
+VqMsXFpS, E51, E51, route travels from Ottiyambakkam to Broadway, 3
+JNwLHRRL, 79A, 79A, route travels from Tambaram West Bus Stand to Navalur SCB 1, 3
+LWGJMELY, S30, S30, route travels from Saidapet to Udhayam Theatre Or Ashok Pillar, 3
+oyaULSrS, 77E, 77E, route travels from CMBT Koyembedu Bus Depot to Kanniamman Naga, 3
+rLIIzwGt, 500, 500, route travels from Tambaram West Bus Stand to Chengalpattu New Bus Terminal, 3
+OWCXnYwy, 57A, 57A, route travels from Mint Bus Terminal Or Vallalar Nagar to Budur Hospital, 3
+cKamNrYb, 54K, 54K, route travels from Nemam to Saidapet, 3
+xnQNyFVY, 53S, 53S, route travels from Pattabiram Terminal to CMBT Koyembedu Bus Depot, 3
+XWXAXTaQ, 154B, 154B, route travels from Poonamallee Terminus to Nanganallur Bus Terminus, 3
+NlOsVNTn, 113, 113, route travels from Guindy Bus Terminus to Redhills Bus Terminus, 3
+gdeGblOJ, 583A, 583A, route travels from Sriperumbudur Bus Terminal to Thiruvallur Terminal, 3
+lEANcCZa, 91, 91, route travels from Tambaram West Bus Stand to Thiruvanmiyur Depot, 3
+ZdibiQDr, 7H, 7H, route travels from J J Nagar East Terminus to Broadway, 3
+YqTnWitc, 10A, 10A, route travels from Thangal Toll Gate to Saidapet West Bus Stand, 3
+fHjBxMIL, 66, 66, route travels from Tambaram West Bus Stand to Poonamallee Terminus, 3
+QWONguTa, 579A, 579A, route travels from Walajabad Bus Stand to Tambaram Sanatorium Bus Stand, 3
+ZibAYJNf, 580S, 580S, route travels from Siruvapuri Temple to Avadi Terminal, 3
+RXgKlPLq, 166, 166, route travels from Tambaram West Bus Stand to Iyyappanthangal Bus Depot, 3
+eBTrIGYy, 88D, 88D, route travels from Kundrathur Bus Depot to Saidapet West Bus Stand, 3
+auLvruVZ, 114ET, 114ET, route travels from Mahindra IND Park to CMBT Koyembedu Bus Depot, 3
+LqdoZVLK, 45A, 45A, route travels from Madipakkam Bus Stand to Swami Vivekananda House Terminus, 3
+HtKcPvej, 9MET, 9MET, route travels from Ags Colony to Broadway, 3
+yxYYPjWt, 41D, 41D, route travels from Ambattur OT Bus Stand to Mandaveli Bus Terminus, 3
+JDCvSDaR, V51X, V51X, route travels from Thiyagaraya Nagar Bus Depot to Kilambakkam Bus Terminus, 3
+tDRQqAGy, 500R, 500R, route travels from Maraimalai Nagar Bus Stand to Tambaram West Bus Stand, 3
+euMxGlag, 572, 572, route travels from Avadi Terminal to Thiruvallur Terminal, 3
+hfDMJHaD, 28C, 28C, route travels from Quaid E Millath Arts College to Thangal Toll Gate, 3
+fUHCazSL, S47, S47, route travels from Avadi Terminal to Mittanamalli High School, 3
+WmKVSSxh, 71D, 71D, route travels from Pudur to Broadway, 3
+YSuFGkUp, 70V, 70V, route travels from Kilambakkam Bus Terminus to CMBT Koyembedu Bus Depot, 3
+ZpKazCvS, 11H, 11H, route travels from Broadway to Iyyappanthangal Bus Depot, 3
+FSUXUtBv, 42B, 42B, route travels from Poompuhar Nagar to Broadway, 3
+IQXtquMx, 12E, 12E, route travels from Foreshore Estate Bus Terminus to Saligramam Bus Stand, 3
+RJlcoEzN, 170C, 170C, route travels from Guindy Bus Terminus to Thiruvika Nagar Bus Depot, 3
+iQYLDRpK, 54R, 54R, route travels from Poonamallee Municipality Or Kumananchavadi to Chinnamalai B S or Saidapet Court, 3
+kmbfQbLy, 89T CT, 89T CT, route travels from Somangalam Bus Stand to Kundrathur Bus Depot, 3
+RRFZPPBt, 111, 111, route travels from Tambaram West Bus Stand to Thiruverkadu Terminus, 3
+omiJJpbC, 91A, 91A, route travels from Thiruvanmiyur Depot to Hasthinapuram, 3
+RwHLtifK, 48BX, 48BX, route travels from Mint Bus Terminal Or Vallalar Nagar to Oragadam, 3
+nwSgoDVJ, 505K, 505K, route travels from Thiruvallur Terminal to Redhills Bus Terminus, 3
+JjpVGjhf, 114C, 114C, route travels from Thamaraipakkam Junction to CMBT Koyembedu Bus Depot, 3
+TLlLtMzL, 44CT, 44CT, route travels from Ioc Bus Depot to Broadway, 3
+ouHkMwxS, 505, 505, route travels from Redhills Bus Terminus to Thiruvallur Terminal, 3
+MeSTDuqK, 19B, 19B, route travels from Kelambakkam Bus Terminal to Saidapet, 3
+dKdATBsQ, 88K, 88K, route travels from Kundrathur Bus Depot to Broadway, 3
+WloIcZkC, 153T, 153T, route travels from Thiruvallur Terminal to CMBT Koyembedu Bus Depot, 3
+tJeNgatK, 570S, 570S, route travels from CMBT Koyembedu Bus Depot to Siruchery I T Park, 3
+YjPLJjvq, 566, 566, route travels from Thiruporur Bus Stand to Kundrathur Bus Depot, 3
+xSFfbGal, 8ACT, 8ACT, route travels from Mint Bus Terminal Or Vallalar Nagar to Thangal Toll Gate, 3
+OWkkKvvH, S63, S63, route travels from Manali Bus Terminal to Moolakadai, 3
+BrTmvFvy, S93, S93, route travels from Pallikaranai Bus Stop to Velachery, 3
+jopArrGV, 500E, 500E, route travels from Anjur Or Echankarnai to Tambaram West Bus Stand, 3

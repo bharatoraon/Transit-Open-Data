@@ -10,3 +10,16 @@
     @apply antialiased text-gray-900 bg-gray-50;
   }
 }
+
+/* Custom Map Popup Styles */
+.station-popup .maplibregl-popup-content {
+  @apply p-0 rounded-lg shadow-xl border-0 overflow-hidden;
+}
+
+.station-popup .maplibregl-popup-close-button {
+  @apply text-gray-400 hover:text-gray-700 text-xl font-bold top-2 right-2 focus:outline-none p-1;
+}
+
+.station-popup .maplibregl-popup-tip {
+  border-top-color: white;
+}

@@ -1,0 +1,677 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.273549025,
+          13.0817803972222
+        ]
+      },
+      "properties": {
+        "stop_id": "201_1",
+        "station_name": "PURATCHI THALAIVAR DR.M.G.RAMACHANDRAN CENTRAL METRO",
+        "zone_id": "SCC",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2611040055556,
+          13.0787793472222
+        ]
+      },
+      "properties": {
+        "stop_id": "202_1",
+        "station_name": "EGMORE METRO",
+        "zone_id": "SEG",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2508745944444,
+          13.0789291166667
+        ]
+      },
+      "properties": {
+        "stop_id": "203_1",
+        "station_name": "NEHRU PARK",
+        "zone_id": "SNP",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2422100777778,
+          13.0773447833333
+        ]
+      },
+      "properties": {
+        "stop_id": "204_1",
+        "station_name": "KILPAUK",
+        "zone_id": "SKM",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2334446722222,
+          13.0759689027778
+        ]
+      },
+      "properties": {
+        "stop_id": "205_1",
+        "station_name": "PACHAIYAPPA",
+        "zone_id": "SPC",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2246325444445,
+          13.0797144833333
+        ]
+      },
+      "properties": {
+        "stop_id": "206_1",
+        "station_name": "SHENOY NAGAR",
+        "zone_id": "SSN",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2200532833333,
+          13.08472565
+        ]
+      },
+      "properties": {
+        "stop_id": "207_1",
+        "station_name": "ANNA NAGAR EAST",
+        "zone_id": "SAE",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2084864833333,
+          13.085177025
+        ]
+      },
+      "properties": {
+        "stop_id": "208_1",
+        "station_name": "ANNA NAGAR TOWER",
+        "zone_id": "SAT",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2022091833333,
+          13.0849977444444
+        ]
+      },
+      "properties": {
+        "stop_id": "209_1",
+        "station_name": "THIRUMANGALAM",
+        "zone_id": "STI",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1950661555556,
+          13.0753311583333
+        ]
+      },
+      "properties": {
+        "stop_id": "210_1",
+        "station_name": "KOYAMBEDU",
+        "zone_id": "SKO",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.204118675,
+          13.0682418194444
+        ]
+      },
+      "properties": {
+        "stop_id": "211_1",
+        "station_name": "PURATCHI THALAIVI DR.J.JAYALALITHAA CMBT METRO",
+        "zone_id": "SCM",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2119176666667,
+          13.0618486722222
+        ]
+      },
+      "properties": {
+        "stop_id": "212_1",
+        "station_name": "ARUMBAKKAM",
+        "zone_id": "SAR",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2116814472222,
+          13.0510565027778
+        ]
+      },
+      "properties": {
+        "stop_id": "213_1",
+        "station_name": "VADAPALANI",
+        "zone_id": "SVA",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2106365111111,
+          13.0353419472222
+        ]
+      },
+      "properties": {
+        "stop_id": "214_1",
+        "station_name": "ASHOK NAGAR",
+        "zone_id": "SAN",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2056878416667,
+          13.0171069333333
+        ]
+      },
+      "properties": {
+        "stop_id": "215_1",
+        "station_name": "EKKATTUTHANGAL",
+        "zone_id": "SSI",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2015436111111,
+          13.0037219694444
+        ]
+      },
+      "properties": {
+        "stop_id": "216_1",
+        "station_name": "ARIGNAR ANNA ALANDUR",
+        "zone_id": "SAL",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1975543240622,
+          12.9947486116903
+        ]
+      },
+      "properties": {
+        "stop_id": "217_1",
+        "station_name": "ST.THOMAS MOUNT",
+        "zone_id": "SMM",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2807641305556,
+          13.1065732611111
+        ]
+      },
+      "properties": {
+        "stop_id": "101_1",
+        "station_name": "WASHERMENPET METRO",
+        "zone_id": "SWA",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2859951555556,
+          13.0958973555556
+        ]
+      },
+      "properties": {
+        "stop_id": "102_1",
+        "station_name": "MANNADI",
+        "zone_id": "SMA",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2853305666667,
+          13.087862625
+        ]
+      },
+      "properties": {
+        "stop_id": "103_1",
+        "station_name": "HIGH COURT",
+        "zone_id": "SHC",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2735028972222,
+          13.0700436166667
+        ]
+      },
+      "properties": {
+        "stop_id": "105_1",
+        "station_name": "GOVERNMENT ESTATE",
+        "zone_id": "SGE",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2665774111111,
+          13.0654037333333
+        ]
+      },
+      "properties": {
+        "stop_id": "106_1",
+        "station_name": "LIC",
+        "zone_id": "SLI",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2594745361111,
+          13.0593679111111
+        ]
+      },
+      "properties": {
+        "stop_id": "107_1",
+        "station_name": "THOUSAND LIGHTS",
+        "zone_id": "STL",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2485366833333,
+          13.0459403916667
+        ]
+      },
+      "properties": {
+        "stop_id": "108_1",
+        "station_name": "AG-DMS",
+        "zone_id": "SGM",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2464093694445,
+          13.03782035
+        ]
+      },
+      "properties": {
+        "stop_id": "109_1",
+        "station_name": "TEYNAMPET",
+        "zone_id": "STE",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2403598694445,
+          13.03112925
+        ]
+      },
+      "properties": {
+        "stop_id": "110_1",
+        "station_name": "NANDANAM",
+        "zone_id": "SCR",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2286365,
+          13.024027175
+        ]
+      },
+      "properties": {
+        "stop_id": "111_1",
+        "station_name": "SAIDAPET METRO",
+        "zone_id": "SSA",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2242479861111,
+          13.0145466944444
+        ]
+      },
+      "properties": {
+        "stop_id": "112_1",
+        "station_name": "LITTLE MOUNT",
+        "zone_id": "SLM",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2134394388889,
+          13.0093688305556
+        ]
+      },
+      "properties": {
+        "stop_id": "113_1",
+        "station_name": "GUINDY METRO",
+        "zone_id": "SGU",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1940575722222,
+          12.9996830055556
+        ]
+      },
+      "properties": {
+        "stop_id": "115_1",
+        "station_name": "NANGANALLUR ROAD",
+        "zone_id": "SOT",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1760309111111,
+          12.987600875
+        ]
+      },
+      "properties": {
+        "stop_id": "116_1",
+        "station_name": "MEENAMBAKKAM METRO",
+        "zone_id": "SME",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.1639009,
+          12.9815929833333
+        ]
+      },
+      "properties": {
+        "stop_id": "117_1",
+        "station_name": "AIRPORT",
+        "zone_id": "SAP",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3091013416667,
+          13.184303925
+        ]
+      },
+      "properties": {
+        "stop_id": "141_1",
+        "station_name": "WIMCO NAGAR DEPOT STATION",
+        "zone_id": "SWD",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3071405805556,
+          13.1789251944444
+        ]
+      },
+      "properties": {
+        "stop_id": "142_1",
+        "station_name": "WIMCO NAGAR METRO",
+        "zone_id": "SWN",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3055856111111,
+          13.1725447722222
+        ]
+      },
+      "properties": {
+        "stop_id": "143_1",
+        "station_name": "THIRUVOTRIYUR METRO",
+        "zone_id": "STV",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.3022176222222,
+          13.1597600722222
+        ]
+      },
+      "properties": {
+        "stop_id": "144_1",
+        "station_name": "THIRUVOTRIYUR THERADI METRO",
+        "zone_id": "STT",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2996358694444,
+          13.15090825
+        ]
+      },
+      "properties": {
+        "stop_id": "145_1",
+        "station_name": "KALADIPET METRO",
+        "zone_id": "SKP",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2960025472222,
+          13.1426624888889
+        ]
+      },
+      "properties": {
+        "stop_id": "146_1",
+        "station_name": "TOLLGATE METRO",
+        "zone_id": "STG",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2927440944444,
+          13.1340226805556
+        ]
+      },
+      "properties": {
+        "stop_id": "147_1",
+        "station_name": "NEW WASHERMENPET METRO",
+        "zone_id": "SNW",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2881719055556,
+          13.1239886805556
+        ]
+      },
+      "properties": {
+        "stop_id": "148_1",
+        "station_name": "TONDIARPET METRO",
+        "zone_id": "STR",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.284469275,
+          13.1156164194444
+        ]
+      },
+      "properties": {
+        "stop_id": "149_1",
+        "station_name": "THIYAGARAYA COLLEGE METRO",
+        "zone_id": "STC",
+        "system": "CMRL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2729075947633,
+          13.0814278369008
+        ]
+      },
+      "properties": {
+        "stop_id": "104",
+        "station_name": "PURATCHI THALAIVAR DR.M.G.RAMACHANDRAN CENTRAL METRO",
+        "zone_id": "SCC",
+        "system": "CMRL"
+      }
+    }
+  ]
+}

@@ -34,10 +34,10 @@ const HomePage = () => {
         <section className="mb-16">
           <div className="flex flex-col md:flex-row items-center md:items-start gap-8 md:gap-0">
             <div className="flex-1">
-              <h1 className="text-3xl md:text-5xl text-[#0038A8] font-bold tracking-tighter mb-4 md:mb-6 max-w-3xl">
+              <h1 className="text-3xl mt-6 md:text-5xl text-[#0038A8] font-bold tracking-tighter mb-4 md:mb-6 max-w-3xl">
                 The Open Data Backbone for Chennai’s Mobility.
               </h1>
-              <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-6 md:mb-10">
+              <p className="text-lg md:text-xl text-gray-700 max-w-2xl mb-6 mt-10 md:mb-10">
                 A unified repository for static GTFS datasets, network
                 visualizations for the Chennai Metropolitan Area.
               </p>
