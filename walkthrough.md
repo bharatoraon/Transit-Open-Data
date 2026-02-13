@@ -71,3 +71,32 @@ The code has been pushed to the repository:
 3.  **Build Command**: `npm run build`
 4.  **Output Directory**: `dist` (default for Vite)
 
+## Server Deployment (Backend)
+
+Since your backend uses Node.js and PostgreSQL, **Render** or **Railway** are the easiest free/low-cost options. Vercel is optimized for frontend/serverless and is harder to configure for a persistent Express server.
+
+### Option 1: Render (Recommended for simplicity)
+
+1.  **Create Account**: Sign up at [render.com](https://render.com).
+2.  **New Web Service**:
+    -   Connect your GitHub repo: `bharatoraon/Transit-Open-Data`
+    -   **Root Directory**: `server` (Important!)
+    -   **Build Command**: `npm install`
+    -   **Start Command**: `node index.js`
+3.  **Environment Variables**:
+    -   Add `DB_HOST`, `DB_USER`, `DB_PASSWORD`, `DB_NAME`, `DB_PORT` (You need a hosted PostgreSQL database first).
+    -   Render offers a managed PostgreSQL database you can create and link easily.
+
+### Option 2: Railway (Best Developer Experience)
+
+1.  **Create Project**: Sign up at [railway.app](https://railway.app) and create a new project.
+2.  **Add Database**: Add a **PostgreSQL** service.
+3.  **Add Service**: Connect your GitHub repo.
+    -   Set **Root Directory** to `server`.
+    -   Railway handles the rest automatically.
+4.  **Variables**: It automatically provides `DATABASE_URL` to your app. You might need to update `index.js` to use `process.env.DATABASE_URL` if you want zero-config.
+
+### Critical Next Step
+Once your backend is deployed, copy its URL (e.g., `https://transit-api.onrender.com`) and update the `VITE_API_URL` environment variable in your **Vercel** project settings. Then redeploy the frontend.
+
+
